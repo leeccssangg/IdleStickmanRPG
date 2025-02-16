@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-8834]
+  m_EditorClassIdentifier: 
+  m_NodeName: Exp
+  m_NodeLine: 5
+  m_NodeIndex: 0
+  m_NodePointRequire: 10
+  m_IconImage: {fileID: 21300000, guid: ae4d63865c8b76344bc6feab6f742689, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: EXP + 0%
+  - m_Value: 10
+    m_Description: EXP + 10%
+  - m_Value: 20
+    m_Description: EXP + 20%
+  - m_Value: 30
+    m_Description: EXP + 30%
+  - m_Value: 40
+    m_Description: EXP + 40%
+  - m_Value: 50
+    m_Description: EXP + 50%
+  - m_Value: 60
+    m_Description: EXP + 60%
+  - m_Value: 70
+    m_Description: EXP + 70%
+  - m_Value: 80
+    m_Description: EXP + 80%
+  - m_Value: 90
+    m_Description: EXP + 90%
+  - m_Value: 100
+    m_Description: EXP + 100%
+  - m_Value: 110
+    m_Description: EXP + 110%
+  - m_Value: 120
+    m_Description: EXP + 120%
+  - m_Value: 130
+    m_Description: EXP + 130%
+  - m_Value: 140
+    m_Description: EXP + 140%
+  - m_Value: 150
+    m_Description: EXP + 150%
+  - m_Value: 160
+    m_Description: EXP + 160%
+  - m_Value: 170
+    m_Description: EXP + 170%
+  - m_Value: 180
+    m_Description: EXP + 180%
+  - m_Value: 190
+    m_Description: EXP + 190%
+  - m_Value: 200
+    m_Description: EXP + 200%
+  - m_Value: 210
+    m_Description: EXP + 210%
+  - m_Value: 220
+    m_Description: EXP + 220%
+  - m_Value: 230
+    m_Description: EXP + 230%
+  - m_Value: 240
+    m_Description: EXP + 240%
+  - m_Value: 250
+    m_Description: EXP + 250%
+  m_RequireNode:
+  - {fileID: 11400000, guid: ab3932484028a5440b30e7eacdc96bb5, type: 2}
+  m_Position: {x: 2129, y: -4}
+  m_NodeType: 4

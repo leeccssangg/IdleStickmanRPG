@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 947157d8ee408614d989119454662ee3, type: 3}
+  m_Name: MineResearchNode_[-54452]
+  m_EditorClassIdentifier: 
+  m_NodeName: Recharge Axe Time
+  m_NodeLine: 6
+  m_NodeIndex: 1
+  m_IconImage: {fileID: 21300000, guid: 076addebe47866f41954dc823c4d708b, type: 3}
+  m_TalentLevelDatas:
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 40
+    m_Description: Decrease Recharge Axe Time By {0}%
+  m_RequireNode:
+  - {fileID: 11400000, guid: 7ae317ef48242674fb751da20c9ce3cc, type: 2}
+  m_NodeType: 1
+  m_Position: {x: 2975, y: 452}

@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc4f812033420664ea9ac559cff857dc, type: 3}
+  m_Name: SkillGlobalConfig
+  m_EditorClassIdentifier: 
+  configList:
+  - id: 1
+    name: name
+    rarity: 1
+    cooldownTime: 6
+    dpsRate: 30
+    dpsIncrease: 20
+    dmgRate: 1
+    description: 
+    prefabName: Skill_1
+  - id: 2
+    name: name
+    rarity: 1
+    cooldownTime: 7
+    dpsRate: 30
+    dpsIncrease: 23
+    dmgRate: 1
+    description: 
+    prefabName: Skill_2
+  - id: 3
+    name: name
+    rarity: 1
+    cooldownTime: 8
+    dpsRate: 30
+    dpsIncrease: 26
+    dmgRate: 1
+    description: 
+    prefabName: Skill_3
+  - id: 4
+    name: name
+    rarity: 1
+    cooldownTime: 5
+    dpsRate: 30
+    dpsIncrease: 17
+    dmgRate: 1
+    description: 
+    prefabName: Skill_4
+  - id: 5
+    name: name
+    rarity: 2
+    cooldownTime: 9
+    dpsRate: 60
+    dpsIncrease: 59
+    dmgRate: 1
+    description: 
+    prefabName: Skill_5
+  - id: 6
+    name: name
+    rarity: 2
+    cooldownTime: 6
+    dpsRate: 60
+    dpsIncrease: 40
+    dmgRate: 1
+    description: 
+    prefabName: Skill_6
+  - id: 7
+    name: name
+    rarity: 2
+    cooldownTime: 12
+    dpsRate: 60
+    dpsIncrease: 79
+    dmgRate: 1
+    description: 
+    prefabName: Skill_7
+  - id: 8
+    name: name
+    rarity: 2
+    cooldownTime: 10
+    dpsRate: 60
+    dpsIncrease: 66
+    dmgRate: 1
+    description: 
+    prefabName: Skill_8
+  - id: 9
+    name: name
+    rarity: 3
+    cooldownTime: 13
+    dpsRate: 130
+    dpsIncrease: 186
+    dmgRate: 0.5
+    description: 
+    prefabName: Skill_9
+  - id: 10
+    name: name
+    rarity: 3
+    cooldownTime: 14
+    dpsRate: 130
+    dpsIncrease: 200
+    dmgRate: 1
+    description: 
+    prefabName: Skill_10
+  - id: 11
+    name: name
+    rarity: 3
+    cooldownTime: 8
+    dpsRate: 130
+    dpsIncrease: 114
+    dmgRate: 1
+    description: 
+    prefabName: Skill_11
+  - id: 12
+    name: name
+    rarity: 3
+    cooldownTime: 9
+    dpsRate: 130
+    dpsIncrease: 129
+    dmgRate: 1
+    description: 
+    prefabName: Skill_12
+  - id: 13
+    name: name
+    rarity: 4
+    cooldownTime: 6
+    dpsRate: 300
+    dpsIncrease: 198
+    dmgRate: 1
+    description: 
+    prefabName: Skill_13
+  - id: 14
+    name: name
+    rarity: 4
+    cooldownTime: 11
+    dpsRate: 300
+    dpsIncrease: 363
+    dmgRate: 1
+    description: 
+    prefabName: Skill_14
+  - id: 15
+    name: name
+    rarity: 4
+    cooldownTime: 13
+    dpsRate: 300
+    dpsIncrease: 429
+    dmgRate: 1
+    description: 
+    prefabName: Skill_15
+  - id: 16
+    name: name
+    rarity: 4
+    cooldownTime: 10
+    dpsRate: 300
+    dpsIncrease: 330
+    dmgRate: 1
+    description: 
+    prefabName: Skill_16
+  - id: 17
+    name: name
+    rarity: 5
+    cooldownTime: 8
+    dpsRate: 1000
+    dpsIncrease: 880
+    dmgRate: 1
+    description: 
+    prefabName: Skill_17
+  - id: 18
+    name: name
+    rarity: 5
+    cooldownTime: 10
+    dpsRate: 1000
+    dpsIncrease: 1100
+    dmgRate: 1
+    description: 
+    prefabName: Skill_18
+  - id: 19
+    name: name
+    rarity: 5
+    cooldownTime: 13
+    dpsRate: 1000
+    dpsIncrease: 1430
+    dmgRate: 1
+    description: 
+    prefabName: Skill_19
+  - id: 20
+    name: name
+    rarity: 5
+    cooldownTime: 11
+    dpsRate: 1000
+    dpsIncrease: 1210
+    dmgRate: 1
+    description: 
+    prefabName: Skill_20
+  - id: 21
+    name: name
+    rarity: 6
+    cooldownTime: 15
+    dpsRate: 5000
+    dpsIncrease: 8250
+    dmgRate: 1
+    description: 
+    prefabName: Skill_21
+  - id: 22
+    name: name
+    rarity: 6
+    cooldownTime: 14
+    dpsRate: 5000
+    dpsIncrease: 7700
+    dmgRate: 1
+    description: 
+    prefabName: Skill_22

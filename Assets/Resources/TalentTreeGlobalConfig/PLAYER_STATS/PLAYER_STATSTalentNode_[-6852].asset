@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-6852]
+  m_EditorClassIdentifier: 
+  m_NodeName: Gold
+  m_NodeLine: 1
+  m_NodeIndex: 0
+  m_NodePointRequire: 1
+  m_IconImage: {fileID: 21300000, guid: 32ffa27ff4a8db042a987875e9016cb4, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: Gold + 0%
+  - m_Value: 1
+    m_Description: Gold + 1%
+  - m_Value: 2
+    m_Description: Gold + 2%
+  - m_Value: 3
+    m_Description: Gold + 3%
+  - m_Value: 4
+    m_Description: Gold + 4%
+  - m_Value: 5
+    m_Description: Gold + 5%
+  - m_Value: 6
+    m_Description: Gold + 6%
+  - m_Value: 7
+    m_Description: Gold + 7%
+  - m_Value: 8
+    m_Description: Gold + 8%
+  - m_Value: 9
+    m_Description: Gold + 9%
+  - m_Value: 10
+    m_Description: Gold + 10%
+  m_RequireNode:
+  - {fileID: 11400000, guid: ce133773f0586094cbb5e5d050779a05, type: 2}
+  m_Position: {x: 574, y: -4}
+  m_NodeType: 1

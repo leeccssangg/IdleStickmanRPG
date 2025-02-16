@@ -1,0 +1,3386 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e31c4c780cdbbb04183a2aa4dc29e217, type: 3}
+  m_Name: CampaignLevelConfig
+  m_EditorClassIdentifier: 
+  EnemyConfigList:
+  - enemyWorldConfig:
+    - enemyName:
+      - Enemy_P1
+      - Enemy_M1
+      - Enemy_Arc1
+      - Enemy_W1
+      - Enemy_Boss1
+  LevelConfigs:
+  - difficultyLevel: 0
+    LevelConfigList:
+    - level: Level 1
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 2
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+    - level: Level 3
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+    - level: Level 4
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+    - level: Level 5
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+    - level: Level 6
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+    - level: Level 7
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+    - level: Level 8
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+    - level: Level 9
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 10
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+  - difficultyLevel: 1
+    LevelConfigList:
+    - level: Level 1
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+    - level: Level 2
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+    - level: Level 3
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 4
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 5
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+    - level: Level 6
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+    - level: Level 7
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 8
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+    - level: Level 9
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 10
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+  - difficultyLevel: 2
+    LevelConfigList:
+    - level: Level 1
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+    - level: Level 2
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+    - level: Level 3
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+    - level: Level 4
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+    - level: Level 5
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+    - level: Level 6
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+    - level: Level 7
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+    - level: Level 8
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+    - level: Level 9
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+    - level: Level 10
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+  - difficultyLevel: 3
+    LevelConfigList:
+    - level: Level 1
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+    - level: Level 2
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+    - level: Level 3
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+    - level: Level 4
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+    - level: Level 5
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+    - level: Level 6
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 7
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 8
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+    - level: Level 9
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+    - level: Level 10
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+  - difficultyLevel: 4
+    LevelConfigList:
+    - level: Level 1
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+    - level: Level 2
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+    - level: Level 3
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+    - level: Level 4
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+    - level: Level 5
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+    - level: Level 6
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+    - level: Level 7
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+    - level: Level 8
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+    - level: Level 9
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+    - level: Level 10
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+  - difficultyLevel: 5
+    LevelConfigList:
+    - level: Level 1
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+    - level: Level 2
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+    - level: Level 3
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+    - level: Level 4
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 5
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+    - level: Level 6
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+    - level: Level 7
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 8
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 9
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+    - level: Level 10
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+  - difficultyLevel: 6
+    LevelConfigList:
+    - level: Level 1
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+    - level: Level 2
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+    - level: Level 3
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+    - level: Level 4
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+    - level: Level 5
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+    - level: Level 6
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+    - level: Level 7
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+    - level: Level 8
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+    - level: Level 9
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+    - level: Level 10
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+  - difficultyLevel: 7
+    LevelConfigList:
+    - level: Level 1
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+    - level: Level 2
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+    - level: Level 3
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+    - level: Level 4
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+    - level: Level 5
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+    - level: Level 6
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+    - level: Level 7
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+    - level: Level 8
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+    - level: Level 9
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 10
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+  - difficultyLevel: 8
+    LevelConfigList:
+    - level: Level 1
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+    - level: Level 2
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 3
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+    - level: Level 4
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_W1
+    - level: Level 5
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+    - level: Level 6
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+    - level: Level 7
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_P1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_W1
+    - level: Level 8
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+    - level: Level 9
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_P1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_P1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_P1
+        - Enemy_W1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_Arc1
+        - Enemy_W1
+    - level: Level 10
+      StageConfig:
+      - stage: Stage 1
+        enemyList:
+        - Enemy_W1
+        - Enemy_Arc1
+      - stage: Stage 2
+        enemyList:
+        - Enemy_M1
+      - stage: Stage 3
+        enemyList:
+        - Enemy_M1
+        - Enemy_Arc1
+      - stage: Stage 4
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 5
+        enemyList:
+        - Enemy_W1
+      - stage: Stage 6
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 7
+        enemyList:
+        - Enemy_P1
+        - Enemy_M1
+      - stage: Stage 8
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 9
+        enemyList:
+        - Enemy_Arc1
+      - stage: Stage 10
+        enemyList:
+        - Enemy_P1
+        - Enemy_Arc1

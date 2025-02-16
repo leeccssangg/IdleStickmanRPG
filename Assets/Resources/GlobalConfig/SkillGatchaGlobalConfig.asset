@@ -1,0 +1,267 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5979ce4f26d4474fb8d5d47880c376d, type: 3}
+  m_Name: SkillGatchaGlobalConfig
+  m_EditorClassIdentifier: 
+  numBox1: 10
+  numBox2: 30
+  levelConfig:
+  - level: 1
+    upgradeNeeded: 20
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 100
+        m_Percentage: 100
+      - m_Object: 2
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 3
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 4
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 5
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 6
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 7
+        m_Chance: 0
+        m_Percentage: 0
+  - level: 2
+    upgradeNeeded: 30
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 75
+        m_Percentage: 75
+      - m_Object: 2
+        m_Chance: 25
+        m_Percentage: 25
+      - m_Object: 3
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 4
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 5
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 6
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 7
+        m_Chance: 0
+        m_Percentage: 0
+  - level: 3
+    upgradeNeeded: 40
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 47
+        m_Percentage: 47
+      - m_Object: 2
+        m_Chance: 43
+        m_Percentage: 43
+      - m_Object: 3
+        m_Chance: 10
+        m_Percentage: 10
+      - m_Object: 4
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 5
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 6
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 7
+        m_Chance: 0
+        m_Percentage: 0
+  - level: 4
+    upgradeNeeded: 50
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 19
+        m_Percentage: 19
+      - m_Object: 2
+        m_Chance: 56
+        m_Percentage: 56
+      - m_Object: 3
+        m_Chance: 23
+        m_Percentage: 23
+      - m_Object: 4
+        m_Chance: 2
+        m_Percentage: 2
+      - m_Object: 5
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 6
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 7
+        m_Chance: 0
+        m_Percentage: 0
+  - level: 5
+    upgradeNeeded: 60
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 2024
+        m_Percentage: 20.24
+      - m_Object: 2
+        m_Chance: 4500
+        m_Percentage: 45
+      - m_Object: 3
+        m_Chance: 2870
+        m_Percentage: 28.7
+      - m_Object: 4
+        m_Chance: 600
+        m_Percentage: 6
+      - m_Object: 5
+        m_Chance: 6
+        m_Percentage: 0.06
+      - m_Object: 6
+        m_Chance: 0
+        m_Percentage: 0
+      - m_Object: 7
+        m_Chance: 0
+        m_Percentage: 0
+  - level: 6
+    upgradeNeeded: 70
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 1989
+        m_Percentage: 19.89
+      - m_Object: 2
+        m_Chance: 3100
+        m_Percentage: 31
+      - m_Object: 3
+        m_Chance: 3700
+        m_Percentage: 37
+      - m_Object: 4
+        m_Chance: 1200
+        m_Percentage: 12
+      - m_Object: 5
+        m_Chance: 9
+        m_Percentage: 0.09
+      - m_Object: 6
+        m_Chance: 2
+        m_Percentage: 0.02
+      - m_Object: 7
+        m_Chance: 0
+        m_Percentage: 0
+  - level: 7
+    upgradeNeeded: 80
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 198399
+        m_Percentage: 19.8399
+      - m_Object: 2
+        m_Chance: 220000
+        m_Percentage: 22
+      - m_Object: 3
+        m_Chance: 340000
+        m_Percentage: 34
+      - m_Object: 4
+        m_Chance: 240000
+        m_Percentage: 24
+      - m_Object: 5
+        m_Chance: 1200
+        m_Percentage: 0.12
+      - m_Object: 6
+        m_Chance: 400
+        m_Percentage: 0.04
+      - m_Object: 7
+        m_Chance: 1
+        m_Percentage: 0.0001
+  - level: 8
+    upgradeNeeded: 90
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 76795
+        m_Percentage: 7.6795
+      - m_Object: 2
+        m_Chance: 180000
+        m_Percentage: 18
+      - m_Object: 3
+        m_Chance: 290000
+        m_Percentage: 29
+      - m_Object: 4
+        m_Chance: 450000
+        m_Percentage: 45
+      - m_Object: 5
+        m_Chance: 2400
+        m_Percentage: 0.24
+      - m_Object: 6
+        m_Chance: 800
+        m_Percentage: 0.08
+      - m_Object: 7
+        m_Chance: 5
+        m_Percentage: 0.0005
+  - level: 9
+    upgradeNeeded: 100
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 73580
+        m_Percentage: 7.358
+      - m_Object: 2
+        m_Chance: 100000
+        m_Percentage: 10
+      - m_Object: 3
+        m_Chance: 220000
+        m_Percentage: 22
+      - m_Object: 4
+        m_Chance: 600000
+        m_Percentage: 60
+      - m_Object: 5
+        m_Chance: 4800
+        m_Percentage: 0.48
+      - m_Object: 6
+        m_Chance: 1600
+        m_Percentage: 0.16
+      - m_Object: 7
+        m_Chance: 20
+        m_Percentage: 0.002
+  - level: 10
+    upgradeNeeded: 110
+    rarityConfig:
+      m_ProbabilityValueList:
+      - m_Object: 1
+        m_Chance: 92100
+        m_Percentage: 9.21
+      - m_Object: 2
+        m_Chance: 95000
+        m_Percentage: 9.5
+      - m_Object: 3
+        m_Chance: 100000
+        m_Percentage: 10
+      - m_Object: 4
+        m_Chance: 700000
+        m_Percentage: 70
+      - m_Object: 5
+        m_Chance: 9600
+        m_Percentage: 0.96
+      - m_Object: 6
+        m_Chance: 3200
+        m_Percentage: 0.32
+      - m_Object: 7
+        m_Chance: 100
+        m_Percentage: 0.01

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-6972]
+  m_EditorClassIdentifier: 
+  m_NodeName: HP
+  m_NodeLine: 1
+  m_NodeIndex: 1
+  m_NodePointRequire: 1
+  m_IconImage: {fileID: 21300000, guid: e7cc33c499d3dcd42945bb1e877f2e7f, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: HP + 0%
+  - m_Value: 5
+    m_Description: HP + 5%
+  - m_Value: 10
+    m_Description: HP + 10%
+  - m_Value: 15
+    m_Description: HP + 15%
+  - m_Value: 20
+    m_Description: HP + 20%
+  - m_Value: 25
+    m_Description: HP + 25%
+  - m_Value: 30
+    m_Description: HP + 30%
+  - m_Value: 35
+    m_Description: HP + 35%
+  - m_Value: 40
+    m_Description: HP + 40%
+  - m_Value: 45
+    m_Description: HP + 45%
+  - m_Value: 50
+    m_Description: HP + 50%
+  m_RequireNode:
+  - {fileID: 11400000, guid: ce133773f0586094cbb5e5d050779a05, type: 2}
+  m_Position: {x: 574, y: 253}
+  m_NodeType: 2

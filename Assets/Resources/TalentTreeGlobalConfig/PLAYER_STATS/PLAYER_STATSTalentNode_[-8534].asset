@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-8534]
+  m_EditorClassIdentifier: 
+  m_NodeName: Evasion
+  m_NodeLine: 4
+  m_NodeIndex: 1
+  m_NodePointRequire: 5
+  m_IconImage: {fileID: 21300000, guid: 43f4727b01c5bd24eb42847d70e8377c, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: Evasion + 0%
+  - m_Value: 1
+    m_Description: Evasion + 1%
+  - m_Value: 2
+    m_Description: Evasion + 2%
+  - m_Value: 3
+    m_Description: Evasion + 3%
+  - m_Value: 4
+    m_Description: Evasion + 4%
+  - m_Value: 5
+    m_Description: Evasion + 5%
+  - m_Value: 6
+    m_Description: Evasion + 6%
+  - m_Value: 7
+    m_Description: Evasion + 7%
+  - m_Value: 8
+    m_Description: Evasion + 8%
+  - m_Value: 9
+    m_Description: Evasion + 9%
+  - m_Value: 10
+    m_Description: Evasion + 10%
+  m_RequireNode:
+  - {fileID: 11400000, guid: 4614725d0b818144cb6ad02bcef547bb, type: 2}
+  m_Position: {x: 1748, y: 253}
+  m_NodeType: 7

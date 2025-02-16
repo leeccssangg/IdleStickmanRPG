@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 947157d8ee408614d989119454662ee3, type: 3}
+  m_Name: MineResearchNode_[-57994]
+  m_EditorClassIdentifier: 
+  m_NodeName: HP
+  m_NodeLine: 10
+  m_NodeIndex: 0
+  m_IconImage: {fileID: 21300000, guid: e7cc33c499d3dcd42945bb1e877f2e7f, type: 3}
+  m_TalentLevelDatas:
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 1600
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 2400
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 3200
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 4000
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 4800
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 5600
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 6400
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 7200
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 8000
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 8800
+    m_Description: Increase HP by {0}%
+  m_RequireNode:
+  - {fileID: 11400000, guid: 3da7723038d764a4eb55814b79c6185a, type: 2}
+  m_NodeType: 2
+  m_Position: {x: 4621, y: 774}

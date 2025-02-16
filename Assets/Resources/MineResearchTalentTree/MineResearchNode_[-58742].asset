@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 947157d8ee408614d989119454662ee3, type: 3}
+  m_Name: MineResearchNode_[-58742]
+  m_EditorClassIdentifier: 
+  m_NodeName: HP
+  m_NodeLine: 11
+  m_NodeIndex: 0
+  m_IconImage: {fileID: 21300000, guid: e7cc33c499d3dcd42945bb1e877f2e7f, type: 3}
+  m_TalentLevelDatas:
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 3200
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 4800
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 6400
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 8000
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 9600
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 11200
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 12800
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 14400
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 16000
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 17600
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 19200
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 20800
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 22400
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 24000
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 25600
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 27200
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 28800
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 30400
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 32000
+    m_Description: Increase HP by {0}%
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 33600
+    m_Description: Increase HP by {0}%
+  m_RequireNode:
+  - {fileID: 11400000, guid: 323bca64f09701b4183470a661b68bd8, type: 2}
+  m_NodeType: 2
+  m_Position: {x: 5001, y: 774}

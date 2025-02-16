@@ -1,0 +1,1359 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90884675aee369b47be8360f530e610a, type: 3}
+  m_Name: StickmanGlobalConfig
+  m_EditorClassIdentifier: 
+  configList:
+  - id: 1
+    name: Warrior 1
+    rarity: 1
+    race: 1
+    classType: 1
+    platform: 1
+    attack:
+      v: 155
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.8
+    prefabName: Warrior_Human
+  - id: 2
+    name: Warrior 2
+    rarity: 1
+    race: 2
+    classType: 1
+    platform: 1
+    attack:
+      v: 170
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.85
+    prefabName: Warrior_Demon
+  - id: 3
+    name: Warrior 3
+    rarity: 1
+    race: 3
+    classType: 1
+    platform: 1
+    attack:
+      v: 135
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.7
+    prefabName: Warrior_Elf
+  - id: 4
+    name: Warrior 4
+    rarity: 1
+    race: 4
+    classType: 1
+    platform: 1
+    attack:
+      v: 200
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.95
+    prefabName: Warrior_Orc
+  - id: 5
+    name: Warrior 5
+    rarity: 2
+    race: 1
+    classType: 1
+    platform: 1
+    attack:
+      v: 233
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.8
+    prefabName: Warrior_Human
+  - id: 6
+    name: Warrior 6
+    rarity: 2
+    race: 2
+    classType: 1
+    platform: 1
+    attack:
+      v: 255
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.85
+    prefabName: Warrior_Demon
+  - id: 7
+    name: Warrior 7
+    rarity: 2
+    race: 3
+    classType: 1
+    platform: 1
+    attack:
+      v: 203
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.7
+    prefabName: Warrior_Elf
+  - id: 8
+    name: Warrior 8
+    rarity: 2
+    race: 4
+    classType: 1
+    platform: 1
+    attack:
+      v: 300
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.9
+    prefabName: Warrior_Orc
+  - id: 9
+    name: Warrior 9
+    rarity: 3
+    race: 1
+    classType: 1
+    platform: 1
+    attack:
+      v: 350
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.8
+    prefabName: Warrior_Human
+  - id: 10
+    name: Warrior 10
+    rarity: 3
+    race: 2
+    classType: 1
+    platform: 1
+    attack:
+      v: 383
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.85
+    prefabName: Warrior_Demon
+  - id: 11
+    name: Warrior 11
+    rarity: 3
+    race: 3
+    classType: 1
+    platform: 1
+    attack:
+      v: 305
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.7
+    prefabName: Warrior_Elf
+  - id: 12
+    name: Warrior 12
+    rarity: 3
+    race: 4
+    classType: 1
+    platform: 1
+    attack:
+      v: 450
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.9
+    prefabName: Warrior_Orc
+  - id: 13
+    name: Warrior 13
+    rarity: 4
+    race: 1
+    classType: 1
+    platform: 1
+    attack:
+      v: 525
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.8
+    prefabName: Warrior_Human
+  - id: 14
+    name: Warrior 14
+    rarity: 4
+    race: 2
+    classType: 1
+    platform: 1
+    attack:
+      v: 575
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.85
+    prefabName: Warrior_Demon
+  - id: 15
+    name: Warrior 15
+    rarity: 4
+    race: 3
+    classType: 1
+    platform: 1
+    attack:
+      v: 458
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.7
+    prefabName: Warrior_Elf
+  - id: 16
+    name: Warrior 16
+    rarity: 4
+    race: 4
+    classType: 1
+    platform: 1
+    attack:
+      v: 675
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.9
+    prefabName: Warrior_Orc
+  - id: 17
+    name: Warrior 17
+    rarity: 5
+    race: 1
+    classType: 1
+    platform: 1
+    attack:
+      v: 788
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.8
+    prefabName: Warrior_Human
+  - id: 18
+    name: Warrior 18
+    rarity: 5
+    race: 2
+    classType: 1
+    platform: 1
+    attack:
+      v: 863
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.85
+    prefabName: Warrior_Demon
+  - id: 19
+    name: Warrior 19
+    rarity: 5
+    race: 3
+    classType: 1
+    platform: 1
+    attack:
+      v: 687
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.7
+    prefabName: Warrior_Elf
+  - id: 20
+    name: Warrior 20
+    rarity: 5
+    race: 4
+    classType: 1
+    platform: 1
+    attack:
+      v: 1013
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.9
+    prefabName: Warrior_Orc
+  - id: 21
+    name: Warrior 21
+    rarity: 6
+    race: 1
+    classType: 1
+    platform: 1
+    attack:
+      v: 1182
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.8
+    prefabName: Warrior_Human
+  - id: 22
+    name: Warrior 22
+    rarity: 6
+    race: 2
+    classType: 1
+    platform: 1
+    attack:
+      v: 1295
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.85
+    prefabName: Warrior_Demon
+  - id: 23
+    name: Warrior 23
+    rarity: 6
+    race: 3
+    classType: 1
+    platform: 1
+    attack:
+      v: 1031
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.7
+    prefabName: Warrior_Elf
+  - id: 24
+    name: Warrior 24
+    rarity: 6
+    race: 4
+    classType: 1
+    platform: 1
+    attack:
+      v: 1520
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.9
+    prefabName: Warrior_Orc
+  - id: 25
+    name: Warrior 25
+    rarity: 7
+    race: 1
+    classType: 1
+    platform: 1
+    attack:
+      v: 1773
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.8
+    prefabName: Warrior_Human
+  - id: 26
+    name: Warrior 26
+    rarity: 7
+    race: 2
+    classType: 1
+    platform: 1
+    attack:
+      v: 1943
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.85
+    prefabName: Warrior_Demon
+  - id: 27
+    name: Warrior 27
+    rarity: 7
+    race: 3
+    classType: 1
+    platform: 1
+    attack:
+      v: 1547
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.7
+    prefabName: Warrior_Elf
+  - id: 28
+    name: Warrior 28
+    rarity: 7
+    race: 4
+    classType: 1
+    platform: 1
+    attack:
+      v: 2280
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.9
+    prefabName: Warrior_Orc
+  - id: 29
+    name: Archer 1
+    rarity: 1
+    race: 1
+    classType: 2
+    platform: 1
+    attack:
+      v: 95
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Archer_Human
+  - id: 30
+    name: Archer 2
+    rarity: 1
+    race: 2
+    classType: 2
+    platform: 1
+    attack:
+      v: 110
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.55
+    prefabName: Archer_Demon
+  - id: 31
+    name: Archer 3
+    rarity: 1
+    race: 3
+    classType: 2
+    platform: 1
+    attack:
+      v: 70
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.38
+    prefabName: Archer_Elf
+  - id: 32
+    name: Archer 4
+    rarity: 1
+    race: 4
+    classType: 2
+    platform: 1
+    attack:
+      v: 135
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.6
+    prefabName: Archer_Orc
+  - id: 33
+    name: Archer 5
+    rarity: 2
+    race: 1
+    classType: 2
+    platform: 1
+    attack:
+      v: 143
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Archer_Human
+  - id: 34
+    name: Archer 6
+    rarity: 2
+    race: 2
+    classType: 2
+    platform: 1
+    attack:
+      v: 165
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.55
+    prefabName: Archer_Demon
+  - id: 35
+    name: Archer 7
+    rarity: 2
+    race: 3
+    classType: 2
+    platform: 1
+    attack:
+      v: 105
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.38
+    prefabName: Archer_Elf
+  - id: 36
+    name: Archer 8
+    rarity: 2
+    race: 4
+    classType: 2
+    platform: 1
+    attack:
+      v: 203
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.6
+    prefabName: Archer_Orc
+  - id: 37
+    name: Archer 9
+    rarity: 3
+    race: 1
+    classType: 2
+    platform: 1
+    attack:
+      v: 215
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Archer_Human
+  - id: 38
+    name: Archer 10
+    rarity: 3
+    race: 2
+    classType: 2
+    platform: 1
+    attack:
+      v: 248
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.55
+    prefabName: Archer_Demon
+  - id: 39
+    name: Archer 11
+    rarity: 3
+    race: 3
+    classType: 2
+    platform: 1
+    attack:
+      v: 158
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.38
+    prefabName: Archer_Elf
+  - id: 40
+    name: Archer 12
+    rarity: 3
+    race: 4
+    classType: 2
+    platform: 1
+    attack:
+      v: 305
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.6
+    prefabName: Archer_Orc
+  - id: 41
+    name: Archer 13
+    rarity: 4
+    race: 1
+    classType: 2
+    platform: 1
+    attack:
+      v: 323
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Archer_Human
+  - id: 42
+    name: Archer 14
+    rarity: 4
+    race: 2
+    classType: 2
+    platform: 1
+    attack:
+      v: 372
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.55
+    prefabName: Archer_Demon
+  - id: 43
+    name: Archer 15
+    rarity: 4
+    race: 3
+    classType: 2
+    platform: 1
+    attack:
+      v: 237
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.38
+    prefabName: Archer_Elf
+  - id: 44
+    name: Archer 16
+    rarity: 4
+    race: 4
+    classType: 2
+    platform: 1
+    attack:
+      v: 458
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.6
+    prefabName: Archer_Orc
+  - id: 45
+    name: Archer 17
+    rarity: 5
+    race: 1
+    classType: 2
+    platform: 1
+    attack:
+      v: 485
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Archer_Human
+  - id: 46
+    name: Archer 18
+    rarity: 5
+    race: 2
+    classType: 2
+    platform: 1
+    attack:
+      v: 558
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.55
+    prefabName: Archer_Demon
+  - id: 47
+    name: Archer 19
+    rarity: 5
+    race: 3
+    classType: 2
+    platform: 1
+    attack:
+      v: 356
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.38
+    prefabName: Archer_Elf
+  - id: 48
+    name: Archer 20
+    rarity: 5
+    race: 4
+    classType: 2
+    platform: 1
+    attack:
+      v: 687
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.6
+    prefabName: Archer_Orc
+  - id: 49
+    name: Archer 21
+    rarity: 6
+    race: 1
+    classType: 2
+    platform: 1
+    attack:
+      v: 728
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Archer_Human
+  - id: 50
+    name: Archer 22
+    rarity: 6
+    race: 2
+    classType: 2
+    platform: 1
+    attack:
+      v: 837
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.55
+    prefabName: Archer_Demon
+  - id: 51
+    name: Archer 23
+    rarity: 6
+    race: 3
+    classType: 2
+    platform: 1
+    attack:
+      v: 534
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.38
+    prefabName: Archer_Elf
+  - id: 52
+    name: Archer 24
+    rarity: 6
+    race: 4
+    classType: 2
+    platform: 1
+    attack:
+      v: 1031
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.6
+    prefabName: Archer_Orc
+  - id: 53
+    name: Archer 25
+    rarity: 7
+    race: 1
+    classType: 2
+    platform: 1
+    attack:
+      v: 1092
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Archer_Human
+  - id: 54
+    name: Archer 26
+    rarity: 7
+    race: 2
+    classType: 2
+    platform: 1
+    attack:
+      v: 1256
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.55
+    prefabName: Archer_Demon
+  - id: 55
+    name: Archer 27
+    rarity: 7
+    race: 3
+    classType: 2
+    platform: 1
+    attack:
+      v: 801
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.38
+    prefabName: Archer_Elf
+  - id: 56
+    name: Archer 28
+    rarity: 7
+    race: 4
+    classType: 2
+    platform: 1
+    attack:
+      v: 1547
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.6
+    prefabName: Archer_Orc
+  - id: 57
+    name: Mage 1
+    rarity: 1
+    race: 1
+    classType: 3
+    platform: 1
+    attack:
+      v: 200
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.9
+    prefabName: Mage_Human
+  - id: 58
+    name: Mage 2
+    rarity: 1
+    race: 2
+    classType: 3
+    platform: 1
+    attack:
+      v: 220
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.95
+    prefabName: Mage_Demon
+  - id: 59
+    name: Mage 3
+    rarity: 1
+    race: 3
+    classType: 3
+    platform: 1
+    attack:
+      v: 180
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.8
+    prefabName: Mage_Elf
+  - id: 60
+    name: Mage 4
+    rarity: 1
+    race: 4
+    classType: 3
+    platform: 1
+    attack:
+      v: 230
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 1
+    prefabName: Mage_Orc
+  - id: 61
+    name: Mage 5
+    rarity: 2
+    race: 1
+    classType: 3
+    platform: 1
+    attack:
+      v: 300
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Human
+  - id: 62
+    name: Mage 6
+    rarity: 2
+    race: 2
+    classType: 3
+    platform: 1
+    attack:
+      v: 330
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Demon
+  - id: 63
+    name: Mage 7
+    rarity: 2
+    race: 3
+    classType: 3
+    platform: 1
+    attack:
+      v: 270
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Elf
+  - id: 64
+    name: Mage 8
+    rarity: 2
+    race: 4
+    classType: 3
+    platform: 1
+    attack:
+      v: 345
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Orc
+  - id: 65
+    name: Mage 9
+    rarity: 3
+    race: 1
+    classType: 3
+    platform: 1
+    attack:
+      v: 450
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Human
+  - id: 66
+    name: Mage 10
+    rarity: 3
+    race: 2
+    classType: 3
+    platform: 1
+    attack:
+      v: 495
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Demon
+  - id: 67
+    name: Mage 11
+    rarity: 3
+    race: 3
+    classType: 3
+    platform: 1
+    attack:
+      v: 405
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Elf
+  - id: 68
+    name: Mage 12
+    rarity: 3
+    race: 4
+    classType: 3
+    platform: 1
+    attack:
+      v: 518
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Orc
+  - id: 69
+    name: Mage 13
+    rarity: 4
+    race: 1
+    classType: 3
+    platform: 1
+    attack:
+      v: 675
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Human
+  - id: 70
+    name: Mage 14
+    rarity: 4
+    race: 2
+    classType: 3
+    platform: 1
+    attack:
+      v: 743
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Demon
+  - id: 71
+    name: Mage 15
+    rarity: 4
+    race: 3
+    classType: 3
+    platform: 1
+    attack:
+      v: 608
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Elf
+  - id: 72
+    name: Mage 16
+    rarity: 4
+    race: 4
+    classType: 3
+    platform: 1
+    attack:
+      v: 777
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Orc
+  - id: 73
+    name: Mage 17
+    rarity: 5
+    race: 1
+    classType: 3
+    platform: 1
+    attack:
+      v: 1013
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Human
+  - id: 74
+    name: Mage 18
+    rarity: 5
+    race: 2
+    classType: 3
+    platform: 1
+    attack:
+      v: 1115
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Demon
+  - id: 75
+    name: Mage 19
+    rarity: 5
+    race: 3
+    classType: 3
+    platform: 1
+    attack:
+      v: 912
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Elf
+  - id: 76
+    name: Mage 20
+    rarity: 5
+    race: 4
+    classType: 3
+    platform: 1
+    attack:
+      v: 1166
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Orc
+  - id: 77
+    name: Mage 21
+    rarity: 6
+    race: 1
+    classType: 3
+    platform: 1
+    attack:
+      v: 1520
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Human
+  - id: 78
+    name: Mage 22
+    rarity: 6
+    race: 2
+    classType: 3
+    platform: 1
+    attack:
+      v: 1673
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Demon
+  - id: 79
+    name: Mage 23
+    rarity: 6
+    race: 3
+    classType: 3
+    platform: 1
+    attack:
+      v: 1368
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Elf
+  - id: 80
+    name: Mage 24
+    rarity: 6
+    race: 4
+    classType: 3
+    platform: 1
+    attack:
+      v: 1749
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Orc
+  - id: 81
+    name: Mage 25
+    rarity: 7
+    race: 1
+    classType: 3
+    platform: 1
+    attack:
+      v: 2280
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Human
+  - id: 82
+    name: Mage 26
+    rarity: 7
+    race: 2
+    classType: 3
+    platform: 1
+    attack:
+      v: 2510
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Demon
+  - id: 83
+    name: Mage 27
+    rarity: 7
+    race: 3
+    classType: 3
+    platform: 1
+    attack:
+      v: 2052
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Elf
+  - id: 84
+    name: Mage 28
+    rarity: 7
+    race: 4
+    classType: 3
+    platform: 1
+    attack:
+      v: 2624
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Mage_Orc
+  - id: 85
+    name: Priest 1
+    rarity: 1
+    race: 1
+    classType: 4
+    platform: 2
+    attack:
+      v: 215
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 1
+    prefabName: Priest_Human
+  - id: 86
+    name: Priest 2
+    rarity: 1
+    race: 2
+    classType: 4
+    platform: 2
+    attack:
+      v: 235
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 1.1
+    prefabName: Priest_Demon
+  - id: 87
+    name: Priest 3
+    rarity: 1
+    race: 3
+    classType: 4
+    platform: 2
+    attack:
+      v: 200
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.95
+    prefabName: Priest_Elf
+  - id: 88
+    name: Priest 4
+    rarity: 1
+    race: 4
+    classType: 4
+    platform: 2
+    attack:
+      v: 260
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 1.15
+    prefabName: Priest_Orc
+  - id: 89
+    name: Priest 5
+    rarity: 2
+    race: 1
+    classType: 4
+    platform: 2
+    attack:
+      v: 323
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Human
+  - id: 90
+    name: Priest 6
+    rarity: 2
+    race: 2
+    classType: 4
+    platform: 2
+    attack:
+      v: 353
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Demon
+  - id: 91
+    name: Priest 7
+    rarity: 2
+    race: 3
+    classType: 4
+    platform: 2
+    attack:
+      v: 300
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Elf
+  - id: 92
+    name: Priest 8
+    rarity: 2
+    race: 4
+    classType: 4
+    platform: 2
+    attack:
+      v: 390
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Orc
+  - id: 93
+    name: Priest 9
+    rarity: 3
+    race: 1
+    classType: 4
+    platform: 2
+    attack:
+      v: 485
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Human
+  - id: 94
+    name: Priest 10
+    rarity: 3
+    race: 2
+    classType: 4
+    platform: 2
+    attack:
+      v: 530
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Demon
+  - id: 95
+    name: Priest 11
+    rarity: 3
+    race: 3
+    classType: 4
+    platform: 2
+    attack:
+      v: 450
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Elf
+  - id: 96
+    name: Priest 12
+    rarity: 3
+    race: 4
+    classType: 4
+    platform: 2
+    attack:
+      v: 585
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Orc
+  - id: 97
+    name: Priest 13
+    rarity: 4
+    race: 1
+    classType: 4
+    platform: 2
+    attack:
+      v: 728
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Human
+  - id: 98
+    name: Priest 14
+    rarity: 4
+    race: 2
+    classType: 4
+    platform: 2
+    attack:
+      v: 795
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Demon
+  - id: 99
+    name: Priest 15
+    rarity: 4
+    race: 3
+    classType: 4
+    platform: 2
+    attack:
+      v: 675
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Elf
+  - id: 100
+    name: Priest 16
+    rarity: 4
+    race: 4
+    classType: 4
+    platform: 2
+    attack:
+      v: 878
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Orc
+  - id: 101
+    name: Priest 17
+    rarity: 5
+    race: 1
+    classType: 4
+    platform: 2
+    attack:
+      v: 1092
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Human
+  - id: 102
+    name: Priest 18
+    rarity: 5
+    race: 2
+    classType: 4
+    platform: 2
+    attack:
+      v: 1193
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Demon
+  - id: 103
+    name: Priest 19
+    rarity: 5
+    race: 3
+    classType: 4
+    platform: 2
+    attack:
+      v: 1013
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Elf
+  - id: 104
+    name: Priest 20
+    rarity: 5
+    race: 4
+    classType: 4
+    platform: 2
+    attack:
+      v: 1317
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Orc
+  - id: 105
+    name: Priest 21
+    rarity: 6
+    race: 1
+    classType: 4
+    platform: 2
+    attack:
+      v: 1638
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Human
+  - id: 106
+    name: Priest 22
+    rarity: 6
+    race: 2
+    classType: 4
+    platform: 2
+    attack:
+      v: 1790
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Demon
+  - id: 107
+    name: Priest 23
+    rarity: 6
+    race: 3
+    classType: 4
+    platform: 2
+    attack:
+      v: 1520
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Elf
+  - id: 108
+    name: Priest 24
+    rarity: 6
+    race: 4
+    classType: 4
+    platform: 2
+    attack:
+      v: 1976
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Orc
+  - id: 109
+    name: Priest 25
+    rarity: 7
+    race: 1
+    classType: 4
+    platform: 2
+    attack:
+      v: 2457
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Human
+  - id: 110
+    name: Priest 26
+    rarity: 7
+    race: 2
+    classType: 4
+    platform: 2
+    attack:
+      v: 2685
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Demon
+  - id: 111
+    name: Priest 27
+    rarity: 7
+    race: 3
+    classType: 4
+    platform: 2
+    attack:
+      v: 2280
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Elf
+  - id: 112
+    name: Priest 28
+    rarity: 7
+    race: 4
+    classType: 4
+    platform: 2
+    attack:
+      v: 2964
+      m: 0
+    increaseAttack: 5
+    attackSpeed: 0.5
+    prefabName: Priest_Orc

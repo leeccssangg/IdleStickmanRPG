@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 583eb3899b5732a419fdcd80b0d7c1f0, type: 3}
+  m_Name: ArtifactsGlobalConfig
+  m_EditorClassIdentifier: 
+  configs:
+  - artifactId: 1
+    slotId: 1
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 5
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 40
+      increaseStat: 40
+    - buffType: 3
+      baseStat: 40
+      increaseStat: 40
+    baseCost: 1000
+    description: If have Demon, auto use skill 1 each {0}s
+  - artifactId: 2
+    slotId: 1
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 5
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 40
+      increaseStat: 40
+    - buffType: 3
+      baseStat: 40
+      increaseStat: 40
+    baseCost: 1000
+    description: If have Human, auto use skill 2 each {0}s
+  - artifactId: 3
+    slotId: 1
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 5
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 40
+      increaseStat: 40
+    - buffType: 3
+      baseStat: 40
+      increaseStat: 40
+    baseCost: 1000
+    description: If have Orc, auto use skill 3 each {0}s
+  - artifactId: 4
+    slotId: 1
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 5
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 40
+      increaseStat: 40
+    - buffType: 3
+      baseStat: 40
+      increaseStat: 40
+    baseCost: 1000
+    description: If have Elf, auto use skill 4 each {0}s
+  - artifactId: 5
+    slotId: 2
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 5
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 60
+      increaseStat: 60
+    - buffType: 3
+      baseStat: 60
+      increaseStat: 60
+    baseCost: 2000
+    description: If have 2 Mages, auto use skill 5 each {0}s
+  - artifactId: 6
+    slotId: 2
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 2
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 60
+      increaseStat: 60
+    - buffType: 3
+      baseStat: 60
+      increaseStat: 60
+    baseCost: 2000
+    description: If have 2 Archers, auto use skill 6 each {0}s
+  - artifactId: 7
+    slotId: 2
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 5
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 60
+      increaseStat: 60
+    - buffType: 3
+      baseStat: 60
+      increaseStat: 60
+    baseCost: 2000
+    description: If have 2 Priests, auto use skill 7 each {0}s
+  - artifactId: 8
+    slotId: 2
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 2
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 60
+      increaseStat: 60
+    - buffType: 3
+      baseStat: 60
+      increaseStat: 60
+    baseCost: 2000
+    description: If have 2 Warriors, auto use skill 8 each {0}s
+  - artifactId: 9
+    slotId: 3
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 20
+      increaseStat: 10
+    - buffType: 2
+      baseStat: 90
+      increaseStat: 90
+    - buffType: 3
+      baseStat: 90
+      increaseStat: 90
+    baseCost: 3000
+    description: Skill 1 and 8 increase damage {0}%
+  - artifactId: 10
+    slotId: 3
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 11
+      increaseStat: 10
+    - buffType: 2
+      baseStat: 90
+      increaseStat: 90
+    - buffType: 3
+      baseStat: 90
+      increaseStat: 90
+    baseCost: 3000
+    description: Skill 2 and 5 increase damage {0}%
+  - artifactId: 11
+    slotId: 3
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 10
+      increaseStat: 10
+    - buffType: 2
+      baseStat: 90
+      increaseStat: 90
+    - buffType: 3
+      baseStat: 90
+      increaseStat: 90
+    baseCost: 3000
+    description: Skill 3 and 7 increase damage {0}%
+  - artifactId: 12
+    slotId: 3
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 15
+      increaseStat: 10
+    - buffType: 2
+      baseStat: 90
+      increaseStat: 90
+    - buffType: 3
+      baseStat: 90
+      increaseStat: 90
+    baseCost: 3000
+    description: Skill 4 and 6 increase damage {0}%
+  - artifactId: 13
+    slotId: 4
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 100
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 135
+      increaseStat: 135
+    - buffType: 3
+      baseStat: 135
+      increaseStat: 135
+    baseCost: 4000
+    description: Use skill 9 when Orc attack {0} times
+  - artifactId: 14
+    slotId: 4
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 100
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 135
+      increaseStat: 135
+    - buffType: 3
+      baseStat: 135
+      increaseStat: 135
+    baseCost: 4000
+    description: Use skill 10 when Human attack {0} times
+  - artifactId: 15
+    slotId: 4
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 50
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 135
+      increaseStat: 135
+    - buffType: 3
+      baseStat: 135
+      increaseStat: 135
+    baseCost: 4000
+    description: Use skill 11 when Demon attack {0} times
+  - artifactId: 16
+    slotId: 4
+    name: 
+    maxLevel: 50
+    buffs:
+    - buffType: 1
+      baseStat: 50
+      increaseStat: -1
+    - buffType: 2
+      baseStat: 135
+      increaseStat: 135
+    - buffType: 3
+      baseStat: 135
+      increaseStat: 135
+    baseCost: 4000
+    description: Use skill 10 when Elf attack {0} times
+  costUnlockBase: 1000
+  costRatePerUnlock: 100

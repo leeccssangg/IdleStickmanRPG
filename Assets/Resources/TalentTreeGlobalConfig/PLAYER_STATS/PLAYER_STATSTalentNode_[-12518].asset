@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-12518]
+  m_EditorClassIdentifier: 
+  m_NodeName: HP
+  m_NodeLine: 9
+  m_NodeIndex: 0
+  m_NodePointRequire: 50
+  m_IconImage: {fileID: 21300000, guid: e7cc33c499d3dcd42945bb1e877f2e7f, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: HP + 0%
+  - m_Value: 200
+    m_Description: HP + 200%
+  - m_Value: 400
+    m_Description: HP + 400%
+  - m_Value: 600
+    m_Description: HP + 600%
+  - m_Value: 800
+    m_Description: HP + 800%
+  - m_Value: 1000
+    m_Description: HP + 1000%
+  - m_Value: 1200
+    m_Description: HP + 1200%
+  - m_Value: 1400
+    m_Description: HP + 1400%
+  - m_Value: 1600
+    m_Description: HP + 1600%
+  - m_Value: 1800
+    m_Description: HP + 1800%
+  - m_Value: 2000
+    m_Description: HP + 2000%
+  - m_Value: 2200
+    m_Description: HP + 2200%
+  - m_Value: 2400
+    m_Description: HP + 2400%
+  - m_Value: 2600
+    m_Description: HP + 2600%
+  - m_Value: 2800
+    m_Description: HP + 2800%
+  - m_Value: 3000
+    m_Description: HP + 3000%
+  - m_Value: 3200
+    m_Description: HP + 3200%
+  - m_Value: 3400
+    m_Description: HP + 3400%
+  - m_Value: 3600
+    m_Description: HP + 3600%
+  - m_Value: 3800
+    m_Description: HP + 3800%
+  - m_Value: 4000
+    m_Description: HP + 4000%
+  - m_Value: 4200
+    m_Description: HP + 4200%
+  - m_Value: 4400
+    m_Description: HP + 4400%
+  - m_Value: 4600
+    m_Description: HP + 4600%
+  - m_Value: 4800
+    m_Description: HP + 4800%
+  - m_Value: 5000
+    m_Description: HP + 5000%
+  - m_Value: 5200
+    m_Description: HP + 5200%
+  - m_Value: 5400
+    m_Description: HP + 5400%
+  - m_Value: 5600
+    m_Description: HP + 5600%
+  - m_Value: 5800
+    m_Description: HP + 5800%
+  - m_Value: 6000
+    m_Description: HP + 6000%
+  - m_Value: 6200
+    m_Description: HP + 6200%
+  - m_Value: 6400
+    m_Description: HP + 6400%
+  - m_Value: 6600
+    m_Description: HP + 6600%
+  - m_Value: 6800
+    m_Description: HP + 6800%
+  - m_Value: 7000
+    m_Description: HP + 7000%
+  - m_Value: 7200
+    m_Description: HP + 7200%
+  - m_Value: 7400
+    m_Description: HP + 7400%
+  - m_Value: 7600
+    m_Description: HP + 7600%
+  - m_Value: 7800
+    m_Description: HP + 7800%
+  - m_Value: 8000
+    m_Description: HP + 8000%
+  - m_Value: 8200
+    m_Description: HP + 8200%
+  - m_Value: 8400
+    m_Description: HP + 8400%
+  - m_Value: 8600
+    m_Description: HP + 8600%
+  - m_Value: 8800
+    m_Description: HP + 8800%
+  - m_Value: 9000
+    m_Description: HP + 9000%
+  - m_Value: 9200
+    m_Description: HP + 9200%
+  - m_Value: 9400
+    m_Description: HP + 9400%
+  - m_Value: 9600
+    m_Description: HP + 9600%
+  - m_Value: 9800
+    m_Description: HP + 9800%
+  - m_Value: 10000
+    m_Description: HP + 10000%
+  - m_Value: 10200
+    m_Description: HP + 10200%
+  - m_Value: 10400
+    m_Description: HP + 10400%
+  - m_Value: 10600
+    m_Description: HP + 10600%
+  - m_Value: 10800
+    m_Description: HP + 10800%
+  - m_Value: 11000
+    m_Description: HP + 11000%
+  - m_Value: 11200
+    m_Description: HP + 11200%
+  - m_Value: 11400
+    m_Description: HP + 11400%
+  - m_Value: 11600
+    m_Description: HP + 11600%
+  - m_Value: 11800
+    m_Description: HP + 11800%
+  - m_Value: 12000
+    m_Description: HP + 12000%
+  - m_Value: 12200
+    m_Description: HP + 12200%
+  - m_Value: 12400
+    m_Description: HP + 12400%
+  - m_Value: 12600
+    m_Description: HP + 12600%
+  - m_Value: 12800
+    m_Description: HP + 12800%
+  - m_Value: 13000
+    m_Description: HP + 13000%
+  - m_Value: 13200
+    m_Description: HP + 13200%
+  - m_Value: 13400
+    m_Description: HP + 13400%
+  - m_Value: 13600
+    m_Description: HP + 13600%
+  - m_Value: 13800
+    m_Description: HP + 13800%
+  - m_Value: 14000
+    m_Description: HP + 14000%
+  - m_Value: 14200
+    m_Description: HP + 14200%
+  - m_Value: 14400
+    m_Description: HP + 14400%
+  - m_Value: 14600
+    m_Description: HP + 14600%
+  - m_Value: 14800
+    m_Description: HP + 14800%
+  - m_Value: 15000
+    m_Description: HP + 15000%
+  - m_Value: 15200
+    m_Description: HP + 15200%
+  - m_Value: 15400
+    m_Description: HP + 15400%
+  - m_Value: 15600
+    m_Description: HP + 15600%
+  - m_Value: 15800
+    m_Description: HP + 15800%
+  - m_Value: 16000
+    m_Description: HP + 16000%
+  - m_Value: 16200
+    m_Description: HP + 16200%
+  - m_Value: 16400
+    m_Description: HP + 16400%
+  - m_Value: 16600
+    m_Description: HP + 16600%
+  - m_Value: 16800
+    m_Description: HP + 16800%
+  - m_Value: 17000
+    m_Description: HP + 17000%
+  - m_Value: 17200
+    m_Description: HP + 17200%
+  - m_Value: 17400
+    m_Description: HP + 17400%
+  - m_Value: 17600
+    m_Description: HP + 17600%
+  - m_Value: 17800
+    m_Description: HP + 17800%
+  - m_Value: 18000
+    m_Description: HP + 18000%
+  - m_Value: 18200
+    m_Description: HP + 18200%
+  - m_Value: 18400
+    m_Description: HP + 18400%
+  - m_Value: 18600
+    m_Description: HP + 18600%
+  - m_Value: 18800
+    m_Description: HP + 18800%
+  - m_Value: 19000
+    m_Description: HP + 19000%
+  - m_Value: 19200
+    m_Description: HP + 19200%
+  - m_Value: 19400
+    m_Description: HP + 19400%
+  - m_Value: 19600
+    m_Description: HP + 19600%
+  - m_Value: 19800
+    m_Description: HP + 19800%
+  - m_Value: 20000
+    m_Description: HP + 20000%
+  m_RequireNode:
+  - {fileID: 11400000, guid: 881cc361360689142a70a42e41d62b24, type: 2}
+  m_Position: {x: 3728, y: -4}
+  m_NodeType: 2

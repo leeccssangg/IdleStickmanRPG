@@ -1,0 +1,979 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f86d55a8c135c41b298fc1103ff319, type: 3}
+  m_Name: GearGlobalConfig
+  m_EditorClassIdentifier: 
+  m_WeaponConfigs:
+  - id: 1
+    gearName: Weapon_1
+    gearType: 0
+    rarity: 1
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 50
+      m: 0
+  - id: 2
+    gearName: Weapon_2
+    gearType: 0
+    rarity: 1
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 55
+      m: 0
+  - id: 3
+    gearName: Weapon_3
+    gearType: 0
+    rarity: 1
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 60
+      m: 0
+  - id: 4
+    gearName: Weapon_4
+    gearType: 0
+    rarity: 1
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 65
+      m: 0
+  - id: 5
+    gearName: Weapon_5
+    gearType: 0
+    rarity: 2
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 225
+      m: 0
+  - id: 6
+    gearName: Weapon_6
+    gearType: 0
+    rarity: 2
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 248
+      m: 0
+  - id: 7
+    gearName: Weapon_7
+    gearType: 0
+    rarity: 2
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 270
+      m: 0
+  - id: 8
+    gearName: Weapon_8
+    gearType: 0
+    rarity: 2
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 293
+      m: 0
+  - id: 9
+    gearName: Weapon_9
+    gearType: 0
+    rarity: 3
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 1013
+      m: 0
+  - id: 10
+    gearName: Weapon_10
+    gearType: 0
+    rarity: 3
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 1114
+      m: 0
+  - id: 11
+    gearName: Weapon_11
+    gearType: 0
+    rarity: 3
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 1215
+      m: 0
+  - id: 12
+    gearName: Weapon_12
+    gearType: 0
+    rarity: 3
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 1316
+      m: 0
+  - id: 13
+    gearName: Weapon_13
+    gearType: 0
+    rarity: 4
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 4556
+      m: 0
+  - id: 14
+    gearName: Weapon_14
+    gearType: 0
+    rarity: 4
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 5012
+      m: 0
+  - id: 15
+    gearName: Weapon_15
+    gearType: 0
+    rarity: 4
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 5468
+      m: 0
+  - id: 16
+    gearName: Weapon_16
+    gearType: 0
+    rarity: 4
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 5923
+      m: 0
+  - id: 17
+    gearName: Weapon_17
+    gearType: 0
+    rarity: 5
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 20503
+      m: 0
+  - id: 18
+    gearName: Weapon_18
+    gearType: 0
+    rarity: 5
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 22553
+      m: 0
+  - id: 19
+    gearName: Weapon_19
+    gearType: 0
+    rarity: 5
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 24604
+      m: 0
+  - id: 20
+    gearName: Weapon_20
+    gearType: 0
+    rarity: 5
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 26654
+      m: 0
+  - id: 21
+    gearName: Weapon_21
+    gearType: 0
+    rarity: 6
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 92264
+      m: 0
+  - id: 22
+    gearName: Weapon_22
+    gearType: 0
+    rarity: 6
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 101490
+      m: 0
+  - id: 23
+    gearName: Weapon_23
+    gearType: 0
+    rarity: 6
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 110717
+      m: 0
+  - id: 24
+    gearName: Weapon_24
+    gearType: 0
+    rarity: 6
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 119943
+      m: 0
+  - id: 25
+    gearName: Weapon_25
+    gearType: 0
+    rarity: 7
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 415188
+      m: 0
+  - id: 26
+    gearName: Weapon_26
+    gearType: 0
+    rarity: 7
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 456707
+      m: 0
+  - id: 27
+    gearName: Weapon_27
+    gearType: 0
+    rarity: 7
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 498226
+      m: 0
+  - id: 28
+    gearName: Weapon_28
+    gearType: 0
+    rarity: 7
+    ownerStatType: 1
+    equippedStatType: 1
+    equippedBaseValue:
+      v: 539745
+      m: 0
+  ArmorConfigs:
+  - id: 1
+    gearName: Armor_1
+    gearType: 1
+    rarity: 1
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 52
+      m: 0
+  - id: 2
+    gearName: Armor_2
+    gearType: 1
+    rarity: 1
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 57
+      m: 0
+  - id: 3
+    gearName: Armor_3
+    gearType: 1
+    rarity: 1
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 61
+      m: 0
+  - id: 4
+    gearName: Armor_4
+    gearType: 1
+    rarity: 1
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 64
+      m: 0
+  - id: 5
+    gearName: Armor_5
+    gearType: 1
+    rarity: 2
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 242
+      m: 0
+  - id: 6
+    gearName: Armor_6
+    gearType: 1
+    rarity: 2
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 265
+      m: 0
+  - id: 7
+    gearName: Armor_7
+    gearType: 1
+    rarity: 2
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 284
+      m: 0
+  - id: 8
+    gearName: Armor_8
+    gearType: 1
+    rarity: 2
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 298
+      m: 0
+  - id: 9
+    gearName: Armor_9
+    gearType: 1
+    rarity: 3
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 1124
+      m: 0
+  - id: 10
+    gearName: Armor_10
+    gearType: 1
+    rarity: 3
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 1232
+      m: 0
+  - id: 11
+    gearName: Armor_11
+    gearType: 1
+    rarity: 3
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 1319
+      m: 0
+  - id: 12
+    gearName: Armor_12
+    gearType: 1
+    rarity: 3
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 1384
+      m: 0
+  - id: 13
+    gearName: Armor_13
+    gearType: 1
+    rarity: 4
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 5228
+      m: 0
+  - id: 14
+    gearName: Armor_14
+    gearType: 1
+    rarity: 4
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 5731
+      m: 0
+  - id: 15
+    gearName: Armor_15
+    gearType: 1
+    rarity: 4
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 6133
+      m: 0
+  - id: 16
+    gearName: Armor_16
+    gearType: 1
+    rarity: 4
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 6366
+      m: 0
+  - id: 17
+    gearName: Armor_17
+    gearType: 1
+    rarity: 5
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 24050
+      m: 0
+  - id: 18
+    gearName: Armor_18
+    gearType: 1
+    rarity: 5
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 26363
+      m: 0
+  - id: 19
+    gearName: Armor_19
+    gearType: 1
+    rarity: 5
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 28213
+      m: 0
+  - id: 20
+    gearName: Armor_20
+    gearType: 1
+    rarity: 5
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 29282
+      m: 0
+  - id: 21
+    gearName: Armor_21
+    gearType: 1
+    rarity: 6
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 110631
+      m: 0
+  - id: 22
+    gearName: Armor_22
+    gearType: 1
+    rarity: 6
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 121269
+      m: 0
+  - id: 23
+    gearName: Armor_23
+    gearType: 1
+    rarity: 6
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 129779
+      m: 0
+  - id: 24
+    gearName: Armor_24
+    gearType: 1
+    rarity: 6
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 134697
+      m: 0
+  - id: 25
+    gearName: Armor_25
+    gearType: 1
+    rarity: 7
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 508904
+      m: 0
+  - id: 26
+    gearName: Armor_26
+    gearType: 1
+    rarity: 7
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 557837
+      m: 0
+  - id: 27
+    gearName: Armor_27
+    gearType: 1
+    rarity: 7
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 596983
+      m: 0
+  - id: 28
+    gearName: Armor_28
+    gearType: 1
+    rarity: 7
+    ownerStatType: 3
+    equippedStatType: 3
+    equippedBaseValue:
+      v: 619608
+      m: 0
+  HelmetConfigs: []
+  GlovesConfigs: []
+  allGearConfig:
+  - gearType: 0
+    gearConfigList:
+    - id: 1
+      gearName: Weapon_1
+      gearType: 0
+      rarity: 1
+    - id: 2
+      gearName: Weapon_2
+      gearType: 0
+      rarity: 1
+    - id: 3
+      gearName: Weapon_3
+      gearType: 0
+      rarity: 1
+    - id: 4
+      gearName: Weapon_4
+      gearType: 0
+      rarity: 1
+    - id: 5
+      gearName: Weapon_5
+      gearType: 0
+      rarity: 2
+    - id: 6
+      gearName: Weapon_6
+      gearType: 0
+      rarity: 2
+    - id: 7
+      gearName: Weapon_7
+      gearType: 0
+      rarity: 2
+    - id: 8
+      gearName: Weapon_8
+      gearType: 0
+      rarity: 2
+    - id: 9
+      gearName: Weapon_9
+      gearType: 0
+      rarity: 3
+    - id: 10
+      gearName: Weapon_10
+      gearType: 0
+      rarity: 3
+    - id: 11
+      gearName: Weapon_11
+      gearType: 0
+      rarity: 3
+    - id: 12
+      gearName: Weapon_12
+      gearType: 0
+      rarity: 3
+    - id: 13
+      gearName: Weapon_13
+      gearType: 0
+      rarity: 4
+    - id: 14
+      gearName: Weapon_14
+      gearType: 0
+      rarity: 4
+    - id: 15
+      gearName: Weapon_15
+      gearType: 0
+      rarity: 4
+    - id: 16
+      gearName: Weapon_16
+      gearType: 0
+      rarity: 4
+    - id: 17
+      gearName: Weapon_17
+      gearType: 0
+      rarity: 5
+    - id: 18
+      gearName: Weapon_18
+      gearType: 0
+      rarity: 5
+    - id: 19
+      gearName: Weapon_19
+      gearType: 0
+      rarity: 5
+    - id: 20
+      gearName: Weapon_20
+      gearType: 0
+      rarity: 5
+    - id: 21
+      gearName: Weapon_21
+      gearType: 0
+      rarity: 6
+    - id: 22
+      gearName: Weapon_22
+      gearType: 0
+      rarity: 6
+    - id: 23
+      gearName: Weapon_23
+      gearType: 0
+      rarity: 6
+    - id: 24
+      gearName: Weapon_24
+      gearType: 0
+      rarity: 6
+    - id: 25
+      gearName: Weapon_25
+      gearType: 0
+      rarity: 7
+    - id: 26
+      gearName: Weapon_26
+      gearType: 0
+      rarity: 7
+    - id: 27
+      gearName: Weapon_27
+      gearType: 0
+      rarity: 7
+    - id: 28
+      gearName: Weapon_28
+      gearType: 0
+      rarity: 7
+  - gearType: 3
+    gearConfigList:
+    - id: 29
+      gearName: Gloves_1
+      gearType: 3
+      rarity: 1
+    - id: 30
+      gearName: Gloves_2
+      gearType: 3
+      rarity: 1
+    - id: 31
+      gearName: Gloves_3
+      gearType: 3
+      rarity: 1
+    - id: 32
+      gearName: Gloves_4
+      gearType: 3
+      rarity: 1
+    - id: 33
+      gearName: Gloves_5
+      gearType: 3
+      rarity: 2
+    - id: 34
+      gearName: Gloves_6
+      gearType: 3
+      rarity: 2
+    - id: 35
+      gearName: Gloves_7
+      gearType: 3
+      rarity: 2
+    - id: 36
+      gearName: Gloves_8
+      gearType: 3
+      rarity: 2
+    - id: 37
+      gearName: Gloves_9
+      gearType: 3
+      rarity: 3
+    - id: 38
+      gearName: Gloves_10
+      gearType: 3
+      rarity: 3
+    - id: 39
+      gearName: Gloves_11
+      gearType: 3
+      rarity: 3
+    - id: 40
+      gearName: Gloves_12
+      gearType: 3
+      rarity: 3
+    - id: 41
+      gearName: Gloves_13
+      gearType: 3
+      rarity: 4
+    - id: 42
+      gearName: Gloves_14
+      gearType: 3
+      rarity: 4
+    - id: 43
+      gearName: Gloves_15
+      gearType: 3
+      rarity: 4
+    - id: 44
+      gearName: Gloves_16
+      gearType: 3
+      rarity: 4
+    - id: 45
+      gearName: Gloves_17
+      gearType: 3
+      rarity: 5
+    - id: 46
+      gearName: Gloves_18
+      gearType: 3
+      rarity: 5
+    - id: 47
+      gearName: Gloves_19
+      gearType: 3
+      rarity: 5
+    - id: 48
+      gearName: Gloves_20
+      gearType: 3
+      rarity: 5
+    - id: 49
+      gearName: Gloves_21
+      gearType: 3
+      rarity: 6
+    - id: 50
+      gearName: Gloves_22
+      gearType: 3
+      rarity: 6
+    - id: 51
+      gearName: Gloves_23
+      gearType: 3
+      rarity: 6
+    - id: 52
+      gearName: Gloves_24
+      gearType: 3
+      rarity: 6
+    - id: 53
+      gearName: Gloves_25
+      gearType: 3
+      rarity: 7
+    - id: 54
+      gearName: Gloves_26
+      gearType: 3
+      rarity: 7
+    - id: 55
+      gearName: Gloves_27
+      gearType: 3
+      rarity: 7
+    - id: 56
+      gearName: Gloves_28
+      gearType: 3
+      rarity: 7
+  - gearType: 2
+    gearConfigList:
+    - id: 57
+      gearName: Helmet_1
+      gearType: 2
+      rarity: 1
+    - id: 58
+      gearName: Helmet_2
+      gearType: 2
+      rarity: 1
+    - id: 59
+      gearName: Helmet_3
+      gearType: 2
+      rarity: 1
+    - id: 60
+      gearName: Helmet_4
+      gearType: 2
+      rarity: 1
+    - id: 61
+      gearName: Helmet_5
+      gearType: 2
+      rarity: 2
+    - id: 62
+      gearName: Helmet_6
+      gearType: 2
+      rarity: 2
+    - id: 63
+      gearName: Helmet_7
+      gearType: 2
+      rarity: 2
+    - id: 64
+      gearName: Helmet_8
+      gearType: 2
+      rarity: 2
+    - id: 65
+      gearName: Helmet_9
+      gearType: 2
+      rarity: 3
+    - id: 66
+      gearName: Helmet_10
+      gearType: 2
+      rarity: 3
+    - id: 67
+      gearName: Helmet_11
+      gearType: 2
+      rarity: 3
+    - id: 68
+      gearName: Helmet_12
+      gearType: 2
+      rarity: 3
+    - id: 69
+      gearName: Helmet_13
+      gearType: 2
+      rarity: 4
+    - id: 70
+      gearName: Helmet_14
+      gearType: 2
+      rarity: 4
+    - id: 71
+      gearName: Helmet_15
+      gearType: 2
+      rarity: 4
+    - id: 72
+      gearName: Helmet_16
+      gearType: 2
+      rarity: 4
+    - id: 73
+      gearName: Helmet_17
+      gearType: 2
+      rarity: 5
+    - id: 74
+      gearName: Helmet_18
+      gearType: 2
+      rarity: 5
+    - id: 75
+      gearName: Helmet_19
+      gearType: 2
+      rarity: 5
+    - id: 76
+      gearName: Helmet_20
+      gearType: 2
+      rarity: 5
+    - id: 77
+      gearName: Helmet_21
+      gearType: 2
+      rarity: 6
+    - id: 78
+      gearName: Helmet_22
+      gearType: 2
+      rarity: 6
+    - id: 79
+      gearName: Helmet_23
+      gearType: 2
+      rarity: 6
+    - id: 80
+      gearName: Helmet_24
+      gearType: 2
+      rarity: 6
+    - id: 81
+      gearName: Helmet_25
+      gearType: 2
+      rarity: 7
+    - id: 82
+      gearName: Helmet_26
+      gearType: 2
+      rarity: 7
+    - id: 83
+      gearName: Helmet_27
+      gearType: 2
+      rarity: 7
+    - id: 84
+      gearName: Helmet_28
+      gearType: 2
+      rarity: 7
+  - gearType: 1
+    gearConfigList:
+    - id: 85
+      gearName: Armor_1
+      gearType: 1
+      rarity: 1
+    - id: 86
+      gearName: Armor_2
+      gearType: 1
+      rarity: 1
+    - id: 87
+      gearName: Armor_3
+      gearType: 1
+      rarity: 1
+    - id: 88
+      gearName: Armor_4
+      gearType: 1
+      rarity: 1
+    - id: 89
+      gearName: Armor_5
+      gearType: 1
+      rarity: 2
+    - id: 90
+      gearName: Armor_6
+      gearType: 1
+      rarity: 2
+    - id: 91
+      gearName: Armor_7
+      gearType: 1
+      rarity: 2
+    - id: 92
+      gearName: Armor_8
+      gearType: 1
+      rarity: 2
+    - id: 93
+      gearName: Armor_9
+      gearType: 1
+      rarity: 3
+    - id: 94
+      gearName: Armor_10
+      gearType: 1
+      rarity: 3
+    - id: 95
+      gearName: Armor_11
+      gearType: 1
+      rarity: 3
+    - id: 96
+      gearName: Armor_12
+      gearType: 1
+      rarity: 3
+    - id: 97
+      gearName: Armor_13
+      gearType: 1
+      rarity: 4
+    - id: 98
+      gearName: Armor_14
+      gearType: 1
+      rarity: 4
+    - id: 99
+      gearName: Armor_15
+      gearType: 1
+      rarity: 4
+    - id: 100
+      gearName: Armor_16
+      gearType: 1
+      rarity: 4
+    - id: 101
+      gearName: Armor_17
+      gearType: 1
+      rarity: 5
+    - id: 102
+      gearName: Armor_18
+      gearType: 1
+      rarity: 5
+    - id: 103
+      gearName: Armor_19
+      gearType: 1
+      rarity: 5
+    - id: 104
+      gearName: Armor_20
+      gearType: 1
+      rarity: 5
+    - id: 105
+      gearName: Armor_21
+      gearType: 1
+      rarity: 6
+    - id: 106
+      gearName: Armor_22
+      gearType: 1
+      rarity: 6
+    - id: 107
+      gearName: Armor_23
+      gearType: 1
+      rarity: 6
+    - id: 108
+      gearName: Armor_24
+      gearType: 1
+      rarity: 6
+    - id: 109
+      gearName: Armor_25
+      gearType: 1
+      rarity: 7
+    - id: 110
+      gearName: Armor_26
+      gearType: 1
+      rarity: 7
+    - id: 111
+      gearName: Armor_27
+      gearType: 1
+      rarity: 7
+    - id: 112
+      gearName: Armor_28
+      gearType: 1
+      rarity: 7

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-9382]
+  m_EditorClassIdentifier: 
+  m_NodeName: All Damage
+  m_NodeLine: 6
+  m_NodeIndex: 1
+  m_NodePointRequire: 20
+  m_IconImage: {fileID: 21300000, guid: 8b8ae553dd3347249a19888b81383c8f, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: All Damage + 0%
+  - m_Value: 10
+    m_Description: All Damage + 10%
+  - m_Value: 20
+    m_Description: All Damage + 20%
+  - m_Value: 30
+    m_Description: All Damage + 30%
+  - m_Value: 40
+    m_Description: All Damage + 40%
+  - m_Value: 50
+    m_Description: All Damage + 50%
+  m_RequireNode:
+  - {fileID: 11400000, guid: be80cd91764129741bb0be7bf5bdfd7f, type: 2}
+  - {fileID: 11400000, guid: 364fe9db5714ff1489c10e9768f28960, type: 2}
+  - {fileID: 11400000, guid: 6cfe6021a15af7742b7001c9ebfbabcf, type: 2}
+  m_Position: {x: 2526, y: 253}
+  m_NodeType: 10

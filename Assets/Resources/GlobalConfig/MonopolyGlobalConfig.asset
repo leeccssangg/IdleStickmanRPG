@@ -1,0 +1,379 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbf4927ca46540944a7954e13f94fb95, type: 3}
+  m_Name: MonopolyGlobalConfig
+  m_EditorClassIdentifier: 
+  <AmountResetDaily>k__BackingField: 2
+  <TimeDiceRefill>k__BackingField: 1800
+  <TimeMagnetRefill>k__BackingField: 18000
+  <TimeDice6Refill>k__BackingField: 18000
+  <NormalBlockConfigs>k__BackingField:
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 32de90e7157a31547a884ac868093b66, type: 3}
+    <BlockType>k__BackingField: 0
+    <BaseValue>k__BackingField:
+      v: 1.5
+      m: 1
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: f6f02b2c9319fb846ac3aa2cad7b2e62, type: 3}
+    <BlockType>k__BackingField: 3
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 1
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 8d6d01794914ec24d9ef54b37327ccd8, type: 3}
+    <BlockType>k__BackingField: 2
+    <BaseValue>k__BackingField:
+      v: 500
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 45225caf10359ad45b75a92eb201f6d9, type: 3}
+    <BlockType>k__BackingField: 5
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: c3560bee09a38ce4786ce70c2a883435, type: 3}
+    <BlockType>k__BackingField: 4
+    <BaseValue>k__BackingField:
+      v: 5
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 0e665e5ca0f21d74191a4cfbc9246279, type: 3}
+    <BlockType>k__BackingField: 6
+    <BaseValue>k__BackingField:
+      v: 0
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: f6f02b2c9319fb846ac3aa2cad7b2e62, type: 3}
+    <BlockType>k__BackingField: 3
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 8d6d01794914ec24d9ef54b37327ccd8, type: 3}
+    <BlockType>k__BackingField: 2
+    <BaseValue>k__BackingField:
+      v: 500
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 2d7c4efba8f569a40b674cbb1ac6971f, type: 3}
+    <BlockType>k__BackingField: 6
+    <BaseValue>k__BackingField:
+      v: 0
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: c3560bee09a38ce4786ce70c2a883435, type: 3}
+    <BlockType>k__BackingField: 4
+    <BaseValue>k__BackingField:
+      v: 5
+      m: 0
+    <Description>k__BackingField: Earn valor.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: bfaa810e5d7353e44adb18a096fd8d9c, type: 3}
+    <BlockType>k__BackingField: 1
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: Earn gold.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 45225caf10359ad45b75a92eb201f6d9, type: 3}
+    <BlockType>k__BackingField: 5
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 6a81027e22b3b9741ac7109ca70657f9, type: 3}
+    <BlockType>k__BackingField: 10
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 0
+    <Description>k__BackingField: Earn magnet.
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: bfaa810e5d7353e44adb18a096fd8d9c, type: 3}
+    <BlockType>k__BackingField: 1
+    <BaseValue>k__BackingField:
+      v: 500
+      m: 0
+    <Description>k__BackingField: Earn gold.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: f6f02b2c9319fb846ac3aa2cad7b2e62, type: 3}
+    <BlockType>k__BackingField: 3
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 45225caf10359ad45b75a92eb201f6d9, type: 3}
+    <BlockType>k__BackingField: 5
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: bfaa810e5d7353e44adb18a096fd8d9c, type: 3}
+    <BlockType>k__BackingField: 1
+    <BaseValue>k__BackingField:
+      v: 500
+      m: 0
+    <Description>k__BackingField: Earn gold.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: c3560bee09a38ce4786ce70c2a883435, type: 3}
+    <BlockType>k__BackingField: 4
+    <BaseValue>k__BackingField:
+      v: 5
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: e478cf05024f4af499ec2ebf189b4bba, type: 3}
+    <BlockType>k__BackingField: 7
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 0
+    <Description>k__BackingField: Enter the special broad
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 8d6d01794914ec24d9ef54b37327ccd8, type: 3}
+    <BlockType>k__BackingField: 2
+    <BaseValue>k__BackingField:
+      v: 500
+      m: 0
+    <Description>k__BackingField: Earn gem.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: bfaa810e5d7353e44adb18a096fd8d9c, type: 3}
+    <BlockType>k__BackingField: 1
+    <BaseValue>k__BackingField:
+      v: 500
+      m: 0
+    <Description>k__BackingField: Earn gold.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 45225caf10359ad45b75a92eb201f6d9, type: 3}
+    <BlockType>k__BackingField: 5
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 36d1ba65ced28b4408fd0e0f21424632, type: 3}
+    <BlockType>k__BackingField: 6
+    <BaseValue>k__BackingField:
+      v: 0
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 8d6d01794914ec24d9ef54b37327ccd8, type: 3}
+    <BlockType>k__BackingField: 2
+    <BaseValue>k__BackingField:
+      v: 500
+      m: 0
+    <Description>k__BackingField: Earn gem.
+    <IsShowText>k__BackingField: 1
+  <SpecialBlockConfigs>k__BackingField:
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 24460d88259a09a46a9c1aea64383548, type: 3}
+    <BlockType>k__BackingField: 8
+    <BaseValue>k__BackingField:
+      v: 0
+      m: 0
+    <Description>k__BackingField: Return to normal board.
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: bf7c642be43659c42a0e096b69878767, type: 3}
+    <BlockType>k__BackingField: 2
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: Earn gem.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: ae6c408a9842c8e489c4b28e132ff1bf, type: 3}
+    <BlockType>k__BackingField: 4
+    <BaseValue>k__BackingField:
+      v: 10
+      m: 0
+    <Description>k__BackingField: Earn valor.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: f5eeea84abc482142943e3e2572c4381, type: 3}
+    <BlockType>k__BackingField: 3
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 1
+    <Description>k__BackingField: Earn marble.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: b65cd7766c98d444a8d5530650837a55, type: 3}
+    <BlockType>k__BackingField: 1
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: Earn gold.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: ae6c408a9842c8e489c4b28e132ff1bf, type: 3}
+    <BlockType>k__BackingField: 4
+    <BaseValue>k__BackingField:
+      v: 10
+      m: 0
+    <Description>k__BackingField: Earn valor.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: f5eeea84abc482142943e3e2572c4381, type: 3}
+    <BlockType>k__BackingField: 3
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 1
+    <Description>k__BackingField: Earn marble.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: bf7c642be43659c42a0e096b69878767, type: 3}
+    <BlockType>k__BackingField: 2
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: Earn gem.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: b65cd7766c98d444a8d5530650837a55, type: 3}
+    <BlockType>k__BackingField: 1
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: Earn gold.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 989f8a2ae868a3b44be77f5476684d28, type: 3}
+    <BlockType>k__BackingField: 5
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 0
+    <Description>k__BackingField: Randomly earn one key.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: f5eeea84abc482142943e3e2572c4381, type: 3}
+    <BlockType>k__BackingField: 3
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 1
+    <Description>k__BackingField: Earn marble.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: bf7c642be43659c42a0e096b69878767, type: 3}
+    <BlockType>k__BackingField: 2
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: Earn gem.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: ae6c408a9842c8e489c4b28e132ff1bf, type: 3}
+    <BlockType>k__BackingField: 4
+    <BaseValue>k__BackingField:
+      v: 10
+      m: 0
+    <Description>k__BackingField: Earn valor.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 989f8a2ae868a3b44be77f5476684d28, type: 3}
+    <BlockType>k__BackingField: 5
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 0
+    <Description>k__BackingField: Randomly earn one key.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: b65cd7766c98d444a8d5530650837a55, type: 3}
+    <BlockType>k__BackingField: 1
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: Earn gold.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: ae6c408a9842c8e489c4b28e132ff1bf, type: 3}
+    <BlockType>k__BackingField: 4
+    <BaseValue>k__BackingField:
+      v: 10
+      m: 0
+    <Description>k__BackingField: Earn valor.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: f5eeea84abc482142943e3e2572c4381, type: 3}
+    <BlockType>k__BackingField: 3
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 1
+    <Description>k__BackingField: Earn marble.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: bf7c642be43659c42a0e096b69878767, type: 3}
+    <BlockType>k__BackingField: 2
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: Earn gem.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: b65cd7766c98d444a8d5530650837a55, type: 3}
+    <BlockType>k__BackingField: 1
+    <BaseValue>k__BackingField:
+      v: 1
+      m: 1
+    <Description>k__BackingField: Earn gold.
+    <IsShowText>k__BackingField: 1
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 989f8a2ae868a3b44be77f5476684d28, type: 3}
+    <BlockType>k__BackingField: 5
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 0
+    <Description>k__BackingField: Randomly earn one key.
+    <IsShowText>k__BackingField: 1
+  <HighlightBlockConfigs>k__BackingField:
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 6a81027e22b3b9741ac7109ca70657f9, type: 3}
+    <BlockType>k__BackingField: 10
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 7b83bae3ae63ded49b332cd29a23765c, type: 3}
+    <BlockType>k__BackingField: 11
+    <BaseValue>k__BackingField:
+      v: 4
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 8198455f8d5629648a531be142a45953, type: 3}
+    <BlockType>k__BackingField: 2
+    <BaseValue>k__BackingField:
+      v: 4
+      m: 1
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: 1518a01864718714396a10c0c21e9206, type: 3}
+    <BlockType>k__BackingField: 9
+    <BaseValue>k__BackingField:
+      v: 2
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: ff58ea8d4da2a5d49b49d5aa7bdc8347, type: 3}
+    <BlockType>k__BackingField: 4
+    <BaseValue>k__BackingField:
+      v: 40
+      m: 0
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  - <BlockIcon>k__BackingField: {fileID: 21300000, guid: a02aa4225a5f86e43b090edff486fac5, type: 3}
+    <BlockType>k__BackingField: 3
+    <BaseValue>k__BackingField:
+      v: 4
+      m: 1
+    <Description>k__BackingField: 
+    <IsShowText>k__BackingField: 0
+  <TrapBlockConfig>k__BackingField:
+    <BlockIcon>k__BackingField: {fileID: 21300000, guid: 24460d88259a09a46a9c1aea64383548, type: 3}
+    <BlockType>k__BackingField: 8
+    <BaseValue>k__BackingField:
+      v: 0
+      m: 0
+    <Description>k__BackingField: Return to normal board.
+    <IsShowText>k__BackingField: 0

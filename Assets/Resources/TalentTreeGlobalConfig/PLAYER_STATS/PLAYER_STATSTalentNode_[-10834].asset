@@ -1,0 +1,427 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-10834]
+  m_EditorClassIdentifier: 
+  m_NodeName: Attack
+  m_NodeLine: 9
+  m_NodeIndex: 2
+  m_NodePointRequire: 100
+  m_IconImage: {fileID: 21300000, guid: a7619aa36db68b547adcfc48d0cf2c62, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: Attack + 0%
+  - m_Value: 200
+    m_Description: Attack + 200%
+  - m_Value: 400
+    m_Description: Attack + 400%
+  - m_Value: 600
+    m_Description: Attack + 600%
+  - m_Value: 800
+    m_Description: Attack + 800%
+  - m_Value: 1000
+    m_Description: Attack + 1000%
+  - m_Value: 1200
+    m_Description: Attack + 1200%
+  - m_Value: 1400
+    m_Description: Attack + 1400%
+  - m_Value: 1600
+    m_Description: Attack + 1600%
+  - m_Value: 1800
+    m_Description: Attack + 1800%
+  - m_Value: 2000
+    m_Description: Attack + 2000%
+  - m_Value: 2200
+    m_Description: Attack + 2200%
+  - m_Value: 2400
+    m_Description: Attack + 2400%
+  - m_Value: 2600
+    m_Description: Attack + 2600%
+  - m_Value: 2800
+    m_Description: Attack + 2800%
+  - m_Value: 3000
+    m_Description: Attack + 3000%
+  - m_Value: 3200
+    m_Description: Attack + 3200%
+  - m_Value: 3400
+    m_Description: Attack + 3400%
+  - m_Value: 3600
+    m_Description: Attack + 3600%
+  - m_Value: 3800
+    m_Description: Attack + 3800%
+  - m_Value: 4000
+    m_Description: Attack + 4000%
+  - m_Value: 4200
+    m_Description: Attack + 4200%
+  - m_Value: 4400
+    m_Description: Attack + 4400%
+  - m_Value: 4600
+    m_Description: Attack + 4600%
+  - m_Value: 4800
+    m_Description: Attack + 4800%
+  - m_Value: 5000
+    m_Description: Attack + 5000%
+  - m_Value: 5200
+    m_Description: Attack + 5200%
+  - m_Value: 5400
+    m_Description: Attack + 5400%
+  - m_Value: 5600
+    m_Description: Attack + 5600%
+  - m_Value: 5800
+    m_Description: Attack + 5800%
+  - m_Value: 6000
+    m_Description: Attack + 6000%
+  - m_Value: 6200
+    m_Description: Attack + 6200%
+  - m_Value: 6400
+    m_Description: Attack + 6400%
+  - m_Value: 6600
+    m_Description: Attack + 6600%
+  - m_Value: 6800
+    m_Description: Attack + 6800%
+  - m_Value: 7000
+    m_Description: Attack + 7000%
+  - m_Value: 7200
+    m_Description: Attack + 7200%
+  - m_Value: 7400
+    m_Description: Attack + 7400%
+  - m_Value: 7600
+    m_Description: Attack + 7600%
+  - m_Value: 7800
+    m_Description: Attack + 7800%
+  - m_Value: 8000
+    m_Description: Attack + 8000%
+  - m_Value: 8200
+    m_Description: Attack + 8200%
+  - m_Value: 8400
+    m_Description: Attack + 8400%
+  - m_Value: 8600
+    m_Description: Attack + 8600%
+  - m_Value: 8800
+    m_Description: Attack + 8800%
+  - m_Value: 9000
+    m_Description: Attack + 9000%
+  - m_Value: 9200
+    m_Description: Attack + 9200%
+  - m_Value: 9400
+    m_Description: Attack + 9400%
+  - m_Value: 9600
+    m_Description: Attack + 9600%
+  - m_Value: 9800
+    m_Description: Attack + 9800%
+  - m_Value: 10000
+    m_Description: Attack + 10000%
+  - m_Value: 10200
+    m_Description: Attack + 10200%
+  - m_Value: 10400
+    m_Description: Attack + 10400%
+  - m_Value: 10600
+    m_Description: Attack + 10600%
+  - m_Value: 10800
+    m_Description: Attack + 10800%
+  - m_Value: 11000
+    m_Description: Attack + 11000%
+  - m_Value: 11200
+    m_Description: Attack + 11200%
+  - m_Value: 11400
+    m_Description: Attack + 11400%
+  - m_Value: 11600
+    m_Description: Attack + 11600%
+  - m_Value: 11800
+    m_Description: Attack + 11800%
+  - m_Value: 12000
+    m_Description: Attack + 12000%
+  - m_Value: 12200
+    m_Description: Attack + 12200%
+  - m_Value: 12400
+    m_Description: Attack + 12400%
+  - m_Value: 12600
+    m_Description: Attack + 12600%
+  - m_Value: 12800
+    m_Description: Attack + 12800%
+  - m_Value: 13000
+    m_Description: Attack + 13000%
+  - m_Value: 13200
+    m_Description: Attack + 13200%
+  - m_Value: 13400
+    m_Description: Attack + 13400%
+  - m_Value: 13600
+    m_Description: Attack + 13600%
+  - m_Value: 13800
+    m_Description: Attack + 13800%
+  - m_Value: 14000
+    m_Description: Attack + 14000%
+  - m_Value: 14200
+    m_Description: Attack + 14200%
+  - m_Value: 14400
+    m_Description: Attack + 14400%
+  - m_Value: 14600
+    m_Description: Attack + 14600%
+  - m_Value: 14800
+    m_Description: Attack + 14800%
+  - m_Value: 15000
+    m_Description: Attack + 15000%
+  - m_Value: 15200
+    m_Description: Attack + 15200%
+  - m_Value: 15400
+    m_Description: Attack + 15400%
+  - m_Value: 15600
+    m_Description: Attack + 15600%
+  - m_Value: 15800
+    m_Description: Attack + 15800%
+  - m_Value: 16000
+    m_Description: Attack + 16000%
+  - m_Value: 16200
+    m_Description: Attack + 16200%
+  - m_Value: 16400
+    m_Description: Attack + 16400%
+  - m_Value: 16600
+    m_Description: Attack + 16600%
+  - m_Value: 16800
+    m_Description: Attack + 16800%
+  - m_Value: 17000
+    m_Description: Attack + 17000%
+  - m_Value: 17200
+    m_Description: Attack + 17200%
+  - m_Value: 17400
+    m_Description: Attack + 17400%
+  - m_Value: 17600
+    m_Description: Attack + 17600%
+  - m_Value: 17800
+    m_Description: Attack + 17800%
+  - m_Value: 18000
+    m_Description: Attack + 18000%
+  - m_Value: 18200
+    m_Description: Attack + 18200%
+  - m_Value: 18400
+    m_Description: Attack + 18400%
+  - m_Value: 18600
+    m_Description: Attack + 18600%
+  - m_Value: 18800
+    m_Description: Attack + 18800%
+  - m_Value: 19000
+    m_Description: Attack + 19000%
+  - m_Value: 19200
+    m_Description: Attack + 19200%
+  - m_Value: 19400
+    m_Description: Attack + 19400%
+  - m_Value: 19600
+    m_Description: Attack + 19600%
+  - m_Value: 19800
+    m_Description: Attack + 19800%
+  - m_Value: 20000
+    m_Description: Attack + 20000%
+  - m_Value: 20200
+    m_Description: Attack + 20200%
+  - m_Value: 20400
+    m_Description: Attack + 20400%
+  - m_Value: 20600
+    m_Description: Attack + 20600%
+  - m_Value: 20800
+    m_Description: Attack + 20800%
+  - m_Value: 21000
+    m_Description: Attack + 21000%
+  - m_Value: 21200
+    m_Description: Attack + 21200%
+  - m_Value: 21400
+    m_Description: Attack + 21400%
+  - m_Value: 21600
+    m_Description: Attack + 21600%
+  - m_Value: 21800
+    m_Description: Attack + 21800%
+  - m_Value: 22000
+    m_Description: Attack + 22000%
+  - m_Value: 22200
+    m_Description: Attack + 22200%
+  - m_Value: 22400
+    m_Description: Attack + 22400%
+  - m_Value: 22600
+    m_Description: Attack + 22600%
+  - m_Value: 22800
+    m_Description: Attack + 22800%
+  - m_Value: 23000
+    m_Description: Attack + 23000%
+  - m_Value: 23200
+    m_Description: Attack + 23200%
+  - m_Value: 23400
+    m_Description: Attack + 23400%
+  - m_Value: 23600
+    m_Description: Attack + 23600%
+  - m_Value: 23800
+    m_Description: Attack + 23800%
+  - m_Value: 24000
+    m_Description: Attack + 24000%
+  - m_Value: 24200
+    m_Description: Attack + 24200%
+  - m_Value: 24400
+    m_Description: Attack + 24400%
+  - m_Value: 24600
+    m_Description: Attack + 24600%
+  - m_Value: 24800
+    m_Description: Attack + 24800%
+  - m_Value: 25000
+    m_Description: Attack + 25000%
+  - m_Value: 25200
+    m_Description: Attack + 25200%
+  - m_Value: 25400
+    m_Description: Attack + 25400%
+  - m_Value: 25600
+    m_Description: Attack + 25600%
+  - m_Value: 25800
+    m_Description: Attack + 25800%
+  - m_Value: 26000
+    m_Description: Attack + 26000%
+  - m_Value: 26200
+    m_Description: Attack + 26200%
+  - m_Value: 26400
+    m_Description: Attack + 26400%
+  - m_Value: 26600
+    m_Description: Attack + 26600%
+  - m_Value: 26800
+    m_Description: Attack + 26800%
+  - m_Value: 27000
+    m_Description: Attack + 27000%
+  - m_Value: 27200
+    m_Description: Attack + 27200%
+  - m_Value: 27400
+    m_Description: Attack + 27400%
+  - m_Value: 27600
+    m_Description: Attack + 27600%
+  - m_Value: 27800
+    m_Description: Attack + 27800%
+  - m_Value: 28000
+    m_Description: Attack + 28000%
+  - m_Value: 28200
+    m_Description: Attack + 28200%
+  - m_Value: 28400
+    m_Description: Attack + 28400%
+  - m_Value: 28600
+    m_Description: Attack + 28600%
+  - m_Value: 28800
+    m_Description: Attack + 28800%
+  - m_Value: 29000
+    m_Description: Attack + 29000%
+  - m_Value: 29200
+    m_Description: Attack + 29200%
+  - m_Value: 29400
+    m_Description: Attack + 29400%
+  - m_Value: 29600
+    m_Description: Attack + 29600%
+  - m_Value: 29800
+    m_Description: Attack + 29800%
+  - m_Value: 30000
+    m_Description: Attack + 30000%
+  - m_Value: 30200
+    m_Description: Attack + 30200%
+  - m_Value: 30400
+    m_Description: Attack + 30400%
+  - m_Value: 30600
+    m_Description: Attack + 30600%
+  - m_Value: 30800
+    m_Description: Attack + 30800%
+  - m_Value: 31000
+    m_Description: Attack + 31000%
+  - m_Value: 31200
+    m_Description: Attack + 31200%
+  - m_Value: 31400
+    m_Description: Attack + 31400%
+  - m_Value: 31600
+    m_Description: Attack + 31600%
+  - m_Value: 31800
+    m_Description: Attack + 31800%
+  - m_Value: 32000
+    m_Description: Attack + 32000%
+  - m_Value: 32200
+    m_Description: Attack + 32200%
+  - m_Value: 32400
+    m_Description: Attack + 32400%
+  - m_Value: 32600
+    m_Description: Attack + 32600%
+  - m_Value: 32800
+    m_Description: Attack + 32800%
+  - m_Value: 33000
+    m_Description: Attack + 33000%
+  - m_Value: 33200
+    m_Description: Attack + 33200%
+  - m_Value: 33400
+    m_Description: Attack + 33400%
+  - m_Value: 33600
+    m_Description: Attack + 33600%
+  - m_Value: 33800
+    m_Description: Attack + 33800%
+  - m_Value: 34000
+    m_Description: Attack + 34000%
+  - m_Value: 34200
+    m_Description: Attack + 34200%
+  - m_Value: 34400
+    m_Description: Attack + 34400%
+  - m_Value: 34600
+    m_Description: Attack + 34600%
+  - m_Value: 34800
+    m_Description: Attack + 34800%
+  - m_Value: 35000
+    m_Description: Attack + 35000%
+  - m_Value: 35200
+    m_Description: Attack + 35200%
+  - m_Value: 35400
+    m_Description: Attack + 35400%
+  - m_Value: 35600
+    m_Description: Attack + 35600%
+  - m_Value: 35800
+    m_Description: Attack + 35800%
+  - m_Value: 36000
+    m_Description: Attack + 36000%
+  - m_Value: 36200
+    m_Description: Attack + 36200%
+  - m_Value: 36400
+    m_Description: Attack + 36400%
+  - m_Value: 36600
+    m_Description: Attack + 36600%
+  - m_Value: 36800
+    m_Description: Attack + 36800%
+  - m_Value: 37000
+    m_Description: Attack + 37000%
+  - m_Value: 37200
+    m_Description: Attack + 37200%
+  - m_Value: 37400
+    m_Description: Attack + 37400%
+  - m_Value: 37600
+    m_Description: Attack + 37600%
+  - m_Value: 37800
+    m_Description: Attack + 37800%
+  - m_Value: 38000
+    m_Description: Attack + 38000%
+  - m_Value: 38200
+    m_Description: Attack + 38200%
+  - m_Value: 38400
+    m_Description: Attack + 38400%
+  - m_Value: 38600
+    m_Description: Attack + 38600%
+  - m_Value: 38800
+    m_Description: Attack + 38800%
+  - m_Value: 39000
+    m_Description: Attack + 39000%
+  - m_Value: 39200
+    m_Description: Attack + 39200%
+  - m_Value: 39400
+    m_Description: Attack + 39400%
+  - m_Value: 39600
+    m_Description: Attack + 39600%
+  - m_Value: 39800
+    m_Description: Attack + 39800%
+  - m_Value: 40000
+    m_Description: Attack + 40000%
+  m_RequireNode:
+  - {fileID: 11400000, guid: 823605bb08f2042419126beed68b3b7f, type: 2}
+  - {fileID: 11400000, guid: 00a20c8850c6171458d9cdba3aad3f7b, type: 2}
+  m_Position: {x: 3728, y: 511}
+  m_NodeType: 0

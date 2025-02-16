@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-9098]
+  m_EditorClassIdentifier: 
+  m_NodeName: Skill Damage
+  m_NodeLine: 5
+  m_NodeIndex: 2
+  m_NodePointRequire: 10
+  m_IconImage: {fileID: 21300000, guid: 842146ed02439a640842c018641a8a60, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: Skill Damage + 0%
+  - m_Value: 20
+    m_Description: Skill Damage + 20%
+  - m_Value: 40
+    m_Description: Skill Damage + 40%
+  - m_Value: 60
+    m_Description: Skill Damage + 60%
+  - m_Value: 80
+    m_Description: Skill Damage + 80%
+  - m_Value: 100
+    m_Description: Skill Damage + 100%
+  - m_Value: 120
+    m_Description: Skill Damage + 120%
+  - m_Value: 140
+    m_Description: Skill Damage + 140%
+  - m_Value: 160
+    m_Description: Skill Damage + 160%
+  - m_Value: 180
+    m_Description: Skill Damage + 180%
+  - m_Value: 200
+    m_Description: Skill Damage + 200%
+  - m_Value: 220
+    m_Description: Skill Damage + 220%
+  - m_Value: 240
+    m_Description: Skill Damage + 240%
+  - m_Value: 260
+    m_Description: Skill Damage + 260%
+  - m_Value: 280
+    m_Description: Skill Damage + 280%
+  - m_Value: 300
+    m_Description: Skill Damage + 300%
+  - m_Value: 320
+    m_Description: Skill Damage + 320%
+  - m_Value: 340
+    m_Description: Skill Damage + 340%
+  - m_Value: 360
+    m_Description: Skill Damage + 360%
+  - m_Value: 380
+    m_Description: Skill Damage + 380%
+  - m_Value: 400
+    m_Description: Skill Damage + 400%
+  m_RequireNode:
+  - {fileID: 11400000, guid: e8e850ca5cd149d4da17e4d5c9dc8ee4, type: 2}
+  - {fileID: 11400000, guid: 45926d53934e72943bad681bb3b27070, type: 2}
+  m_Position: {x: 2129, y: 511}
+  m_NodeType: 9

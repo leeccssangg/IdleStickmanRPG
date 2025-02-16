@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-8350]
+  m_EditorClassIdentifier: 
+  m_NodeName: Offine Earning
+  m_NodeLine: 4
+  m_NodeIndex: 0
+  m_NodePointRequire: 3
+  m_IconImage: {fileID: 21300000, guid: a2ab8bc9518453a4d9aa40a02d9d20f2, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: Offline Earning + 0%
+  - m_Value: 1
+    m_Description: Offline Earning + 1%
+  - m_Value: 2
+    m_Description: Offline Earning + 2%
+  - m_Value: 3
+    m_Description: Offline Earning + 3%
+  - m_Value: 4
+    m_Description: Offline Earning + 4%
+  - m_Value: 5
+    m_Description: Offline Earning + 5%
+  - m_Value: 6
+    m_Description: Offline Earning + 6%
+  - m_Value: 7
+    m_Description: Offline Earning + 7%
+  - m_Value: 8
+    m_Description: Offline Earning + 8%
+  - m_Value: 9
+    m_Description: Offline Earning + 9%
+  - m_Value: 10
+    m_Description: Offline Earning + 10%
+  - m_Value: 11
+    m_Description: Offline Earning + 11%
+  - m_Value: 12
+    m_Description: Offline Earning + 12%
+  - m_Value: 13
+    m_Description: Offline Earning + 13%
+  - m_Value: 14
+    m_Description: Offline Earning + 14%
+  - m_Value: 15
+    m_Description: Offline Earning + 15%
+  - m_Value: 16
+    m_Description: Offline Earning + 16%
+  - m_Value: 17
+    m_Description: Offline Earning + 17%
+  - m_Value: 18
+    m_Description: Offline Earning + 18%
+  - m_Value: 19
+    m_Description: Offline Earning + 19%
+  - m_Value: 20
+    m_Description: Offline Earning + 20%
+  m_RequireNode:
+  - {fileID: 11400000, guid: 4614725d0b818144cb6ad02bcef547bb, type: 2}
+  m_Position: {x: 1748, y: -4}
+  m_NodeType: 6

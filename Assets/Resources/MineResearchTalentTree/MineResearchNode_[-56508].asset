@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 947157d8ee408614d989119454662ee3, type: 3}
+  m_Name: MineResearchNode_[-56508]
+  m_EditorClassIdentifier: 
+  m_NodeName: Diamond Bonus
+  m_NodeLine: 8
+  m_NodeIndex: 1
+  m_IconImage: {fileID: 21300000, guid: a2ab8bc9518453a4d9aa40a02d9d20f2, type: 3}
+  m_TalentLevelDatas:
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 600
+    m_Description: Bonus {0}% more diamond
+  m_RequireNode:
+  - {fileID: 11400000, guid: a1205e9f3f8d7c349b27e07cdb50973c, type: 2}
+  - {fileID: 11400000, guid: 88ef9f44429e9a643b5fe7aee59dcd38, type: 2}
+  - {fileID: 11400000, guid: bc9bc91d5f365134fac522df1ccfce9d, type: 2}
+  m_NodeType: 3
+  m_Position: {x: 3852, y: 452}

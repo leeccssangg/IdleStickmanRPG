@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32261c13b9a5f3a4ea3805abaa7f0f7c, type: 3}
+  m_Name: PLAYER_STATSTalentNode_[-7890]
+  m_EditorClassIdentifier: 
+  m_NodeName: Turret Attack
+  m_NodeLine: 2
+  m_NodeIndex: 2
+  m_NodePointRequire: 3
+  m_IconImage: {fileID: 21300000, guid: 4033993ae8c1f844188f64d5e1dba74f, type: 3}
+  m_TalentLevelDatas:
+  - m_Value: 0
+    m_Description: Turret Attack + 0%
+  - m_Value: 6
+    m_Description: Turret Attack + 6%
+  - m_Value: 12
+    m_Description: Turret Attack + 12%
+  - m_Value: 18
+    m_Description: Turret Attack + 18%
+  - m_Value: 24
+    m_Description: Turret Attack + 24%
+  - m_Value: 30
+    m_Description: Turret Attack + 30%
+  - m_Value: 36
+    m_Description: Turret Attack + 36%
+  - m_Value: 42
+    m_Description: Turret Attack + 42%
+  - m_Value: 48
+    m_Description: Turret Attack + 48%
+  - m_Value: 54
+    m_Description: Turret Attack + 54%
+  - m_Value: 60
+    m_Description: Turret Attack + 60%
+  - m_Value: 66
+    m_Description: Turret Attack + 66%
+  - m_Value: 72
+    m_Description: Turret Attack + 72%
+  - m_Value: 78
+    m_Description: Turret Attack + 78%
+  - m_Value: 84
+    m_Description: Turret Attack + 84%
+  - m_Value: 90
+    m_Description: Turret Attack + 90%
+  m_RequireNode:
+  - {fileID: 11400000, guid: 9895c51c9469d9444a8befce0898a798, type: 2}
+  m_Position: {x: 1004, y: 511}
+  m_NodeType: 5

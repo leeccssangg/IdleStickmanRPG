@@ -1,0 +1,715 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3793288eea8edb24085166942a4508ab, type: 3}
+  m_Name: RockieQuestGlobalConfig
+  m_EditorClassIdentifier: 
+  rockieQuests:
+  - day: 1
+    questConfig:
+      id: 1
+      type: 0
+      missionTarget: 10
+      targetAmount: 1
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 1
+    questConfig:
+      id: 2
+      type: 0
+      missionTarget: 11
+      targetAmount: 20
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 1
+    questConfig:
+      id: 3
+      type: 0
+      missionTarget: 12
+      targetAmount: 500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 1
+    questConfig:
+      id: 4
+      type: 0
+      missionTarget: 13
+      targetAmount: 500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 1
+    questConfig:
+      id: 5
+      type: 0
+      missionTarget: 14
+      targetAmount: 500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 1
+    questConfig:
+      id: 6
+      type: 0
+      missionTarget: 15
+      targetAmount: 100
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 1
+    questConfig:
+      id: 7
+      type: 0
+      missionTarget: 16
+      targetAmount: 30
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 1
+    questConfig:
+      id: 8
+      type: 0
+      missionTarget: 17
+      targetAmount: 30
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 1
+    questConfig:
+      id: 9
+      type: 0
+      missionTarget: 18
+      targetAmount: 30
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 1
+    questConfig:
+      id: 10
+      type: 0
+      missionTarget: 8
+      targetAmount: 2
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 11
+      type: 0
+      missionTarget: 10
+      targetAmount: 1
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 12
+      type: 0
+      missionTarget: 19
+      targetAmount: 3
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 13
+      type: 0
+      missionTarget: 11
+      targetAmount: 50
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 14
+      type: 0
+      missionTarget: 20
+      targetAmount: 50
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 15
+      type: 0
+      missionTarget: 21
+      targetAmount: 2
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 16
+      type: 0
+      missionTarget: 22
+      targetAmount: 2
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 17
+      type: 0
+      missionTarget: 23
+      targetAmount: 7
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 18
+      type: 0
+      missionTarget: 24
+      targetAmount: 150
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 19
+      type: 0
+      missionTarget: 25
+      targetAmount: 2
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 2
+    questConfig:
+      id: 20
+      type: 0
+      missionTarget: 26
+      targetAmount: 3
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 21
+      type: 0
+      missionTarget: 10
+      targetAmount: 1
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 22
+      type: 0
+      missionTarget: 11
+      targetAmount: 100
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 23
+      type: 0
+      missionTarget: 3
+      targetAmount: 2
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 24
+      type: 0
+      missionTarget: 4
+      targetAmount: 2
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 25
+      type: 0
+      missionTarget: 32
+      targetAmount: 2
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 26
+      type: 0
+      missionTarget: 6
+      targetAmount: 2
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 27
+      type: 0
+      missionTarget: 26
+      targetAmount: 3
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 28
+      type: 0
+      missionTarget: 16
+      targetAmount: 100
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 29
+      type: 0
+      missionTarget: 17
+      targetAmount: 100
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 3
+    questConfig:
+      id: 30
+      type: 0
+      missionTarget: 18
+      targetAmount: 100
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 31
+      type: 0
+      missionTarget: 10
+      targetAmount: 1
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 32
+      type: 0
+      missionTarget: 11
+      targetAmount: 120
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 33
+      type: 0
+      missionTarget: 33
+      targetAmount: 5
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 34
+      type: 0
+      missionTarget: 34
+      targetAmount: 20
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 35
+      type: 0
+      missionTarget: 35
+      targetAmount: 50
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 36
+      type: 0
+      missionTarget: 20
+      targetAmount: 100
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 37
+      type: 0
+      missionTarget: 12
+      targetAmount: 1500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 38
+      type: 0
+      missionTarget: 13
+      targetAmount: 1500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 39
+      type: 0
+      missionTarget: 30
+      targetAmount: 500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 4
+    questConfig:
+      id: 40
+      type: 0
+      missionTarget: 31
+      targetAmount: 1000
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 41
+      type: 0
+      missionTarget: 10
+      targetAmount: 1
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 42
+      type: 0
+      missionTarget: 11
+      targetAmount: 150
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 43
+      type: 0
+      missionTarget: 16
+      targetAmount: 100
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 44
+      type: 0
+      missionTarget: 17
+      targetAmount: 100
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 45
+      type: 0
+      missionTarget: 18
+      targetAmount: 100
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 46
+      type: 0
+      missionTarget: 6
+      targetAmount: 3
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 47
+      type: 0
+      missionTarget: 27
+      targetAmount: 3
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 48
+      type: 0
+      missionTarget: 28
+      targetAmount: 3
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 49
+      type: 0
+      missionTarget: 29
+      targetAmount: 1
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 5
+    questConfig:
+      id: 50
+      type: 0
+      missionTarget: 26
+      targetAmount: 5
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 51
+      type: 0
+      missionTarget: 10
+      targetAmount: 1
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 52
+      type: 0
+      missionTarget: 11
+      targetAmount: 180
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 53
+      type: 0
+      missionTarget: 12
+      targetAmount: 3500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 54
+      type: 0
+      missionTarget: 13
+      targetAmount: 3500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 55
+      type: 0
+      missionTarget: 14
+      targetAmount: 3500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 56
+      type: 0
+      missionTarget: 30
+      targetAmount: 1000
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 57
+      type: 0
+      missionTarget: 31
+      targetAmount: 3500
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 58
+      type: 0
+      missionTarget: 16
+      targetAmount: 300
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 59
+      type: 0
+      missionTarget: 17
+      targetAmount: 300
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 6
+    questConfig:
+      id: 60
+      type: 0
+      missionTarget: 18
+      targetAmount: 300
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 61
+      type: 0
+      missionTarget: 10
+      targetAmount: 1
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 62
+      type: 0
+      missionTarget: 11
+      targetAmount: 200
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 63
+      type: 0
+      missionTarget: 19
+      targetAmount: 5
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 64
+      type: 0
+      missionTarget: 20
+      targetAmount: 150
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 65
+      type: 0
+      missionTarget: 24
+      targetAmount: 200
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 66
+      type: 0
+      missionTarget: 21
+      targetAmount: 10
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 67
+      type: 0
+      missionTarget: 22
+      targetAmount: 10
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 68
+      type: 0
+      missionTarget: 6
+      targetAmount: 5
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 69
+      type: 0
+      missionTarget: 4
+      targetAmount: 5
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 
+  - day: 7
+    questConfig:
+      id: 70
+      type: 0
+      missionTarget: 32
+      targetAmount: 5
+      reward:
+        rewardType: 2
+        amount: 200
+      description: 

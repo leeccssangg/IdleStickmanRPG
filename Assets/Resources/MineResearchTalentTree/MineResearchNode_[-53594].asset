@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 947157d8ee408614d989119454662ee3, type: 3}
+  m_Name: MineResearchNode_[-53594]
+  m_EditorClassIdentifier: 
+  m_NodeName: Diamond Bonus
+  m_NodeLine: 6
+  m_NodeIndex: 2
+  m_IconImage: {fileID: 21300000, guid: a2ab8bc9518453a4d9aa40a02d9d20f2, type: 3}
+  m_TalentLevelDatas:
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 30
+    m_Description: Bonus {0}% more diamond
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 60
+    m_Description: Bonus {0}% more diamond
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 90
+    m_Description: Bonus {0}% more diamond
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 120
+    m_Description: Bonus {0}% more diamond
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 150
+    m_Description: Bonus {0}% more diamond
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 180
+    m_Description: Bonus {0} more diamond
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 210
+    m_Description: Bonus {0} more diamond
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 240
+    m_Description: Bonus {0} more diamond
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 270
+    m_Description: Bonus {0} more diamond
+  - m_Cost: 1000
+    m_TimeResearch: 60
+    m_Value: 300
+    m_Description: Bonus {0} more diamond
+  m_RequireNode:
+  - {fileID: 11400000, guid: 3b66af025edea8c409dc3545afa7a304, type: 2}
+  m_NodeType: 3
+  m_Position: {x: 2975, y: 133}

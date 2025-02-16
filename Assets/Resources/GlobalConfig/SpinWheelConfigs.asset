@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 317d7c650c5846542b992f3c8e585c24, type: 3}
+  m_Name: SpinWheelConfigs
+  m_EditorClassIdentifier: 
+  SpinWheelDataConfigs:
+  - m_WheelLevel: 0
+    m_UpgradeRequire: 2
+    m_GemPerSpin: 20
+    m_WheelDatasConfigs:
+    - m_Icon: {fileID: 21300000, guid: 5dfb16ae0220748c98c6d5ab5220b70a, type: 3}
+      m_ItemType: 1
+      m_Amount: 200
+      m_Chance: 45
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: f434a60f1f85c47e085d09cab598d63d, type: 3}
+      m_ItemType: 1
+      m_Amount: 500
+      m_Chance: 24
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: d26dfb6e166ea49938deb2366511908d, type: 3}
+      m_ItemType: 1
+      m_Amount: 1000
+      m_Chance: 13
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: c1ada327db13247518d5a0bda29ed999, type: 3}
+      m_ItemType: 1
+      m_Amount: 1500
+      m_Chance: 5
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: a91b3bdd41b664d77b88a55ba9be7d8a, type: 3}
+      m_ItemType: 3
+      m_Amount: 1
+      m_Chance: 4
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: 9f8ec0d58522f429d938ada2e1aa5296, type: 3}
+      m_ItemType: 4
+      m_Amount: 1
+      m_Chance: 3
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: 03128ad38fd0e4b9aa024763b0d8a3cc, type: 3}
+      m_ItemType: 5
+      m_Amount: 1
+      m_Chance: 3
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: d8ec7bed8b86f4a3d905859476e40a84, type: 3}
+      m_ItemType: 6
+      m_Amount: 1
+      m_Chance: 3
+      m_Index: 0
+      _weight: 0
+  - m_WheelLevel: 1
+    m_UpgradeRequire: 4
+    m_GemPerSpin: 40
+    m_WheelDatasConfigs:
+    - m_Icon: {fileID: 21300000, guid: 5dfb16ae0220748c98c6d5ab5220b70a, type: 3}
+      m_ItemType: 1
+      m_Amount: 500
+      m_Chance: 45
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: f434a60f1f85c47e085d09cab598d63d, type: 3}
+      m_ItemType: 1
+      m_Amount: 1000
+      m_Chance: 24
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: d26dfb6e166ea49938deb2366511908d, type: 3}
+      m_ItemType: 1
+      m_Amount: 1500
+      m_Chance: 13
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: c1ada327db13247518d5a0bda29ed999, type: 3}
+      m_ItemType: 1
+      m_Amount: 2000
+      m_Chance: 5
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: a91b3bdd41b664d77b88a55ba9be7d8a, type: 3}
+      m_ItemType: 3
+      m_Amount: 2
+      m_Chance: 4
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: 9f8ec0d58522f429d938ada2e1aa5296, type: 3}
+      m_ItemType: 4
+      m_Amount: 2
+      m_Chance: 3
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: 03128ad38fd0e4b9aa024763b0d8a3cc, type: 3}
+      m_ItemType: 5
+      m_Amount: 2
+      m_Chance: 3
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: d8ec7bed8b86f4a3d905859476e40a84, type: 3}
+      m_ItemType: 6
+      m_Amount: 2
+      m_Chance: 3
+      m_Index: 0
+      _weight: 0
+  - m_WheelLevel: 2
+    m_UpgradeRequire: 8
+    m_GemPerSpin: 80
+    m_WheelDatasConfigs:
+    - m_Icon: {fileID: 21300000, guid: 5dfb16ae0220748c98c6d5ab5220b70a, type: 3}
+      m_ItemType: 1
+      m_Amount: 1000
+      m_Chance: 45
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: f434a60f1f85c47e085d09cab598d63d, type: 3}
+      m_ItemType: 1
+      m_Amount: 1500
+      m_Chance: 24
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: d26dfb6e166ea49938deb2366511908d, type: 3}
+      m_ItemType: 1
+      m_Amount: 2000
+      m_Chance: 13
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: c1ada327db13247518d5a0bda29ed999, type: 3}
+      m_ItemType: 1
+      m_Amount: 2500
+      m_Chance: 5
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: a91b3bdd41b664d77b88a55ba9be7d8a, type: 3}
+      m_ItemType: 3
+      m_Amount: 3
+      m_Chance: 4
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: 9f8ec0d58522f429d938ada2e1aa5296, type: 3}
+      m_ItemType: 4
+      m_Amount: 3
+      m_Chance: 3
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: 03128ad38fd0e4b9aa024763b0d8a3cc, type: 3}
+      m_ItemType: 5
+      m_Amount: 3
+      m_Chance: 3
+      m_Index: 0
+      _weight: 0
+    - m_Icon: {fileID: 21300000, guid: d8ec7bed8b86f4a3d905859476e40a84, type: 3}
+      m_ItemType: 6
+      m_Amount: 3
+      m_Chance: 3
+      m_Index: 0
+      _weight: 0
