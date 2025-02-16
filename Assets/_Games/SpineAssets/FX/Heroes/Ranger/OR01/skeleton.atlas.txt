@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 440,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Skill/Skill_OR01/Boomerang
+  rotate: true
+  xy: 334, 44
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+FX/Skill/Skill_OR01/Boomerang 2
+  rotate: true
+  xy: 218, 30
+  size: 117, 114
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+FX/Skill/Skill_OR01/OR01001
+  rotate: false
+  xy: 2, 3
+  size: 214, 145
+  orig: 240, 240
+  offset: 26, 53
+  index: -1
+FX/Skill/Skill_OR01/OR01002
+  rotate: false
+  xy: 2, 43
+  size: 57, 105
+  orig: 240, 240
+  offset: 183, 74
+  index: -1
+FX/Skill/Skill_OR01/OR01003
+  rotate: false
+  xy: 55, 64
+  size: 52, 85
+  orig: 240, 240
+  offset: 188, 83
+  index: -1

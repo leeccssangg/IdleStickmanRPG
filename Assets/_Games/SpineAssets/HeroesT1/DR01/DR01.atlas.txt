@@ -1,0 +1,195 @@
+
+DR01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE/Arm
+  rotate: true
+  xy: 114, 20
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+BASE/Body
+  rotate: false
+  xy: 236, 67
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+BASE/Eye
+  rotate: false
+  xy: 2, 4
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+BASE/Foot
+  rotate: false
+  xy: 70, 4
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+BASE/ForeArm
+  rotate: true
+  xy: 183, 9
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+BASE/Hand_1_Punch
+  rotate: true
+  xy: 152, 16
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_2_Punch
+  rotate: false
+  xy: 39, 3
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+BASE/Hand_3_Index
+  rotate: false
+  xy: 188, 26
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+BASE/Hand_4_Open
+  rotate: false
+  xy: 2, 23
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+BASE/Hand_5_Claw
+  rotate: false
+  xy: 81, 16
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+BASE/Hand_6_Up
+  rotate: false
+  xy: 46, 27
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_7_Gun
+  rotate: false
+  xy: 114, 7
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+BASE/Head
+  rotate: false
+  xy: 184, 73
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BASE/Leg
+  rotate: true
+  xy: 46, 58
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+BASE/Thigh
+  rotate: false
+  xy: 230, 184
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+DR/CrossBow_1
+  rotate: true
+  xy: 184, 125
+  size: 121, 44
+  orig: 123, 46
+  offset: 1, 1
+  index: -1
+DR/CrossBow_2
+  rotate: true
+  xy: 137, 124
+  size: 122, 45
+  orig: 124, 47
+  offset: 1, 1
+  index: -1
+DR/CrossBow_3
+  rotate: false
+  xy: 2, 133
+  size: 133, 44
+  orig: 135, 46
+  offset: 1, 1
+  index: -1
+DR/CrossBow_4
+  rotate: false
+  xy: 2, 85
+  size: 126, 46
+  orig: 128, 48
+  offset: 1, 1
+  index: -1
+DR/CrossBow_5
+  rotate: false
+  xy: 2, 179
+  size: 133, 67
+  orig: 135, 69
+  offset: 1, 1
+  index: -1
+DR/Skin_3/Horn
+  rotate: true
+  xy: 106, 42
+  size: 29, 41
+  orig: 31, 43
+  offset: 1, 1
+  index: -1
+DR/Skin_3/R_Bracer
+  rotate: false
+  xy: 230, 16
+  size: 21, 31
+  orig: 23, 33
+  offset: 1, 1
+  index: -1
+DR/Skin_3/R_Leg
+  rotate: true
+  xy: 149, 40
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+DR/Skin_5/Horn
+  rotate: false
+  xy: 130, 73
+  size: 36, 49
+  orig: 38, 51
+  offset: 1, 1
+  index: -1
+DR/Skin_5/Mask
+  rotate: false
+  xy: 188, 49
+  size: 48, 22
+  orig: 50, 24
+  offset: 1, 1
+  index: -1
+DR/Skin_5/R_Bracer
+  rotate: false
+  xy: 230, 134
+  size: 21, 48
+  orig: 23, 51
+  offset: 1, 2
+  index: -1
+DR/Skin_5/R_Leg
+  rotate: true
+  xy: 2, 52
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1

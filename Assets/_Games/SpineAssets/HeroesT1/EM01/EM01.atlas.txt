@@ -1,0 +1,223 @@
+
+EM01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE/Arm
+  rotate: true
+  xy: 35, 18
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+BASE/Body
+  rotate: true
+  xy: 2, 47
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+BASE/Eye
+  rotate: false
+  xy: 2, 3
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+BASE/Finger
+  rotate: false
+  xy: 219, 11
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+BASE/Foot
+  rotate: false
+  xy: 135, 9
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+BASE/ForeArm
+  rotate: true
+  xy: 135, 21
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+BASE/Hand_1_Punch
+  rotate: true
+  xy: 188, 16
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_2_Punch
+  rotate: false
+  xy: 73, 14
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+BASE/Hand_3_Index
+  rotate: false
+  xy: 69, 38
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+BASE/Hand_4_Open
+  rotate: false
+  xy: 188, 40
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+BASE/Hand_5_Claw
+  rotate: false
+  xy: 2, 22
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+BASE/Hand_6_Up
+  rotate: false
+  xy: 153, 38
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_7_Gun
+  rotate: false
+  xy: 227, 120
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+BASE/Head
+  rotate: false
+  xy: 62, 145
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BASE/Leg
+  rotate: true
+  xy: 154, 69
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+BASE/Thigh
+  rotate: false
+  xy: 235, 133
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+EM/Skin_1/Cape
+  rotate: false
+  xy: 62, 97
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+EM/Skin_1/Tiara
+  rotate: false
+  xy: 104, 61
+  size: 47, 21
+  orig: 49, 23
+  offset: 1, 1
+  index: -1
+EM/Skin_3/Cape
+  rotate: false
+  xy: 213, 68
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+EM/Skin_3/Gloves
+  rotate: true
+  xy: 104, 17
+  size: 19, 29
+  orig: 21, 31
+  offset: 1, 1
+  index: -1
+EM/Skin_3/R_Leg
+  rotate: false
+  xy: 225, 35
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+EM/Skin_3/Tiara
+  rotate: true
+  xy: 204, 147
+  size: 48, 29
+  orig: 50, 31
+  offset: 1, 1
+  index: -1
+EM/Skin_5/Cape
+  rotate: true
+  xy: 179, 99
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+EM/Skin_5/Gloves
+  rotate: true
+  xy: 111, 38
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+EM/Skin_5/R_Leg
+  rotate: true
+  xy: 62, 65
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+EM/Skin_5/Tiara
+  rotate: true
+  xy: 173, 146
+  size: 49, 29
+  orig: 51, 31
+  offset: 1, 1
+  index: -1
+EM/Wand_1
+  rotate: false
+  xy: 154, 102
+  size: 17, 93
+  orig: 19, 95
+  offset: 1, 1
+  index: -1
+EM/Wand_2
+  rotate: false
+  xy: 134, 85
+  size: 18, 110
+  orig: 20, 112
+  offset: 1, 1
+  index: -1
+EM/Wand_3
+  rotate: false
+  xy: 114, 84
+  size: 18, 111
+  orig: 21, 113
+  offset: 1, 1
+  index: -1
+EM/Wand_4
+  rotate: false
+  xy: 36, 81
+  size: 24, 114
+  orig: 26, 116
+  offset: 1, 1
+  index: -1
+EM/Wand_5
+  rotate: false
+  xy: 2, 65
+  size: 32, 130
+  orig: 34, 132
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 296,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Buff/DB01/Ball
+  rotate: false
+  xy: 155, 165
+  size: 26, 25
+  orig: 28, 27
+  offset: 1, 1
+  index: -1
+FX/Buff/DB01/Ellipse
+  rotate: false
+  xy: 196, 41
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX/Buff/DB01/Light
+  rotate: true
+  xy: 2, 2
+  size: 71, 192
+  orig: 71, 227
+  offset: 0, 31
+  index: -1
+FX/Buff/DB01/Line 1
+  rotate: false
+  xy: 193, 93
+  size: 47, 198
+  orig: 47, 198
+  offset: 0, 0
+  index: -1
+FX/Buff/DB01/Line 2
+  rotate: false
+  xy: 242, 93
+  size: 44, 198
+  orig: 44, 198
+  offset: 0, 0
+  index: -1
+FX/Buff/DB01/Ray light
+  rotate: false
+  xy: 2, 152
+  size: 151, 139
+  orig: 155, 144
+  offset: 2, 2
+  index: -1
+FX/Buff/DB01/Star
+  rotate: false
+  xy: 155, 192
+  size: 36, 99
+  orig: 36, 99
+  offset: 0, 0
+  index: -1
+FX/Buff/DB01/Sword
+  rotate: true
+  xy: 2, 75
+  size: 75, 167
+  orig: 83, 174
+  offset: 4, 3
+  index: -1

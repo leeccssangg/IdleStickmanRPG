@@ -1,0 +1,76 @@
+
+EB5.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 293
+  size: 160, 146
+  orig: 162, 148
+  offset: 1, 1
+  index: -1
+Close-eyes
+  rotate: false
+  xy: 2, 93
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+L_Foot
+  rotate: false
+  xy: 54, 47
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 92, 69
+  size: 67, 115
+  orig: 67, 115
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 52, 9
+  size: 32, 30
+  orig: 34, 32
+  offset: 1, 1
+  index: -1
+Open_Eyes
+  rotate: false
+  xy: 2, 41
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+R_Arm
+  rotate: false
+  xy: 2, 105
+  size: 107, 93
+  orig: 107, 93
+  offset: 0, 0
+  index: -1
+R_Finger
+  rotate: true
+  xy: 2, 3
+  size: 36, 48
+  orig: 38, 50
+  offset: 1, 1
+  index: -1
+R_Foot
+  rotate: true
+  xy: 90, 33
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 2, 200
+  size: 91, 152
+  orig: 93, 154
+  offset: 1, 1
+  index: -1

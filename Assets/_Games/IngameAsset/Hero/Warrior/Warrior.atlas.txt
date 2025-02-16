@@ -1,0 +1,76 @@
+
+Warrior.png
+size: 480,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: true
+  xy: 331, 39
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 422, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: true
+  xy: 461, 33
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 276, 6
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Knee
+  rotate: true
+  xy: 400, 34
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 331, 2
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1
+R_Elbow
+  rotate: true
+  xy: 422, 16
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 397, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Thigh
+  rotate: true
+  xy: 331, 14
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+Warrior/Sword
+  rotate: true
+  xy: 2, 2
+  size: 57, 272
+  orig: 57, 272
+  offset: 0, 0
+  index: -1

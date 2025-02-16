@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 508,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Attack/OW01/OW01001
+  rotate: 270
+  xy: 383, 89
+  size: 172, 121
+  orig: 300, 300
+  offset: 46, 85
+  index: -1
+FX/Attack/OW01/OW01003
+  rotate: false
+  xy: 2, 39
+  size: 119, 68
+  orig: 300, 300
+  offset: 35, 82
+  index: -1
+FX/Attack/OW01/OW01004
+  rotate: false
+  xy: 2, 185
+  size: 102, 75
+  orig: 300, 300
+  offset: 40, 81
+  index: -1
+FX/Skill/Skill_OW01/OW0001
+  rotate: false
+  xy: 2, 107
+  size: 250, 154
+  orig: 250, 154
+  offset: 0, 0
+  index: -1
+FX/Skill/Skill_OW01/OW0002
+  rotate: 180
+  xy: 145, 3
+  size: 138, 140
+  orig: 250, 154
+  offset: 112, 0
+  index: -1
+FX/Skill/Skill_OW01/OW0003
+  rotate: false
+  xy: 239, 6
+  size: 142, 105
+  orig: 250, 154
+  offset: 108, 0
+  index: -1
+FX/Skill/Skill_OW01/Rock blur
+  rotate: false
+  xy: 254, 119
+  size: 128, 141
+  orig: 133, 141
+  offset: 0, 0
+  index: -1

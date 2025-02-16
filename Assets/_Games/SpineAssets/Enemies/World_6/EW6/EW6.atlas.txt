@@ -1,0 +1,188 @@
+
+EW6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 177, 134
+  size: 206, 194
+  orig: 206, 194
+  offset: 0, 0
+  index: -1
+Close-Eyes
+  rotate: false
+  xy: 360, 161
+  size: 92, 45
+  orig: 94, 47
+  offset: 1, 1
+  index: -1
+Hair-1
+  rotate: true
+  xy: 55, 12
+  size: 34, 44
+  orig: 36, 46
+  offset: 1, 1
+  index: -1
+Hair-2
+  rotate: true
+  xy: 229, 297
+  size: 31, 24
+  orig: 33, 26
+  offset: 1, 1
+  index: -1
+Hair-3
+  rotate: false
+  xy: 398, 31
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+Hair-4
+  rotate: true
+  xy: 260, 15
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Hair-5
+  rotate: true
+  xy: 236, 49
+  size: 34, 71
+  orig: 34, 73
+  offset: 0, 2
+  index: -1
+Hair-6
+  rotate: true
+  xy: 2, 49
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Hair-7
+  rotate: false
+  xy: 434, 37
+  size: 36, 46
+  orig: 38, 48
+  offset: 1, 1
+  index: -1
+L-Arm-1
+  rotate: false
+  xy: 329, 138
+  size: 57, 21
+  orig: 59, 23
+  offset: 1, 1
+  index: -1
+L-Arm-2
+  rotate: false
+  xy: 2, 15
+  size: 51, 31
+  orig: 53, 33
+  offset: 1, 1
+  index: -1
+L-Foot
+  rotate: true
+  xy: 161, 28
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: true
+  xy: 354, 2
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+Lance
+  rotate: true
+  xy: 2, 86
+  size: 47, 492
+  orig: 49, 494
+  offset: 1, 1
+  index: -1
+Mouth
+  rotate: true
+  xy: 385, 208
+  size: 120, 48
+  orig: 122, 50
+  offset: 1, 1
+  index: -1
+Nose
+  rotate: false
+  xy: 478, 322
+  size: 25, 6
+  orig: 27, 8
+  offset: 1, 1
+  index: -1
+Open-Eyes
+  rotate: true
+  xy: 435, 241
+  size: 87, 41
+  orig: 89, 43
+  offset: 1, 1
+  index: -1
+R-Arm
+  rotate: false
+  xy: 80, 13
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+R-Finger
+  rotate: true
+  xy: 171, 3
+  size: 37, 40
+  orig: 39, 42
+  offset: 1, 1
+  index: -1
+R-Hand
+  rotate: false
+  xy: 472, 46
+  size: 36, 37
+  orig: 38, 39
+  offset: 1, 1
+  index: -1
+R-Leg
+  rotate: false
+  xy: 354, 40
+  size: 42, 43
+  orig: 44, 45
+  offset: 1, 1
+  index: -1
+R-Leg-2
+  rotate: false
+  xy: 309, 38
+  size: 43, 45
+  orig: 45, 47
+  offset: 1, 1
+  index: -1
+R-foot
+  rotate: false
+  xy: 454, 143
+  size: 52, 19
+  orig: 52, 19
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 2, 159
+  size: 173, 169
+  orig: 175, 171
+  offset: 1, 1
+  index: -1
+handle-1
+  rotate: false
+  xy: 177, 266
+  size: 50, 62
+  orig: 52, 64
+  offset: 1, 1
+  index: -1
+handle-2
+  rotate: true
+  xy: 454, 164
+  size: 75, 40
+  orig: 77, 42
+  offset: 1, 1
+  index: -1

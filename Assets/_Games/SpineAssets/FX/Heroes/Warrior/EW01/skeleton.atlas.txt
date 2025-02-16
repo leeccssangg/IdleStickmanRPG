@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 512,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Attack/EW01/EW01001
+  rotate: false
+  xy: 94, 188
+  size: 211, 148
+  orig: 300, 300
+  offset: 46, 100
+  index: -1
+FX/Attack/EW01/EW01003
+  rotate: false
+  xy: 286, 193
+  size: 165, 141
+  orig: 300, 300
+  offset: 92, 106
+  index: -1
+FX/Attack/EW01/EW01004
+  rotate: 270
+  xy: 380, 92
+  size: 126, 130
+  orig: 300, 300
+  offset: 134, 102
+  index: -1
+FX/Attack/EW01/EW01005
+  rotate: 180
+  xy: 2, 14
+  size: 123, 120
+  orig: 300, 300
+  offset: 133, 106
+  index: -1
+FX/Attack/EW01/EW01006
+  rotate: 180
+  xy: 111, 3
+  size: 127, 118
+  orig: 300, 300
+  offset: 128, 103
+  index: -1
+FX/Skill/Skill_EW01/EW010001
+  rotate: 180
+  xy: 240, 335
+  size: 250, 104
+  orig: 250, 115
+  offset: 0, 0
+  index: -1
+FX/Skill/Skill_EW01/EW010002
+  rotate: false
+  xy: 2, 324
+  size: 250, 115
+  orig: 250, 115
+  offset: 0, 0
+  index: -1
+FX/Skill/Skill_EW01/EW010003
+  rotate: 270
+  xy: 2, 173
+  size: 202, 115
+  orig: 250, 115
+  offset: 48, 0
+  index: -1
+FX/Skill/Skill_EW01/EW010004
+  rotate: 180
+  xy: 167, 92
+  size: 191, 105
+  orig: 250, 115
+  offset: 59, 10
+  index: -1
+FX/Skill/Skill_EW01/EW010005
+  rotate: false
+  xy: 47, 104
+  size: 156, 93
+  orig: 250, 115
+  offset: 94, 12
+  index: -1
+FX/Skill/Skill_EW01/EW010006
+  rotate: false
+  xy: 360, 59
+  size: 148, 34
+  orig: 250, 115
+  offset: 102, 17
+  index: -1
+FX/Skill/Skill_EW01/EW010007
+  rotate: false
+  xy: 220, 58
+  size: 126, 34
+  orig: 250, 115
+  offset: 124, 15
+  index: -1

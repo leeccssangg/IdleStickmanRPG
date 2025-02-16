@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 204,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Buff/OB01/Coin
+  rotate: false
+  xy: 2, 71
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+FX/Buff/OB01/SOB1
+  rotate: true
+  xy: 2, 151
+  size: 26, 189
+  orig: 26, 189
+  offset: 0, 0
+  index: -1
+FX/Buff/OB01/SOB11
+  rotate: true
+  xy: 2, 179
+  size: 22, 191
+  orig: 22, 191
+  offset: 0, 0
+  index: -1
+FX/Buff/OB01/SOB2
+  rotate: false
+  xy: 50, 60
+  size: 151, 42
+  orig: 153, 43
+  offset: 1, 0
+  index: -1
+FX/Buff/OB01/SOB21
+  rotate: false
+  xy: 2, 119
+  size: 140, 30
+  orig: 142, 31
+  offset: 1, 0
+  index: -1
+FX/Buff/OB01/Star
+  rotate: true
+  xy: 144, 104
+  size: 45, 46
+  orig: 63, 63
+  offset: 9, 7
+  index: -1

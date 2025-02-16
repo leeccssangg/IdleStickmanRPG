@@ -1,0 +1,160 @@
+
+EB8.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 281
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 2, 124
+  size: 71, 71
+  orig: 75, 75
+  offset: 2, 2
+  index: -1
+Face
+  rotate: false
+  xy: 152, 308
+  size: 74, 112
+  orig: 74, 112
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 34
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: 180
+  xy: 177, 34
+  size: 77, 54
+  orig: 77, 54
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: 180
+  xy: 214, 271
+  size: 37, 129
+  orig: 37, 129
+  offset: 0, 0
+  index: -1
+L_Horn
+  rotate: true
+  xy: 75, 78
+  size: 67, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 119, 55
+  size: 36, 99
+  orig: 36, 99
+  offset: 0, 0
+  index: -1
+L_Thight
+  rotate: true
+  xy: 124, 178
+  size: 17, 86
+  orig: 17, 86
+  offset: 0, 0
+  index: -1
+L_Wing
+  rotate: true
+  xy: 2, 65
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 145, 12
+  size: 19, 65
+  orig: 20, 66
+  offset: 1, 1
+  index: -1
+R_Elbow
+  rotate: true
+  xy: 76, 6
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+R_Finger_01
+  rotate: false
+  xy: 212, 15
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+R_Finger_02
+  rotate: false
+  xy: 184, 288
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+R_Finger_03
+  rotate: true
+  xy: 87, 3
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+R_Finger_04
+  rotate: false
+  xy: 152, 283
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+R_Horn
+  rotate: false
+  xy: 195, 92
+  size: 55, 43
+  orig: 56, 43
+  offset: 1, 0
+  index: -1
+R_Leg
+  rotate: 180
+  xy: 217, 168
+  size: 36, 105
+  orig: 36, 105
+  offset: 0, 0
+  index: -1
+R_Thight
+  rotate: true
+  xy: 2, 15
+  size: 17, 83
+  orig: 17, 83
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: true
+  xy: 125, 92
+  size: 53, 68
+  orig: 53, 69
+  offset: 0, 1
+  index: -1
+Tail
+  rotate: true
+  xy: 75, 137
+  size: 58, 161
+  orig: 58, 161
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 2, 197
+  size: 82, 213
+  orig: 82, 213
+  offset: 0, 0
+  index: -1

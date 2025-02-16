@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 237,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/FX_EW10001
+  rotate: false
+  xy: 2, 3
+  size: 226, 290
+  orig: 236, 330
+  offset: 10, 16
+  index: -1
+Fx/FX_EW10002
+  rotate: 180
+  xy: 114, 115
+  size: 121, 178
+  orig: 236, 330
+  offset: 10, 22
+  index: -1

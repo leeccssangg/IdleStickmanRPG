@@ -1,0 +1,216 @@
+
+skeleton.png
+size: 512,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Attack/DW01/DW01001
+  rotate: false
+  xy: 478, 196
+  size: 32, 34
+  orig: 160, 74
+  offset: 13, 29
+  index: -1
+FX/Attack/DW01/DW010010
+  rotate: 180
+  xy: 133, 187
+  size: 42, 37
+  orig: 160, 74
+  offset: 0, 29
+  index: -1
+FX/Attack/DW01/DW010011
+  rotate: false
+  xy: 168, 27
+  size: 76, 31
+  orig: 160, 74
+  offset: 13, 28
+  index: -1
+FX/Attack/DW01/DW010012
+  rotate: 180
+  xy: 403, 57
+  size: 107, 37
+  orig: 160, 74
+  offset: 53, 15
+  index: -1
+FX/Attack/DW01/DW010013
+  rotate: 180
+  xy: 167, 58
+  size: 99, 43
+  orig: 160, 74
+  offset: 61, 12
+  index: -1
+FX/Attack/DW01/DW010014
+  rotate: true
+  xy: 2, 243
+  size: 79, 55
+  orig: 160, 74
+  offset: 81, 7
+  index: -1
+FX/Attack/DW01/DW010015
+  rotate: true
+  xy: 267, 35
+  size: 50, 64
+  orig: 160, 74
+  offset: 107, 4
+  index: -1
+FX/Attack/DW01/DW010016
+  rotate: false
+  xy: 477, 230
+  size: 27, 74
+  orig: 160, 74
+  offset: 119, 0
+  index: -1
+FX/Attack/DW01/DW010017
+  rotate: 270
+  xy: 255, 11
+  size: 24, 74
+  orig: 160, 74
+  offset: 120, 0
+  index: -1
+FX/Attack/DW01/DW010018
+  rotate: false
+  xy: 281, 86
+  size: 19, 74
+  orig: 160, 74
+  offset: 119, 0
+  index: -1
+FX/Attack/DW01/DW01002
+  rotate: false
+  xy: 2, 75
+  size: 44, 42
+  orig: 160, 74
+  offset: 14, 24
+  index: -1
+FX/Attack/DW01/DW01003
+  rotate: 180
+  xy: 46, 54
+  size: 119, 41
+  orig: 160, 74
+  offset: 36, 13
+  index: -1
+FX/Attack/DW01/DW01004
+  rotate: false
+  xy: 305, 84
+  size: 118, 48
+  orig: 160, 74
+  offset: 42, 9
+  index: -1
+FX/Attack/DW01/DW01005
+  rotate: false
+  xy: 65, 27
+  size: 104, 39
+  orig: 160, 74
+  offset: 50, 15
+  index: -1
+FX/Attack/DW01/DW01006
+  rotate: true
+  xy: 2, 14
+  size: 51, 64
+  orig: 160, 74
+  offset: 103, 5
+  index: -1
+FX/Attack/DW01/DW01007
+  rotate: true
+  xy: 384, 23
+  size: 35, 69
+  orig: 160, 74
+  offset: 112, 0
+  index: -1
+FX/Attack/DW01/DW01008
+  rotate: true
+  xy: 442, 4
+  size: 31, 68
+  orig: 160, 74
+  offset: 116, 0
+  index: -1
+FX/Attack/DW01/DW01009
+  rotate: 270
+  xy: 66, 4
+  size: 23, 74
+  orig: 160, 74
+  offset: 120, 0
+  index: -1
+FX/Skill/Skill_DW01/DW010001
+  rotate: false
+  xy: 2, 96
+  size: 154, 48
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+FX/Skill/Skill_DW01/DW010002
+  rotate: false
+  xy: 265, 128
+  size: 158, 70
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+FX/Skill/Skill_DW01/DW010003
+  rotate: 180
+  xy: 2, 146
+  size: 171, 83
+  orig: 198, 198
+  offset: 27, 0
+  index: -1
+FX/Skill/Skill_DW01/DW010004
+  rotate: false
+  xy: 348, 306
+  size: 149, 198
+  orig: 198, 198
+  offset: 49, 0
+  index: -1
+FX/Skill/Skill_DW01/DW010005
+  rotate: false
+  xy: 2, 322
+  size: 174, 183
+  orig: 198, 198
+  offset: 24, 15
+  index: -1
+FX/Skill/Skill_DW01/DW010006
+  rotate: true
+  xy: 177, 334
+  size: 171, 169
+  orig: 198, 198
+  offset: 27, 29
+  index: -1
+FX/Skill/Skill_DW01/DW010007
+  rotate: 180
+  xy: 208, 202
+  size: 159, 132
+  orig: 198, 198
+  offset: 39, 42
+  index: -1
+FX/Skill/Skill_DW01/DW010008
+  rotate: false
+  xy: 73, 224
+  size: 134, 98
+  orig: 198, 198
+  offset: 58, 70
+  index: -1
+FX/Skill/Skill_DW01/DW010009
+  rotate: true
+  xy: 424, 110
+  size: 89, 74
+  orig: 198, 198
+  offset: 65, 91
+  index: -1
+FX/Skill/Skill_DW01/Light
+  rotate: false
+  xy: 332, 31
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX/Skill/Skill_DW01/PW
+  rotate: false
+  xy: 368, 199
+  size: 107, 105
+  orig: 109, 107
+  offset: 1, 1
+  index: -1
+FX/Skill/Skill_DW01/Slash
+  rotate: 270
+  xy: 174, 101
+  size: 99, 106
+  orig: 99, 111
+  offset: 0, 5
+  index: -1

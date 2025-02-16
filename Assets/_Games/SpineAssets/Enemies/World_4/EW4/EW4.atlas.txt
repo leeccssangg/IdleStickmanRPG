@@ -1,0 +1,181 @@
+
+EW4.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 61, 329
+  size: 134, 142
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 2, 18
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+Eyes-Close copy
+  rotate: false
+  xy: 185, 319
+  size: 29, 33
+  orig: 31, 35
+  offset: 1, 1
+  index: -1
+Eyes-Open copy
+  rotate: false
+  xy: 190, 126
+  size: 29, 33
+  orig: 31, 35
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: 180
+  xy: 148, 5
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 61, 238
+  size: 70, 89
+  orig: 72, 91
+  offset: 1, 1
+  index: -1
+L_Arm
+  rotate: 180
+  xy: 133, 128
+  size: 67, 75
+  orig: 68, 75
+  offset: 1, 0
+  index: -1
+L_Elbow
+  rotate: true
+  xy: 89, 179
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 181, 280
+  size: 34, 38
+  orig: 34, 39
+  offset: 0, 1
+  index: -1
+L_Horn
+  rotate: false
+  xy: 2, 43
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+L_Thight
+  rotate: true
+  xy: 43, 4
+  size: 30, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 90, 13
+  size: 44, 35
+  orig: 46, 37
+  offset: 1, 1
+  index: -1
+Neck
+  rotate: true
+  xy: 133, 246
+  size: 81, 46
+  orig: 83, 48
+  offset: 1, 1
+  index: -1
+Overalls
+  rotate: false
+  xy: 2, 140
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 121, 69
+  size: 59, 79
+  orig: 60, 79
+  offset: 1, 0
+  index: -1
+R_Elbow
+  rotate: true
+  xy: 75, 91
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+R_Finger_01
+  rotate: false
+  xy: 200, 5
+  size: 25, 21
+  orig: 27, 23
+  offset: 1, 1
+  index: -1
+R_Finger_02
+  rotate: false
+  xy: 197, 376
+  size: 28, 19
+  orig: 30, 21
+  offset: 1, 1
+  index: -1
+R_Finger_03
+  rotate: false
+  xy: 191, 354
+  size: 28, 20
+  orig: 30, 22
+  offset: 1, 1
+  index: -1
+R_Finger_04
+  rotate: false
+  xy: 200, 41
+  size: 21, 28
+  orig: 23, 30
+  offset: 1, 1
+  index: -1
+R_Foot
+  rotate: true
+  xy: 180, 436
+  size: 35, 36
+  orig: 35, 37
+  offset: 0, 1
+  index: -1
+R_Horn
+  rotate: 270
+  xy: 170, 214
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+R_Thight
+  rotate: false
+  xy: 196, 187
+  size: 30, 43
+  orig: 33, 45
+  offset: 2, 1
+  index: -1
+Straps
+  rotate: 180
+  xy: 58, 51
+  size: 139, 42
+  orig: 139, 42
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 191
+  size: 57, 280
+  orig: 59, 282
+  offset: 1, 1
+  index: -1

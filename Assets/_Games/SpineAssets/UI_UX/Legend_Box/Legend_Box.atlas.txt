@@ -1,0 +1,40 @@
+
+Legend_Box.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Front_Box
+  rotate: false
+  xy: 2, 20
+  size: 285, 162
+  orig: 287, 164
+  offset: 1, 1
+  index: -1
+LEGEND_Closed
+  rotate: false
+  xy: 2, 184
+  size: 285, 305
+  orig: 287, 307
+  offset: 1, 1
+  index: -1
+Lid
+  rotate: true
+  xy: 289, 164
+  size: 325, 199
+  orig: 325, 199
+  offset: 0, 0
+  index: -1
+
+Legend_Box2.png
+size: 292,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Behind_Box
+  rotate: false
+  xy: 2, 139
+  size: 286, 149
+  orig: 291, 152
+  offset: 4, 1
+  index: -1

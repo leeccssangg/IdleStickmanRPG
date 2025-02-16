@@ -1,0 +1,174 @@
+
+EM3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 149
+  size: 163, 170
+  orig: 163, 170
+  offset: 0, 0
+  index: -1
+Close_Eyes
+  rotate: false
+  xy: 174, 167
+  size: 74, 46
+  orig: 76, 48
+  offset: 1, 1
+  index: -1
+Face
+  rotate: false
+  xy: 2, 2
+  size: 146, 145
+  orig: 148, 147
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: true
+  xy: 267, 93
+  size: 120, 66
+  orig: 122, 68
+  offset: 1, 1
+  index: -1
+L_Arm
+  rotate: true
+  xy: 199, 311
+  size: 90, 121
+  orig: 90, 121
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: 180
+  xy: 370, 381
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 199, 400
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 267, 2
+  size: 84, 89
+  orig: 86, 91
+  offset: 1, 1
+  index: -1
+L_Leg
+  rotate: true
+  xy: 375, 461
+  size: 49, 42
+  orig: 51, 44
+  offset: 1, 1
+  index: -1
+L_Thigh
+  rotate: false
+  xy: 383, 175
+  size: 39, 58
+  orig: 41, 61
+  offset: 1, 1
+  index: -1
+L_Tooth
+  rotate: true
+  xy: 353, 84
+  size: 56, 54
+  orig: 59, 57
+  offset: 2, 2
+  index: -1
+Mouth
+  rotate: true
+  xy: 320, 412
+  size: 98, 53
+  orig: 100, 55
+  offset: 1, 1
+  index: -1
+Nose
+  rotate: true
+  xy: 271, 216
+  size: 93, 75
+  orig: 93, 75
+  offset: 0, 0
+  index: -1
+Open_Eyes
+  rotate: true
+  xy: 335, 142
+  size: 74, 46
+  orig: 76, 48
+  offset: 1, 1
+  index: -1
+R-Hand
+  rotate: false
+  xy: 199, 366
+  size: 123, 144
+  orig: 123, 144
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: true
+  xy: 353, 13
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+R_Finger
+  rotate: false
+  xy: 322, 312
+  size: 55, 67
+  orig: 57, 69
+  offset: 1, 1
+  index: -1
+R_Foot
+  rotate: false
+  xy: 257, 486
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 394, 270
+  size: 49, 42
+  orig: 51, 44
+  offset: 1, 1
+  index: -1
+R_Thigh
+  rotate: false
+  xy: 379, 321
+  size: 41, 58
+  orig: 44, 61
+  offset: 2, 1
+  index: -1
+R_Tooth
+  rotate: true
+  xy: 348, 235
+  size: 75, 44
+  orig: 77, 47
+  offset: 1, 2
+  index: -1
+Weapon_Cicle
+  rotate: false
+  xy: 174, 215
+  size: 95, 97
+  orig: 98, 100
+  offset: 2, 1
+  index: -1
+Weapon_Power
+  rotate: false
+  xy: 2, 314
+  size: 195, 196
+  orig: 216, 217
+  offset: 11, 11
+  index: -1
+Weapon_Stick
+  rotate: false
+  xy: 150, 6
+  size: 115, 141
+  orig: 117, 143
+  offset: 1, 1
+  index: -1

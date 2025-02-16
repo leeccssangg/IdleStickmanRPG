@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 408,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Attack/HW1/HW01_A0001
+  rotate: false
+  xy: 2, 522
+  size: 302, 200
+  orig: 354, 250
+  offset: 38, 50
+  index: -1
+FX/Attack/HW1/HW01_A0002
+  rotate: true
+  xy: 108, 32
+  size: 149, 148
+  orig: 354, 250
+  offset: 184, 53
+  index: -1
+FX/Attack/HW1/HW01_A0003
+  rotate: true
+  xy: 2, 440
+  size: 64, 110
+  orig: 354, 250
+  offset: 274, 63
+  index: -1
+FX/Skill/SKill_HW01/Boom0004
+  rotate: true
+  xy: 249, 465
+  size: 192, 153
+  orig: 192, 153
+  offset: 0, 0
+  index: -1
+FX/Skill/SKill_HW01/Boom0006
+  rotate: false
+  xy: 245, 182
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+FX/Skill/SKill_HW01/Boom0007
+  rotate: false
+  xy: 258, 77
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+FX/Skill/SKill_HW01/Boom0008
+  rotate: false
+  xy: 2, 569
+  size: 130, 103
+  orig: 130, 103
+  offset: 0, 0
+  index: -1
+FX/Skill/SKill_HW01/Slash0004
+  rotate: false
+  xy: 2, 381
+  size: 247, 145
+  orig: 247, 145
+  offset: 0, 0
+  index: -1
+FX/Skill/SKill_HW01/Slash0005
+  rotate: false
+  xy: 149, 312
+  size: 245, 145
+  orig: 245, 145
+  offset: 0, 0
+  index: -1
+FX/Skill/SKill_HW01/Slash0006
+  rotate: 180
+  xy: 2, 171
+  size: 242, 145
+  orig: 242, 145
+  offset: 0, 0
+  index: -1
+FX/Skill/SKill_HW01/Slash0007
+  rotate: false
+  xy: 2, 115
+  size: 224, 144
+  orig: 224, 144
+  offset: 0, 0
+  index: -1
+FX/Skill/SKill_HW01/Slash0008
+  rotate: true
+  xy: 2, 3
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1

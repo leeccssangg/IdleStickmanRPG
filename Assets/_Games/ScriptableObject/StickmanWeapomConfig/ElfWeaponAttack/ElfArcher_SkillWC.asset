@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 899b2ad08e5806841b4fe076008cf50c, type: 3}
+  m_Name: ElfArcher_SkillWC
+  m_EditorClassIdentifier: 
+  bulletAmout: 1
+  bulletSpeed: 10
+  bulletMaxSpeed: 10
+  bulletMinSpeed: 1
+  bulletAccel: 5
+  attackRange: 4
+  maxPiercingTarget: 100
+  piercing: 50
+  isComeBack: 0
+  bulletPrefabName: Bullet_ER01_Skill
+  bulletEndEffectName: Effect_Impact
+  targetTeam: 1
+  ownerTeam: 0

@@ -1,0 +1,153 @@
+
+EW3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Below_Hair
+  rotate: true
+  xy: 176, 112
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 91, 162
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+Close_Eyes
+  rotate: false
+  xy: 184, 75
+  size: 59, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+Duoi
+  rotate: false
+  xy: 221, 189
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2, 161
+  size: 87, 79
+  orig: 87, 79
+  offset: 0, 0
+  index: -1
+L-Arm copy
+  rotate: 270
+  xy: 84, 8
+  size: 36, 56
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+L-Ear
+  rotate: false
+  xy: 221, 209
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: true
+  xy: 46, 27
+  size: 36, 37
+  orig: 37, 39
+  offset: 1, 1
+  index: -1
+L-Leg
+  rotate: true
+  xy: 67, 112
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+L_Hair
+  rotate: false
+  xy: 2, 39
+  size: 42, 37
+  orig: 43, 38
+  offset: 0, 1
+  index: -1
+L_Tooth
+  rotate: false
+  xy: 2, 114
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+Mid_Hair
+  rotate: false
+  xy: 129, 41
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 180, 43
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Open_Eyes
+  rotate: false
+  xy: 2, 78
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+R-Ear
+  rotate: false
+  xy: 44, 3
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: 180
+  xy: 135, 84
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 142, 15
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+R_Elbow
+  rotate: true
+  xy: 77, 65
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+R_Hair
+  rotate: false
+  xy: 2, 5
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+R_Tooth
+  rotate: true
+  xy: 176, 170
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+ToongTeng
+  rotate: false
+  xy: 194, 20
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1

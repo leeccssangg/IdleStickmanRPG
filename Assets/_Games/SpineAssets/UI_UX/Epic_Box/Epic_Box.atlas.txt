@@ -1,0 +1,40 @@
+
+Epic_Box.png
+size: 488,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EPIC_Closed
+  rotate: false
+  xy: 2, 170
+  size: 288, 315
+  orig: 290, 318
+  offset: 1, 2
+  index: -1
+Front_Box
+  rotate: false
+  xy: 2, 2
+  size: 286, 166
+  orig: 288, 169
+  offset: 1, 2
+  index: -1
+Lid
+  rotate: 270
+  xy: 290, 132
+  size: 306, 172
+  orig: 306, 172
+  offset: 0, 0
+  index: -1
+
+Epic_Box2.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Behind_Box
+  rotate: false
+  xy: 2, 182
+  size: 281, 101
+  orig: 283, 103
+  offset: 1, 1
+  index: -1

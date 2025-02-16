@@ -1,0 +1,90 @@
+
+VictoryAuto.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crown
+  rotate: false
+  xy: 148, 76
+  size: 121, 91
+  orig: 123, 93
+  offset: 1, 1
+  index: -1
+Group 730
+  rotate: 180
+  xy: 699, 4
+  size: 261, 213
+  orig: 261, 213
+  offset: 0, 0
+  index: -1
+HAT
+  rotate: false
+  xy: 204, 169
+  size: 173, 217
+  orig: 175, 219
+  offset: 1, 1
+  index: -1
+Hat_Shadow
+  rotate: false
+  xy: 379, 13
+  size: 154, 193
+  orig: 156, 195
+  offset: 1, 1
+  index: -1
+KEN 1
+  rotate: true
+  xy: 705, 390
+  size: 351, 258
+  orig: 353, 260
+  offset: 1, 1
+  index: -1
+KEN 4
+  rotate: true
+  xy: 401, 208
+  size: 218, 250
+  orig: 221, 253
+  offset: 1, 1
+  index: -1
+Light_1
+  rotate: false
+  xy: 2, 187
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1
+Light_2
+  rotate: false
+  xy: 653, 181
+  size: 212, 207
+  orig: 212, 207
+  offset: 0, 0
+  index: -1
+Light_3
+  rotate: false
+  xy: 2, 41
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: true
+  xy: 401, 428
+  size: 313, 302
+  orig: 315, 304
+  offset: 1, 1
+  index: -1
+StarLight
+  rotate: false
+  xy: 2, 388
+  size: 397, 353
+  orig: 415, 395
+  offset: 18, 17
+  index: -1
+Start
+  rotate: false
+  xy: 148, 12
+  size: 61, 62
+  orig: 69, 71
+  offset: 4, 4
+  index: -1

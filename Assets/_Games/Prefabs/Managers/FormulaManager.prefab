@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &582640525352492867
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6900894868202023016}
+  - component: {fileID: 6084068753131348546}
+  m_Layer: 0
+  m_Name: FormulaManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6900894868202023016
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582640525352492867}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6084068753131348546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582640525352492867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e56ea3e77669cd4ab7ea9b0547b26bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_StatCostConfig: {fileID: 11400000, guid: 0d448251180189a4a9fe69b0ca731d92, type: 2}
+  level: 0
+  baseProfit: 0
+  profitRate: 0
+  profitPowerRate: 0
+  profitPowerRate2: 0
+  baseCost: 0
+  costRate: 0
+  costPowerRate: 0
+  costPowerRate2: 0
+  baseHP: 0
+  hpRate: 0
+  hpPowerRate: 0
+  hpPowerRate2: 0
+  baseAtk: 0
+  atkRate: 0
+  atkPowerRate: 0
+  atkPowerRate2: 0

@@ -1,0 +1,76 @@
+
+EB1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 121
+  size: 146, 133
+  orig: 146, 133
+  offset: 0, 0
+  index: -1
+Close-eyes
+  rotate: false
+  xy: 143, 50
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 150, 204
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 150, 96
+  size: 60, 104
+  orig: 60, 104
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 223, 165
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Open_Eyes
+  rotate: false
+  xy: 192, 47
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 150, 158
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+R_Finger
+  rotate: true
+  xy: 195, 11
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 143, 15
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 2, 35
+  size: 84, 139
+  orig: 84, 139
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+LuckySpin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Leaf
+  rotate: false
+  xy: 175, 152
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+Light_3
+  rotate: false
+  xy: 152, 3
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Lucky-LeafG
+  rotate: false
+  xy: 2, 2
+  size: 148, 145
+  orig: 150, 147
+  offset: 1, 1
+  index: -1
+Plant
+  rotate: false
+  xy: 2, 287
+  size: 200, 200
+  orig: 202, 202
+  offset: 1, 1
+  index: -1
+Ribb_B
+  rotate: false
+  xy: 2, 149
+  size: 171, 136
+  orig: 171, 136
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 204, 383
+  size: 103, 104
+  orig: 115, 115
+  offset: 6, 5
+  index: -1

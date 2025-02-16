@@ -1,0 +1,41 @@
+
+Gift-Box.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_GBox
+  rotate: false
+  xy: 211, 21
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+L_Leaf
+  rotate: false
+  xy: 211, 148
+  size: 155, 159
+  orig: 155, 159
+  offset: 0, 0
+  index: -1
+Red_GBox
+  rotate: true
+  xy: 178, 309
+  size: 194, 155
+  orig: 194, 155
+  offset: 0, 0
+  index: -1
+Violet_GBox
+  rotate: false
+  xy: 2, 2
+  size: 207, 226
+  orig: 207, 226
+  offset: 0, 0
+  index: -1
+Yellow_GBox
+  rotate: false
+  xy: 2, 230
+  size: 174, 273
+  orig: 174, 273
+  offset: 0, 0
+  index: -1

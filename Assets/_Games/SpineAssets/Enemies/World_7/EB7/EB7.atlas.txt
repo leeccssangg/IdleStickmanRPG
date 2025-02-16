@@ -1,0 +1,181 @@
+
+EB7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 120
+  size: 176, 165
+  orig: 178, 167
+  offset: 1, 1
+  index: -1
+Close-Eyes
+  rotate: true
+  xy: 330, 134
+  size: 85, 54
+  orig: 87, 56
+  offset: 1, 1
+  index: -1
+Face
+  rotate: false
+  xy: 180, 133
+  size: 148, 152
+  orig: 150, 154
+  offset: 1, 1
+  index: -1
+Hair 1
+  rotate: false
+  xy: 2, 4
+  size: 33, 43
+  orig: 35, 45
+  offset: 1, 1
+  index: -1
+Hair 2
+  rotate: false
+  xy: 110, 64
+  size: 40, 54
+  orig: 42, 56
+  offset: 1, 1
+  index: -1
+Hair 3
+  rotate: false
+  xy: 37, 4
+  size: 32, 43
+  orig: 34, 45
+  offset: 1, 1
+  index: -1
+L-Arm
+  rotate: true
+  xy: 2, 49
+  size: 69, 106
+  orig: 69, 106
+  offset: 0, 0
+  index: -1
+L-Ear
+  rotate: false
+  xy: 265, 434
+  size: 38, 49
+  orig: 40, 51
+  offset: 1, 1
+  index: -1
+L-Foot
+  rotate: true
+  xy: 199, 439
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 386, 155
+  size: 62, 64
+  orig: 64, 66
+  offset: 1, 1
+  index: -1
+L_Wing
+  rotate: false
+  xy: 330, 221
+  size: 69, 75
+  orig: 71, 77
+  offset: 1, 1
+  index: -1
+Nose
+  rotate: true
+  xy: 382, 334
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+Open-Eyes
+  rotate: false
+  xy: 93, 3
+  size: 85, 54
+  orig: 87, 56
+  offset: 1, 1
+  index: -1
+R-Ear
+  rotate: false
+  xy: 386, 24
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+R-Finger
+  rotate: false
+  xy: 380, 413
+  size: 62, 70
+  orig: 64, 72
+  offset: 1, 1
+  index: -1
+R_Arm
+  rotate: false
+  xy: 316, 384
+  size: 62, 99
+  orig: 64, 101
+  offset: 1, 1
+  index: -1
+R_Elbow
+  rotate: false
+  xy: 180, 35
+  size: 107, 96
+  orig: 109, 98
+  offset: 1, 1
+  index: -1
+R_Wing
+  rotate: false
+  xy: 316, 298
+  size: 64, 84
+  orig: 66, 86
+  offset: 1, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 414, 68
+  size: 29, 42
+  orig: 31, 44
+  offset: 1, 1
+  index: -1
+Weapon_Access_01
+  rotate: false
+  xy: 386, 68
+  size: 26, 85
+  orig: 29, 87
+  offset: 1, 1
+  index: -1
+Weapon_Access_02
+  rotate: false
+  xy: 401, 263
+  size: 40, 36
+  orig: 42, 38
+  offset: 1, 1
+  index: -1
+Weapon_Access_03
+  rotate: false
+  xy: 401, 221
+  size: 38, 40
+  orig: 41, 44
+  offset: 2, 2
+  index: -1
+Weapon_Cicle
+  rotate: false
+  xy: 289, 34
+  size: 95, 97
+  orig: 98, 100
+  offset: 2, 1
+  index: -1
+Weapon_Power
+  rotate: false
+  xy: 2, 287
+  size: 195, 196
+  orig: 216, 217
+  offset: 11, 11
+  index: -1
+Weapon_Stick
+  rotate: false
+  xy: 199, 287
+  size: 115, 141
+  orig: 117, 143
+  offset: 1, 1
+  index: -1

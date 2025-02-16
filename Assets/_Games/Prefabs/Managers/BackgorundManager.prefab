@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4592413805560703816
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5578039794302226149}
+  - component: {fileID: 4717759303991323547}
+  m_Layer: 0
+  m_Name: BackgorundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &5578039794302226149
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4592413805560703816}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4717759303991323547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4592413805560703816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0074d67dbf60314ea01aa6bb7019c04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Platform: {fileID: 0}
+  backgroundTransform:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_BackGroundSpriteList:
+  - {fileID: 21300000, guid: 279e675a7bfd9ed4fba8298aed84e15d, type: 3}
+  - {fileID: 21300000, guid: 68721c2a0365f51468353cd7f000b5c7, type: 3}
+  - {fileID: 21300000, guid: bbe04dc6733ed7442b6803ce1e5c2318, type: 3}
+  - {fileID: 21300000, guid: 4f6236b339ebc7941b42ce0e6754a9f3, type: 3}
+  - {fileID: 21300000, guid: d439f67d683f7034195d26ae60a054a5, type: 3}
+  - {fileID: 21300000, guid: a7bbd52b203bf824a85d85187841175f, type: 3}
+  - {fileID: 21300000, guid: 06868f7ab6ea4934382f5beff388b750, type: 3}
+  - {fileID: 21300000, guid: e0ae03fec18dfa340960c887a0287026, type: 3}
+  - {fileID: 21300000, guid: 7c7c6053f0dd7124e88932afec6e6c92, type: 3}
+  m_BackGroundList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

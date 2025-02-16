@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 425,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/LVup/Light 1_2
+  rotate: true
+  xy: 2, 2
+  size: 112, 233
+  orig: 114, 247
+  offset: 1, 7
+  index: -1
+FX/LVup/Light 2_2
+  rotate: true
+  xy: 237, 23
+  size: 91, 148
+  orig: 91, 150
+  offset: 0, 1
+  index: -1
+FX/LVup/Star
+  rotate: false
+  xy: 387, 76
+  size: 36, 38
+  orig: 40, 40
+  offset: 2, 1
+  index: -1

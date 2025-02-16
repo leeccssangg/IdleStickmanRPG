@@ -1,0 +1,83 @@
+
+Ranger.png
+size: 231,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: true
+  xy: 2, 30
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: true
+  xy: 71, 31
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: true
+  xy: 63, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 88, 11
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Knee
+  rotate: true
+  xy: 2, 3
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 175, 16
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1
+R_Elbow
+  rotate: false
+  xy: 209, 28
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 143, 16
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Ranger/FACE
+  rotate: true
+  xy: 2, 52
+  size: 82, 84
+  orig: 84, 86
+  offset: 1, 1
+  index: -1
+Ranger/GUN
+  rotate: false
+  xy: 88, 66
+  size: 141, 68
+  orig: 141, 68
+  offset: 0, 0
+  index: -1
+Thigh
+  rotate: true
+  xy: 143, 41
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+Mining.png
+size: 64,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Axe_L
+  rotate: false
+  xy: 2, 173
+  size: 54, 58
+  orig: 56, 60
+  offset: 1, 1
+  index: -1
+Axe_R
+  rotate: false
+  xy: 2, 113
+  size: 54, 58
+  orig: 56, 60
+  offset: 1, 1
+  index: -1
+Smoke_02
+  rotate: false
+  xy: 2, 2
+  size: 29, 27
+  orig: 31, 29
+  offset: 1, 1
+  index: -1
+Smoke_03
+  rotate: false
+  xy: 2, 31
+  size: 40, 37
+  orig: 42, 39
+  offset: 1, 1
+  index: -1
+Smoke_04
+  rotate: false
+  xy: 2, 70
+  size: 45, 41
+  orig: 47, 43
+  offset: 1, 1
+  index: -1

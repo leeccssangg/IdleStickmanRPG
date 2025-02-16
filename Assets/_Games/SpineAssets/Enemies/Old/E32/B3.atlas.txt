@@ -1,0 +1,188 @@
+
+B3.png
+size: 1326,723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bin
+  rotate: false
+  xy: 609, 72
+  size: 274, 235
+  orig: 274, 235
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 609, 309
+  size: 364, 412
+  orig: 364, 412
+  offset: 0, 0
+  index: -1
+Close-Eyes
+  rotate: false
+  xy: 1217, 258
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 885, 66
+  size: 257, 188
+  orig: 257, 188
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 973, 325
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: true
+  xy: 219, 10
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+L_Elbow
+  rotate: false
+  xy: 975, 510
+  size: 146, 209
+  orig: 146, 209
+  offset: 0, 0
+  index: -1
+L_Hair
+  rotate: false
+  xy: 609, 313
+  size: 38, 206
+  orig: 38, 206
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: true
+  xy: 1158, 325
+  size: 155, 124
+  orig: 155, 124
+  offset: 0, 0
+  index: -1
+L_Tail-Hair
+  rotate: true
+  xy: 796, 13
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1
+L_Tooth
+  rotate: false
+  xy: 509, 62
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+Mid_Hair
+  rotate: false
+  xy: 395, 84
+  size: 112, 65
+  orig: 112, 65
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 120, 27
+  size: 97, 68
+  orig: 97, 68
+  offset: 0, 0
+  index: -1
+Open-Eyes
+  rotate: false
+  xy: 395, 18
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 1075, 162
+  size: 140, 161
+  orig: 140, 161
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: true
+  xy: 1205, 3
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+R_Elbow
+  rotate: true
+  xy: 1123, 510
+  size: 180, 124
+  orig: 180, 124
+  offset: 0, 0
+  index: -1
+R_Finger
+  rotate: true
+  xy: 1075, 55
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+R_Hair
+  rotate: true
+  xy: 497, 22
+  size: 38, 202
+  orig: 38, 202
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 2, 38
+  size: 116, 111
+  orig: 116, 111
+  offset: 0, 0
+  index: -1
+R_Tail-Hair
+  rotate: true
+  xy: 701, 18
+  size: 52, 93
+  orig: 52, 93
+  offset: 0, 0
+  index: -1
+R_Thumb
+  rotate: true
+  xy: 1249, 482
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+R_Tooth
+  rotate: true
+  xy: 1249, 576
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+Straps
+  rotate: false
+  xy: 120, 46
+  size: 273, 104
+  orig: 495, 226
+  offset: 222, 122
+  index: -1
+Test
+  rotate: 180
+  xy: 1205, 78
+  size: 116, 178
+  orig: 116, 178
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 151
+  size: 605, 570
+  orig: 605, 570
+  offset: 0, 0
+  index: -1

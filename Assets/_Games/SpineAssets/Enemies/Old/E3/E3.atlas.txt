@@ -1,0 +1,48 @@
+
+E3.png
+size: 119,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE-eyes
+  rotate: true
+  xy: 70, 56
+  size: 50, 47
+  orig: 52, 49
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2, 108
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+CLOSE-eyes
+  rotate: false
+  xy: 2, 24
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+L-foot
+  rotate: true
+  xy: 2, 76
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 2
+  size: 43, 20
+  orig: 45, 22
+  offset: 1, 1
+  index: -1
+OPEN-eyes
+  rotate: false
+  xy: 54, 4
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 368,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Skill/Ligting_Shock/Lighting_Shock_02
+  rotate: true
+  xy: 290, 335
+  size: 28, 56
+  orig: 29, 59
+  offset: 0, 1
+  index: -1
+FX/Skill/Ligting_Shock/Lighting_Shock_03
+  rotate: true
+  xy: 149, 300
+  size: 34, 74
+  orig: 36, 78
+  offset: 1, 2
+  index: -1
+FX/Skill/Ligting_Shock/Lighting_Shock_04
+  rotate: true
+  xy: 225, 297
+  size: 36, 102
+  orig: 38, 104
+  offset: 1, 1
+  index: -1
+FX/Skill/Ligting_Shock/Lighting_Shock_05
+  rotate: true
+  xy: 2, 223
+  size: 72, 226
+  orig: 74, 229
+  offset: 0, 1
+  index: -1
+FX/Skill/Ligting_Shock/Lighting_Shock_06
+  rotate: true
+  xy: 2, 33
+  size: 98, 226
+  orig: 102, 229
+  offset: 1, 1
+  index: -1
+FX/Skill/Ligting_Shock/Lighting_Shock_07
+  rotate: true
+  xy: 2, 133
+  size: 88, 220
+  orig: 89, 223
+  offset: 0, 1
+  index: -1
+FX/Skill/Ligting_Shock/Lighting_Shock_08
+  rotate: false
+  xy: 230, 75
+  size: 133, 220
+  orig: 139, 223
+  offset: 3, 1
+  index: -1
+FX/Skill/Ligting_Shock/Lighting_Shock_09
+  rotate: false
+  xy: 2, 337
+  size: 133, 26
+  orig: 139, 28
+  offset: 3, 1
+  index: -1
+FX/Skill/Ligting_Shock/Lighting_Shock_10
+  rotate: false
+  xy: 137, 336
+  size: 151, 27
+  orig: 156, 29
+  offset: 3, 1
+  index: -1
+FX/Skill/Ligting_Shock/Lighting_Shock_12
+  rotate: false
+  xy: 2, 306
+  size: 145, 28
+  orig: 154, 30
+  offset: 5, 1
+  index: -1

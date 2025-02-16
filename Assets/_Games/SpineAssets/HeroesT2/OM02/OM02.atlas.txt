@@ -1,0 +1,237 @@
+
+OM02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE/Arm
+  rotate: false
+  xy: 334, 128
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+BASE/Body
+  rotate: true
+  xy: 74, 13
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+BASE/Eye
+  rotate: false
+  xy: 344, 18
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+BASE/Foot
+  rotate: false
+  xy: 63, 3
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+BASE/ForeArm
+  rotate: false
+  xy: 354, 129
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+BASE/Hand_1_Punch
+  rotate: false
+  xy: 339, 97
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_2_Punch
+  rotate: true
+  xy: 339, 66
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+BASE/Hand_3_Index
+  rotate: false
+  xy: 141, 9
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+BASE/Hand_4_Open
+  rotate: false
+  xy: 37, 16
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+BASE/Hand_5_Claw
+  rotate: false
+  xy: 213, 6
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+BASE/Hand_6_Up
+  rotate: false
+  xy: 2, 14
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_7_Gun
+  rotate: false
+  xy: 37, 3
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+BASE/Head
+  rotate: false
+  xy: 254, 128
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BASE/Leg
+  rotate: false
+  xy: 315, 195
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+BASE/Thigh
+  rotate: false
+  xy: 315, 131
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+OM/Skin_1/Hair
+  rotate: false
+  xy: 254, 180
+  size: 59, 73
+  orig: 61, 75
+  offset: 1, 1
+  index: -1
+OM/Skin_1/L_Bracer
+  rotate: false
+  xy: 342, 198
+  size: 21, 24
+  orig: 23, 26
+  offset: 1, 1
+  index: -1
+OM/Skin_1/R_Bracer
+  rotate: false
+  xy: 273, 4
+  size: 20, 21
+  orig: 22, 23
+  offset: 1, 1
+  index: -1
+OM/Skin_1/R_Leg
+  rotate: 180
+  xy: 339, 36
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+OM/Skin_3/L_Bracer
+  rotate: false
+  xy: 246, 3
+  size: 25, 27
+  orig: 27, 29
+  offset: 1, 1
+  index: -1
+OM/Skin_3/R_Bracer
+  rotate: false
+  xy: 334, 166
+  size: 25, 27
+  orig: 27, 29
+  offset: 1, 1
+  index: -1
+OM/Skin_3/R_Leg
+  rotate: false
+  xy: 303, 82
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+OM/Skin_3/R_Shoulder
+  rotate: false
+  xy: 342, 224
+  size: 20, 29
+  orig: 22, 31
+  offset: 1, 1
+  index: -1
+OM/Skin_5/L_Bracer
+  rotate: false
+  xy: 183, 2
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+OM/Skin_5/Mask
+  rotate: false
+  xy: 254, 81
+  size: 47, 45
+  orig: 49, 47
+  offset: 1, 1
+  index: -1
+OM/Skin_5/R_Bracer
+  rotate: false
+  xy: 274, 27
+  size: 27, 52
+  orig: 29, 54
+  offset: 1, 1
+  index: -1
+OM/Skin_5/R_Leg
+  rotate: false
+  xy: 303, 36
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+OM/Skin_5/R_Shoulder
+  rotate: true
+  xy: 303, 12
+  size: 22, 39
+  orig: 24, 41
+  offset: 1, 1
+  index: -1
+OM/Staff_1
+  rotate: true
+  xy: 77, 32
+  size: 21, 195
+  orig: 23, 197
+  offset: 1, 1
+  index: -1
+OM/Staff_2
+  rotate: false
+  xy: 204, 55
+  size: 48, 198
+  orig: 50, 200
+  offset: 1, 1
+  index: -1
+OM/Staff_3
+  rotate: false
+  xy: 145, 58
+  size: 57, 195
+  orig: 59, 197
+  offset: 1, 1
+  index: -1
+OM/Staff_4
+  rotate: false
+  xy: 77, 58
+  size: 66, 195
+  orig: 68, 197
+  offset: 1, 1
+  index: -1
+OM/Staff_5
+  rotate: false
+  xy: 2, 45
+  size: 73, 208
+  orig: 75, 210
+  offset: 1, 1
+  index: -1

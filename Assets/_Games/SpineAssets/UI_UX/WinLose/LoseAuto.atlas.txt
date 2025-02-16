@@ -1,0 +1,48 @@
+
+LoseAuto.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow_01
+  rotate: false
+  xy: 780, 689
+  size: 145, 55
+  orig: 147, 57
+  offset: 1, 1
+  index: -1
+Arrow_02
+  rotate: false
+  xy: 567, 623
+  size: 211, 141
+  orig: 213, 144
+  offset: 1, 1
+  index: -1
+Hat
+  rotate: false
+  xy: 317, 734
+  size: 248, 279
+  orig: 250, 281
+  offset: 1, 1
+  index: -1
+Shadow-Skull
+  rotate: true
+  xy: 567, 766
+  size: 247, 243
+  orig: 248, 243
+  offset: 1, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 2, 711
+  size: 313, 302
+  orig: 313, 302
+  offset: 0, 0
+  index: -1
+Skull
+  rotate: false
+  xy: 812, 746
+  size: 200, 267
+  orig: 200, 267
+  offset: 0, 0
+  index: -1

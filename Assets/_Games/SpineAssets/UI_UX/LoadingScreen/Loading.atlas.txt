@@ -1,0 +1,417 @@
+
+Loading.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archer_Arrow_1
+  rotate: false
+  xy: 1967, 260
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+Archer_Arrow_Box
+  rotate: false
+  xy: 811, 98
+  size: 125, 82
+  orig: 125, 82
+  offset: 0, 0
+  index: -1
+Archer_Arrow_Box_2
+  rotate: false
+  xy: 1926, 671
+  size: 50, 74
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+Archer_Back
+  rotate: false
+  xy: 1945, 115
+  size: 59, 47
+  orig: 60, 47
+  offset: 1, 0
+  index: -1
+Archer_Body
+  rotate: false
+  xy: 1888, 1529
+  size: 152, 344
+  orig: 152, 344
+  offset: 0, 0
+  index: -1
+Archer_Cloth
+  rotate: false
+  xy: 1887, 164
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+Archer_Head
+  rotate: false
+  xy: 1888, 1533
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+Archer_L_Arm
+  rotate: false
+  xy: 1887, 260
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+Archer_L_Hand
+  rotate: false
+  xy: 1888, 915
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+Archer_R_Arm
+  rotate: false
+  xy: 1887, 510
+  size: 85, 187
+  orig: 85, 187
+  offset: 0, 0
+  index: -1
+Archer_String_1
+  rotate: false
+  xy: 1887, 370
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1
+Archer_String_2
+  rotate: true
+  xy: 2007, 1696
+  size: 131, 29
+  orig: 131, 29
+  offset: 0, 0
+  index: -1
+Archer_String_3
+  rotate: false
+  xy: 1888, 1142
+  size: 37, 157
+  orig: 37, 157
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 372
+  size: 941, 1671
+  orig: 941, 1671
+  offset: 0, 0
+  index: -1
+Buff_Book
+  rotate: false
+  xy: 1888, 1429
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+Buff_Fx
+  rotate: true
+  xy: 811, 182
+  size: 188, 126
+  orig: 188, 126
+  offset: 0, 0
+  index: -1
+Buff_Head
+  rotate: false
+  xy: 1938, 1788
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Buff_L_Arm
+  rotate: 270
+  xy: 1970, 875
+  size: 157, 68
+  orig: 157, 68
+  offset: 0, 0
+  index: -1
+Buff_R_Arm
+  rotate: true
+  xy: 1888, 987
+  size: 180, 111
+  orig: 180, 111
+  offset: 0, 0
+  index: -1
+Cloud_2
+  rotate: false
+  xy: 1969, 1296
+  size: 73, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+Fx3
+  rotate: false
+  xy: 546, 29
+  size: 263, 341
+  orig: 266, 342
+  offset: 2, 0
+  index: -1
+Logo
+  rotate: false
+  xy: 2, 2
+  size: 542, 368
+  orig: 542, 368
+  offset: 0, 0
+  index: -1
+Mage_FX_1
+  rotate: true
+  xy: 811, 3
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+Mage_FX_2
+  rotate: false
+  xy: 1967, 307
+  size: 58, 58
+  orig: 59, 58
+  offset: 1, 0
+  index: -1
+Mage_Head
+  rotate: false
+  xy: 1924, 1332
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+Mage_L_Hand
+  rotate: false
+  xy: 1989, 1053
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Mage_L_Horn
+  rotate: false
+  xy: 1980, 1184
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+Mage_R_Arm
+  rotate: false
+  xy: 1887, 3
+  size: 134, 99
+  orig: 134, 125
+  offset: 0, 0
+  index: -1
+Mage_R_Hand
+  rotate: false
+  xy: 1887, 106
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Mage_R_Horn
+  rotate: false
+  xy: 1887, 431
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+Mage_Weapon_Back
+  rotate: false
+  xy: 1887, 219
+  size: 109, 38
+  orig: 109, 38
+  offset: 0, 0
+  index: -1
+Smoke_1
+  rotate: false
+  xy: 945, 723
+  size: 941, 1320
+  orig: 941, 1321
+  offset: 0, 0
+  index: -1
+Smoke_3
+  rotate: false
+  xy: 945, 24
+  size: 940, 697
+  orig: 941, 699
+  offset: 1, 1
+  index: -1
+Warrior_Head
+  rotate: false
+  xy: 1888, 1875
+  size: 135, 169
+  orig: 135, 169
+  offset: 0, 0
+  index: -1
+Warrior_L_Hand
+  rotate: true
+  xy: 1888, 1169
+  size: 258, 110
+  orig: 258, 110
+  offset: 0, 0
+  index: -1
+Warrior_Shoulder
+  rotate: false
+  xy: 1888, 853
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+Warrior_Weapon
+  rotate: true
+  xy: 1887, 367
+  size: 512, 154
+  orig: 512, 154
+  offset: 0, 0
+  index: -1
+
+Loading2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archer_Arrow
+  rotate: false
+  xy: 1838, 532
+  size: 176, 240
+  orig: 176, 240
+  offset: 0, 0
+  index: -1
+Archer_Bow
+  rotate: false
+  xy: 621, 359
+  size: 169, 226
+  orig: 170, 226
+  offset: 1, 0
+  index: -1
+BG_3
+  rotate: 180
+  xy: 1838, 224
+  size: 171, 306
+  orig: 171, 306
+  offset: 0, 0
+  index: -1
+Buff_Scroll
+  rotate: true
+  xy: 1810, 886
+  size: 236, 176
+  orig: 236, 176
+  offset: 0, 0
+  index: -1
+Cloud_3
+  rotate: true
+  xy: 1660, 3
+  size: 199, 231
+  orig: 200, 233
+  offset: 1, 1
+  index: -1
+FX1
+  rotate: false
+  xy: 2, 587
+  size: 812, 1442
+  orig: 812, 1442
+  offset: 0, 0
+  index: -1
+FX4
+  rotate: false
+  xy: 1410, 1124
+  size: 527, 904
+  orig: 527, 906
+  offset: 0, 0
+  index: -1
+FX6
+  rotate: true
+  xy: 2, 144
+  size: 441, 617
+  orig: 441, 618
+  offset: 0, 0
+  index: -1
+Mage_Weapon
+  rotate: true
+  xy: 1660, 204
+  size: 568, 176
+  orig: 568, 176
+  offset: 0, 0
+  index: -1
+Moutain
+  rotate: false
+  xy: 815, 738
+  size: 593, 1290
+  orig: 595, 1291
+  offset: 2, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 1410, 774
+  size: 528, 348
+  orig: 528, 348
+  offset: 0, 0
+  index: -1
+Smoke_2
+  rotate: false
+  xy: 815, 11
+  size: 843, 725
+  orig: 849, 734
+  offset: 3, 8
+  index: -1
+
+Loading3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_2
+  rotate: false
+  xy: 2, 564
+  size: 941, 491
+  orig: 941, 491
+  offset: 0, 0
+  index: -1
+BG_Main
+  rotate: false
+  xy: 2, 1057
+  size: 784, 680
+  orig: 784, 680
+  offset: 0, 0
+  index: -1
+Buff_Body
+  rotate: true
+  xy: 906, 4
+  size: 169, 427
+  orig: 169, 427
+  offset: 0, 0
+  index: -1
+Cloud_1
+  rotate: true
+  xy: 945, 564
+  size: 863, 408
+  orig: 864, 410
+  offset: 1, 0
+  index: -1
+FX5
+  rotate: true
+  xy: 2, 55
+  size: 507, 827
+  orig: 508, 829
+  offset: 1, 0
+  index: -1
+Fx2
+  rotate: false
+  xy: 831, 167
+  size: 224, 395
+  orig: 224, 396
+  offset: 0, 0
+  index: -1
+Mage_Body
+  rotate: false
+  xy: 1057, 142
+  size: 287, 421
+  orig: 287, 421
+  offset: 0, 0
+  index: -1
+Warrior_Body
+  rotate: 180
+  xy: 787, 1342
+  size: 320, 396
+  orig: 320, 396
+  offset: 0, 0
+  index: -1

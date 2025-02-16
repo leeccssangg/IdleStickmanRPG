@@ -1,0 +1,76 @@
+
+StickMan.png
+size: 307,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: true
+  xy: 233, 9
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 57, 3
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: false
+  xy: 78, 4
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 2, 6
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Katana
+  rotate: true
+  xy: 112, 31
+  size: 28, 193
+  orig: 28, 193
+  offset: 0, 0
+  index: -1
+Knee
+  rotate: true
+  xy: 106, 2
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 57, 17
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1
+R_Elbow
+  rotate: false
+  xy: 69, 23
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 87, 29
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Thigh
+  rotate: true
+  xy: 167, 6
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1

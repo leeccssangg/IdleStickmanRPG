@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 500,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Attack/DR01/DR010001
+  rotate: false
+  xy: 16, 92
+  size: 59, 58
+  orig: 90, 90
+  offset: 18, 12
+  index: -1
+FX/Attack/DR01/DR010002
+  rotate: true
+  xy: 413, 152
+  size: 73, 59
+  orig: 90, 90
+  offset: 7, 13
+  index: -1
+FX/Attack/DR01/DR010003
+  rotate: false
+  xy: 103, 294
+  size: 63, 54
+  orig: 90, 90
+  offset: 15, 17
+  index: -1
+FX/Attack/DR01/DR010004
+  rotate: false
+  xy: 283, 408
+  size: 49, 49
+  orig: 90, 90
+  offset: 29, 15
+  index: -1
+FX/Attack/DR01/DR010005
+  rotate: false
+  xy: 116, 455
+  size: 16, 40
+  orig: 90, 90
+  offset: 59, 16
+  index: -1
+FX/Skill/Skill_DR01/DR010001
+  rotate: true
+  xy: 281, 99
+  size: 69, 133
+  orig: 287, 208
+  offset: 109, 44
+  index: -1
+FX/Skill/Skill_DR01/DR010002
+  rotate: false
+  xy: 388, 228
+  size: 65, 102
+  orig: 287, 208
+  offset: 107, 54
+  index: -1
+FX/Skill/Skill_DR01/DR010003
+  rotate: 270
+  xy: 413, 107
+  size: 45, 81
+  orig: 287, 208
+  offset: 123, 66
+  index: -1
+FX/Skill/Skill_DR01/DR010004
+  rotate: false
+  xy: 436, 416
+  size: 46, 57
+  orig: 287, 208
+  offset: 119, 77
+  index: -1
+FX/Skill/Skill_DR01/DR010005
+  rotate: false
+  xy: 2, 383
+  size: 31, 37
+  orig: 287, 208
+  offset: 129, 87
+  index: -1
+FX/Skill/Skill_DR01/DR020001
+  rotate: true
+  xy: 246, 167
+  size: 266, 163
+  orig: 287, 208
+  offset: 21, 18
+  index: -1
+FX/Skill/Skill_DR01/DR020002
+  rotate: 180
+  xy: 2, 145
+  size: 278, 185
+  orig: 287, 208
+  offset: 0, 15
+  index: -1
+FX/Skill/Skill_DR01/DR020003
+  rotate: false
+  xy: 2, 297
+  size: 287, 198
+  orig: 287, 208
+  offset: 0, 0
+  index: -1
+FX/Skill/Skill_DR01/DR030001
+  rotate: 180
+  xy: 77, 107
+  size: 149, 74
+  orig: 287, 208
+  offset: 122, 66
+  index: -1
+FX/Skill/Skill_DR01/DR030002
+  rotate: 180
+  xy: 320, 433
+  size: 120, 63
+  orig: 287, 208
+  offset: 167, 67
+  index: -1
+FX/Skill/Skill_DR01/DR030003
+  rotate: true
+  xy: 400, 331
+  size: 84, 65
+  orig: 287, 208
+  offset: 203, 69
+  index: -1

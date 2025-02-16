@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &509609739076491256
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 789657888093345875}
+  - component: {fileID: 5557402989591447263}
+  m_Layer: 0
+  m_Name: SpriteManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &789657888093345875
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 509609739076491256}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5557402989591447263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 509609739076491256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a15f034aa7a926b40810330c1d85e1df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SkillSprites:
+  - {fileID: 21300000, guid: f06a5b1144e52a7459c1ccebaad83c04, type: 3}
+  m_WarriorHeroIconSprites: []
+  m_ArcherHeroIconSprites: []
+  m_MageHeroIconSprites: []
+  m_PriestHeroIconSprites: []
+  m_ClasstypeSprites:
+  - classType: 1
+    sprite: {fileID: 21300000, guid: 646c0e1c364ecd54a99ad36ec7b2a937, type: 3}
+    color: {r: 0, g: 0, b: 0, a: 0}
+  - classType: 2
+    sprite: {fileID: 21300000, guid: 0acc5aada3a134446b05219c1ceda834, type: 3}
+    color: {r: 0, g: 0, b: 0, a: 0}
+  - classType: 3
+    sprite: {fileID: 21300000, guid: 391c1a1fc216fba43bbfa229e2413861, type: 3}
+    color: {r: 0, g: 0, b: 0, a: 0}
+  - classType: 4
+    sprite: {fileID: 21300000, guid: 40c5416045f66a44c85c53e9bb734cc2, type: 3}
+    color: {r: 0, g: 0, b: 0, a: 0}
+  m_StickmanSkeleton:
+  - race: 1
+    classType: 1
+    asset: {fileID: 11400000, guid: 48907d986dbd7994a8127c0de701d324, type: 2}
+  - race: 1
+    classType: 2
+    asset: {fileID: 11400000, guid: 167e3ae36c9dcbc4eb691475c3f56f59, type: 2}
+  - race: 1
+    classType: 3
+    asset: {fileID: 11400000, guid: 6ac0996c6bef5d44482e61217c0757cb, type: 2}
+  - race: 1
+    classType: 4
+    asset: {fileID: 11400000, guid: 2b0e00d1ce0f1244fb6bd51a0c5a620a, type: 2}
+  - race: 2
+    classType: 1
+    asset: {fileID: 11400000, guid: 918b70876c138884193cd932b0606044, type: 2}
+  - race: 2
+    classType: 2
+    asset: {fileID: 11400000, guid: 473cf8596e3415642ae37416fe53f821, type: 2}
+  - race: 2
+    classType: 3
+    asset: {fileID: 11400000, guid: 091562b390a8415499f4740e63187c2e, type: 2}
+  - race: 2
+    classType: 4
+    asset: {fileID: 11400000, guid: 9922b7a561b90e741afd7d18f922b34f, type: 2}
+  - race: 3
+    classType: 1
+    asset: {fileID: 11400000, guid: c605185b51850e94380955ad9b8540f3, type: 2}
+  - race: 3
+    classType: 2
+    asset: {fileID: 11400000, guid: 4f4688a3d7d030648855db3dc9d02533, type: 2}
+  - race: 3
+    classType: 3
+    asset: {fileID: 11400000, guid: 0d18dc0bf216f7a43963037ba0ea0812, type: 2}
+  - race: 3
+    classType: 4
+    asset: {fileID: 11400000, guid: e5d108f90ab817e4782077eda6cae7a9, type: 2}
+  - race: 4
+    classType: 1
+    asset: {fileID: 11400000, guid: 8110ba9f0eb6e13458d49cb80c194705, type: 2}
+  - race: 4
+    classType: 2
+    asset: {fileID: 11400000, guid: 1011f427e2692044b8c69f25b58a6bce, type: 2}
+  - race: 4
+    classType: 3
+    asset: {fileID: 11400000, guid: 1e251ca9cb767de4d93543a602b616ee, type: 2}
+  - race: 4
+    classType: 4
+    asset: {fileID: 11400000, guid: 885f96a1cb2a4f54b887f365fb1937fc, type: 2}
+  m_StickmanSprite:
+  - race: 1
+    iconSprites:
+    - {fileID: 21300000, guid: 54686e20ff8d1144f8fab59132f2d06d, type: 3}
+    - {fileID: 21300000, guid: ff41c759806f17748bac0b20c5dfcee7, type: 3}
+    - {fileID: 21300000, guid: 0d222c5eb8911de41a928ec8b0268eda, type: 3}
+    - {fileID: 21300000, guid: ebc96b2b287da6e47bd1b4c497704739, type: 3}
+  - race: 2
+    iconSprites:
+    - {fileID: 21300000, guid: 4fb1148722c83a548ad82f8bec545453, type: 3}
+    - {fileID: 21300000, guid: 9b970bf407ffedc49b862c2c112e629a, type: 3}
+    - {fileID: 21300000, guid: b1544042fadab534d82bdf9d3a2831bb, type: 3}
+    - {fileID: 21300000, guid: 0badcf9a904341947b8604b9521565de, type: 3}
+  - race: 3
+    iconSprites:
+    - {fileID: 21300000, guid: 77531287d9a70404cbd37e115f25a6a7, type: 3}
+    - {fileID: 21300000, guid: cb39923b639830d43a2cbed2fcba6fc2, type: 3}
+    - {fileID: 21300000, guid: 326da5dbc7857314699b6c731c54354f, type: 3}
+    - {fileID: 21300000, guid: 0c9db7c79a3184b499453573fa7725b2, type: 3}
+  - race: 4
+    iconSprites:
+    - {fileID: 21300000, guid: f19cf90840c69ef4c9235a826e2eca0c, type: 3}
+    - {fileID: 21300000, guid: 8f6cd53b46f045e40add0ecb054369a4, type: 3}
+    - {fileID: 21300000, guid: 0814926fc5756e24fbf6bcbdf68a352d, type: 3}
+    - {fileID: 21300000, guid: 8b4f1ea5e01010c40a0bbac239616105, type: 3}
+  m_GearSprites:
+  - gearType: 0
+    sprites:
+    - {fileID: 21300000, guid: 4b8b7c424669a8842951d63cf9263402, type: 3}
+    - {fileID: 21300000, guid: c704cd05de38e0b44bc2688c6432c9c3, type: 3}
+    - {fileID: 21300000, guid: dc76804501ad6c84ea8b3059cfc11aae, type: 3}
+    - {fileID: 21300000, guid: d69833cdff021cd4fb42e205ce68bee6, type: 3}
+  - gearType: 1
+    sprites:
+    - {fileID: 21300000, guid: 236cefa5e849b0844bb2896d9ff3c267, type: 3}
+    - {fileID: 21300000, guid: 845d864502b6954458a2d837dee61f02, type: 3}
+    - {fileID: 21300000, guid: 5d4fc0465780941409dbfe79c73ef15d, type: 3}
+    - {fileID: 21300000, guid: f7d90c2de5e3c274b8277e83e38e2382, type: 3}
+  - gearType: 2
+    sprites:
+    - {fileID: 21300000, guid: 882b99c34e051d94f85aea50ece60825, type: 3}
+    - {fileID: 21300000, guid: 892773e60cfd02d429d0610e5dc7d22c, type: 3}
+    - {fileID: 21300000, guid: 90e3909d5304b6140b1cc0ec6b9a09c5, type: 3}
+    - {fileID: 21300000, guid: 5e44b3f5a536f01418318c6420286956, type: 3}
+  - gearType: 3
+    sprites:
+    - {fileID: 21300000, guid: 0e1acb4ca04f5f5468a89d579a7d88ae, type: 3}
+    - {fileID: 21300000, guid: be1d07c65bfd6b84d836a03e1dd17d90, type: 3}
+    - {fileID: 21300000, guid: f49959b1dd19cec408ab8e5dc0686faa, type: 3}
+    - {fileID: 21300000, guid: ab7f63134fe24ed478f3ea76e8814203, type: 3}
+  - gearType: 4
+    sprites:
+    - {fileID: 21300000, guid: c704cd05de38e0b44bc2688c6432c9c3, type: 3}
+    - {fileID: 21300000, guid: d69833cdff021cd4fb42e205ce68bee6, type: 3}
+    - {fileID: 21300000, guid: dc76804501ad6c84ea8b3059cfc11aae, type: 3}
+    - {fileID: 21300000, guid: 4b8b7c424669a8842951d63cf9263402, type: 3}
+  - gearType: 5
+    sprites:
+    - {fileID: 21300000, guid: c3df5fbaa694485499ea39f1a19f4f1f, type: 3}
+    - {fileID: 21300000, guid: 2492f2e30a8cd4f459b8858807d38210, type: 3}
+    - {fileID: 21300000, guid: c49e8d7c07e80f44fbc7b8cd61e1e298, type: 3}
+    - {fileID: 21300000, guid: 7a6a995de0b4f9a4691ce2a2852991be, type: 3}
+  m_GearTypeSprites:
+  - {fileID: 21300000, guid: 646c0e1c364ecd54a99ad36ec7b2a937, type: 3}
+  - {fileID: 21300000, guid: 0acc5aada3a134446b05219c1ceda834, type: 3}
+  - {fileID: 21300000, guid: 40c5416045f66a44c85c53e9bb734cc2, type: 3}
+  - {fileID: 21300000, guid: 391c1a1fc216fba43bbfa229e2413861, type: 3}
+  - {fileID: 21300000, guid: 646c0e1c364ecd54a99ad36ec7b2a937, type: 3}
+  - {fileID: 21300000, guid: 0acc5aada3a134446b05219c1ceda834, type: 3}
+  m_StickmanRaceSprite:
+  - race: 1
+    raceBg: {fileID: 21300000, guid: 105bd48879c84f743b958b00bd21db67, type: 3}
+    raceIcon: {fileID: 21300000, guid: 9754cae1c54623843841de4561465ac3, type: 3}
+  - race: 2
+    raceBg: {fileID: 21300000, guid: 2c1a92acc5637fc488f675ff7fc63c34, type: 3}
+    raceIcon: {fileID: 21300000, guid: a91a4b16cf4b10345a873aad3b9de51e, type: 3}
+  - race: 3
+    raceBg: {fileID: 21300000, guid: b7ac713b9c22e104596ed5a20960271f, type: 3}
+    raceIcon: {fileID: 21300000, guid: b27ff0614a51eb848841565abfa47ab9, type: 3}
+  - race: 4
+    raceBg: {fileID: 21300000, guid: 9063f86c05e89174faaaf3b13713a475, type: 3}
+    raceIcon: {fileID: 21300000, guid: 4a4a34b9db302b44b872c9a79bc5068a, type: 3}
+  m_GearRaritySprite:
+  - rarity: 1
+    backGround: {fileID: 21300000, guid: 42e6fe600bba949c79be3d0e3260d788, type: 3}
+    border: {fileID: 21300000, guid: e969f78f011ac8d45b817ea07ae5713e, type: 3}
+  - rarity: 2
+    backGround: {fileID: 21300000, guid: 23fb642f4483d4b6cbc88512e43691ac, type: 3}
+    border: {fileID: 21300000, guid: 61e03f27313074bd9920832f2b02b5f0, type: 3}
+  - rarity: 3
+    backGround: {fileID: 21300000, guid: 4c612a64e0ef94884a841308aadec989, type: 3}
+    border: {fileID: 21300000, guid: d23b293de642f487998461a6963d9e39, type: 3}
+  - rarity: 4
+    backGround: {fileID: 21300000, guid: 1eb517f9d6ef1493f875e1f34946bc56, type: 3}
+    border: {fileID: 21300000, guid: 3a91f6a3cf45d4a73848bc748b41b3b1, type: 3}
+  - rarity: 5
+    backGround: {fileID: 21300000, guid: f3f809bafcafb4fd68f66a13abcba111, type: 3}
+    border: {fileID: 21300000, guid: 1d49da9207af2428fb35af0e62be19c6, type: 3}
+  - rarity: 6
+    backGround: {fileID: 21300000, guid: f3f809bafcafb4fd68f66a13abcba111, type: 3}
+    border: {fileID: 21300000, guid: 1d49da9207af2428fb35af0e62be19c6, type: 3}
+  - rarity: 7
+    backGround: {fileID: 21300000, guid: f3f809bafcafb4fd68f66a13abcba111, type: 3}
+    border: {fileID: 21300000, guid: 1d49da9207af2428fb35af0e62be19c6, type: 3}
+  m_GatchaRaritySprites:
+  - {fileID: 21300000, guid: 42e6fe600bba949c79be3d0e3260d788, type: 3}
+  - {fileID: 21300000, guid: 23fb642f4483d4b6cbc88512e43691ac, type: 3}
+  - {fileID: 21300000, guid: 4c612a64e0ef94884a841308aadec989, type: 3}
+  - {fileID: 21300000, guid: 1eb517f9d6ef1493f875e1f34946bc56, type: 3}
+  - {fileID: 21300000, guid: f3f809bafcafb4fd68f66a13abcba111, type: 3}
+  - {fileID: 21300000, guid: f3f809bafcafb4fd68f66a13abcba111, type: 3}
+  m_MainStatSprites:
+  - Stat: 1
+    sprite: {fileID: 21300000, guid: 9b994b9d731192843b3005d319804048, type: 3}
+  - Stat: 2
+    sprite: {fileID: 21300000, guid: 2b2f4822733595544a2f79b603b089be, type: 3}
+  - Stat: 3
+    sprite: {fileID: 21300000, guid: 8103f8caa26ab834a992043965895b79, type: 3}
+  - Stat: 4
+    sprite: {fileID: 21300000, guid: 8103f8caa26ab834a992043965895b79, type: 3}
+  - Stat: 5
+    sprite: {fileID: 21300000, guid: 87b0af4533956274faab73fb2945c9a2, type: 3}
+  - Stat: 7
+    sprite: {fileID: 21300000, guid: 87b0af4533956274faab73fb2945c9a2, type: 3}
+  - Stat: 8
+    sprite: {fileID: 21300000, guid: 87b0af4533956274faab73fb2945c9a2, type: 3}
+  - Stat: 9
+    sprite: {fileID: 21300000, guid: 87b0af4533956274faab73fb2945c9a2, type: 3}
+  - Stat: 10
+    sprite: {fileID: 21300000, guid: 87b0af4533956274faab73fb2945c9a2, type: 3}
+  - Stat: 11
+    sprite: {fileID: 21300000, guid: 87b0af4533956274faab73fb2945c9a2, type: 3}
+  - Stat: 6
+    sprite: {fileID: 21300000, guid: 87b0af4533956274faab73fb2945c9a2, type: 3}

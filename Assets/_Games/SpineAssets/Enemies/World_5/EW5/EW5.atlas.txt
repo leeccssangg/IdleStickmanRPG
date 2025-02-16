@@ -1,0 +1,97 @@
+
+EW5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Hand
+  rotate: false
+  xy: 354, 73
+  size: 61, 46
+  orig: 63, 48
+  offset: 1, 1
+  index: -1
+BODY
+  rotate: false
+  xy: 2, 11
+  size: 148, 210
+  orig: 148, 210
+  offset: 0, 0
+  index: -1
+CLOSE-eyes
+  rotate: true
+  xy: 400, 27
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Fish
+  rotate: false
+  xy: 152, 12
+  size: 84, 209
+  orig: 84, 209
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 238, 85
+  size: 84, 136
+  orig: 84, 136
+  offset: 0, 0
+  index: -1
+L-foot
+  rotate: true
+  xy: 285, 3
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 324, 188
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+OPEN-eys
+  rotate: true
+  xy: 407, 176
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+R-and
+  rotate: true
+  xy: 238, 18
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+R-finger
+  rotate: false
+  xy: 376, 121
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+R-foot
+  rotate: false
+  xy: 418, 73
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+eyes-BASE
+  rotate: true
+  xy: 345, 14
+  size: 57, 53
+  orig: 58, 63
+  offset: 1, 6
+  index: -1
+f-bone
+  rotate: true
+  xy: 324, 123
+  size: 63, 50
+  orig: 65, 52
+  offset: 1, 1
+  index: -1

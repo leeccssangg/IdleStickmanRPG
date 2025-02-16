@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 899b2ad08e5806841b4fe076008cf50c, type: 3}
+  m_Name: OrcMage_SC
+  m_EditorClassIdentifier: 
+  bulletAmout: 5
+  bulletSpeed: 0
+  bulletMaxSpeed: 0
+  bulletMinSpeed: 0
+  bulletAccel: 0
+  attackRange: 4
+  maxPiercingTarget: 0
+  piercing: 0
+  isComeBack: 0
+  bulletPrefabName: Bullet_Invisible
+  bulletEndEffectName: 
+  targetTeam: 1
+  ownerTeam: 0

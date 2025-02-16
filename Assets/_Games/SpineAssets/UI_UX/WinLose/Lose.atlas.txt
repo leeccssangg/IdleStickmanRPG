@@ -1,0 +1,69 @@
+
+Lose.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow_01
+  rotate: false
+  xy: 579, 572
+  size: 145, 55
+  orig: 147, 57
+  offset: 1, 1
+  index: -1
+Arrow_02
+  rotate: true
+  xy: 755, 449
+  size: 211, 141
+  orig: 213, 144
+  offset: 1, 1
+  index: -1
+Flag_Fail
+  rotate: false
+  xy: 2, 490
+  size: 575, 406
+  orig: 575, 406
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 317, 61
+  size: 248, 279
+  orig: 250, 281
+  offset: 1, 1
+  index: -1
+MISSION FAILED
+  rotate: false
+  xy: 317, 10
+  size: 447, 49
+  orig: 449, 51
+  offset: 1, 1
+  index: -1
+Ribb_F
+  rotate: false
+  xy: 2, 342
+  size: 751, 146
+  orig: 751, 146
+  offset: 0, 0
+  index: -1
+Shadow-Skull
+  rotate: true
+  xy: 567, 61
+  size: 247, 243
+  orig: 248, 243
+  offset: 1, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 2, 38
+  size: 313, 302
+  orig: 313, 302
+  offset: 0, 0
+  index: -1
+Skull
+  rotate: false
+  xy: 579, 629
+  size: 200, 267
+  orig: 200, 267
+  offset: 0, 0
+  index: -1

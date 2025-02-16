@@ -1,0 +1,258 @@
+
+EM02.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE/Arm
+  rotate: false
+  xy: 138, 218
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+BASE/Body
+  rotate: false
+  xy: 109, 152
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+BASE/Eye
+  rotate: true
+  xy: 166, 70
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+BASE/Finger
+  rotate: true
+  xy: 153, 3
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+BASE/Foot
+  rotate: true
+  xy: 174, 162
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+BASE/ForeArm
+  rotate: false
+  xy: 146, 115
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+BASE/Hand_1_Punch
+  rotate: true
+  xy: 128, 194
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_2_Punch
+  rotate: true
+  xy: 142, 50
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+BASE/Hand_3_Index
+  rotate: true
+  xy: 127, 152
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+BASE/Hand_4_Open
+  rotate: true
+  xy: 109, 219
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+BASE/Hand_5_Claw
+  rotate: false
+  xy: 109, 48
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+BASE/Hand_6_Up
+  rotate: true
+  xy: 100, 12
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_7_Gun
+  rotate: false
+  xy: 159, 197
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+BASE/Head
+  rotate: false
+  xy: 2, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BASE/Leg
+  rotate: true
+  xy: 49, 47
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+BASE/Thigh
+  rotate: true
+  xy: 2, 5
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+EM/Skin_1/Helmet
+  rotate: false
+  xy: 44, 24
+  size: 54, 21
+  orig: 56, 22
+  offset: 1, 1
+  index: -1
+EM/Skin_1/L_Bracer
+  rotate: true
+  xy: 159, 210
+  size: 19, 18
+  orig: 21, 20
+  offset: 1, 1
+  index: -1
+EM/Skin_1/R_Bracer
+  rotate: true
+  xy: 163, 122
+  size: 19, 17
+  orig: 21, 19
+  offset: 1, 1
+  index: -1
+EM/Skin_3/Helmet
+  rotate: true
+  xy: 88, 74
+  size: 54, 26
+  orig: 56, 28
+  offset: 1, 1
+  index: -1
+EM/Skin_3/L_Bracer
+  rotate: false
+  xy: 145, 90
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+EM/Skin_3/L_Shoulder
+  rotate: false
+  xy: 170, 101
+  size: 13, 19
+  orig: 15, 21
+  offset: 1, 1
+  index: -1
+EM/Skin_3/R_Bracer
+  rotate: false
+  xy: 153, 25
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+EM/Skin_3/R_Leg
+  rotate: false
+  xy: 116, 81
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+EM/Skin_3/R_Shoulder
+  rotate: false
+  xy: 158, 231
+  size: 18, 23
+  orig: 20, 25
+  offset: 1, 1
+  index: -1
+EM/Skin_5/Helmet
+  rotate: true
+  xy: 54, 72
+  size: 56, 32
+  orig: 58, 34
+  offset: 1, 1
+  index: -1
+EM/Skin_5/L_Bracer
+  rotate: false
+  xy: 116, 118
+  size: 28, 32
+  orig: 30, 34
+  offset: 1, 1
+  index: -1
+EM/Skin_5/L_Shoulder
+  rotate: false
+  xy: 163, 143
+  size: 14, 23
+  orig: 16, 25
+  offset: 1, 1
+  index: -1
+EM/Skin_5/R_Bracer
+  rotate: false
+  xy: 131, 9
+  size: 20, 37
+  orig: 22, 39
+  offset: 1, 1
+  index: -1
+EM/Skin_5/R_Leg
+  rotate: true
+  xy: 2, 43
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+EM/Skin_5/R_Shoulder
+  rotate: false
+  xy: 150, 168
+  size: 19, 24
+  orig: 21, 26
+  offset: 1, 1
+  index: -1
+EM/Stick_1
+  rotate: false
+  xy: 80, 133
+  size: 13, 121
+  orig: 15, 123
+  offset: 1, 1
+  index: -1
+EM/Stick_2
+  rotate: false
+  xy: 95, 130
+  size: 12, 124
+  orig: 14, 126
+  offset: 1, 1
+  index: -1
+EM/Stick_3
+  rotate: false
+  xy: 63, 130
+  size: 15, 124
+  orig: 17, 126
+  offset: 1, 1
+  index: -1
+EM/Stick_4
+  rotate: false
+  xy: 36, 131
+  size: 25, 123
+  orig: 27, 125
+  offset: 1, 1
+  index: -1
+EM/Stick_5
+  rotate: false
+  xy: 2, 128
+  size: 32, 126
+  orig: 34, 128
+  offset: 1, 1
+  index: -1

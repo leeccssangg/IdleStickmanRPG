@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 512,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Attack/ER01/ER01001
+  rotate: 180
+  xy: 152, 336
+  size: 191, 99
+  orig: 202, 107
+  offset: 11, 0
+  index: -1
+FX/Attack/ER01/ER01002
+  rotate: false
+  xy: 2, 327
+  size: 150, 107
+  orig: 202, 107
+  offset: 35, 0
+  index: -1
+FX/Attack/ER01/ER01003
+  rotate: false
+  xy: 152, 236
+  size: 174, 99
+  orig: 202, 107
+  offset: 16, 0
+  index: -1
+FX/Attack/ER01/ER01004
+  rotate: 180
+  xy: 326, 216
+  size: 173, 100
+  orig: 202, 107
+  offset: 19, 0
+  index: -1
+FX/Skill/SKill_ER01/ER010001
+  rotate: true
+  xy: 347, 148
+  size: 68, 162
+  orig: 162, 162
+  offset: 79, 0
+  index: -1
+FX/Skill/SKill_ER01/ER010002
+  rotate: 270
+  xy: 348, 99
+  size: 49, 162
+  orig: 162, 162
+  offset: 95, 0
+  index: -1
+FX/Skill/SKill_ER01/ER010003
+  rotate: true
+  xy: 348, 46
+  size: 44, 162
+  orig: 162, 162
+  offset: 101, 0
+  index: -1
+FX/Skill/SKill_ER01/ER010004
+  rotate: true
+  xy: 184, 89
+  size: 49, 162
+  orig: 162, 162
+  offset: 96, 0
+  index: -1
+FX/Skill/SKill_ER01/ER010005
+  rotate: true
+  xy: 266, 4
+  size: 84, 85
+  orig: 162, 162
+  offset: 78, 32
+  index: -1
+FX/Skill/SKill_ER01/ER010006
+  rotate: 180
+  xy: 123, 13
+  size: 88, 87
+  orig: 162, 162
+  offset: 65, 39
+  index: -1
+FX/Skill/SKill_ER01/ER010007
+  rotate: false
+  xy: 55, 111
+  size: 131, 83
+  orig: 162, 162
+  offset: 31, 32
+  index: -1
+FX/Skill/SKill_ER01/ER010008
+  rotate: false
+  xy: 2, 21
+  size: 121, 93
+  orig: 162, 162
+  offset: 30, 35
+  index: -1
+FX/Skill/SKill_ER01/ER010009
+  rotate: 180
+  xy: 187, 137
+  size: 145, 112
+  orig: 162, 162
+  offset: 0, 20
+  index: -1
+FX/Skill/SKill_ER01/ER010010
+  rotate: true
+  xy: 2, 188
+  size: 138, 148
+  orig: 162, 162
+  offset: 0, 6
+  index: -1
+FX/Skill/SKill_ER01/ER010011
+  rotate: true
+  xy: 327, 295
+  size: 139, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1

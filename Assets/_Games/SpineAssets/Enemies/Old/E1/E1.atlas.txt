@@ -1,0 +1,55 @@
+
+E1.png
+size: 395,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 151, 219
+  orig: 151, 219
+  offset: 0, 0
+  index: -1
+CLOSE-eyes
+  rotate: true
+  xy: 278, 17
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 312, 65
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+OPEN-eys
+  rotate: true
+  xy: 323, 19
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: true
+  xy: 223, 63
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+eyes-BASE
+  rotate: true
+  xy: 223, 4
+  size: 57, 53
+  orig: 58, 63
+  offset: 1, 6
+  index: -1
+mouth
+  rotate: true
+  xy: 368, 36
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1

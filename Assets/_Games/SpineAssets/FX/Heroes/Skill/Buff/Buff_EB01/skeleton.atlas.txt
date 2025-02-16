@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 344,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Buff/EB01/Heal 2
+  rotate: true
+  xy: 2, 219
+  size: 74, 242
+  orig: 74, 250
+  offset: 0, 8
+  index: -1
+FX/Buff/EB01/Line 1
+  rotate: true
+  xy: 34, 295
+  size: 47, 198
+  orig: 47, 198
+  offset: 0, 0
+  index: -1
+FX/Buff/EB01/Ray light
+  rotate: false
+  xy: 136, 69
+  size: 151, 139
+  orig: 155, 144
+  offset: 2, 2
+  index: -1
+FX/Buff/EB01/Star 
+  rotate: false
+  xy: 2, 312
+  size: 30, 30
+  orig: 36, 37
+  offset: 5, 4
+  index: -1
+FX/Buff/EB01/Time 1
+  rotate: false
+  xy: 246, 210
+  size: 96, 132
+  orig: 98, 134
+  offset: 1, 1
+  index: -1
+FX/Buff/EB01/Time 2
+  rotate: true
+  xy: 2, 121
+  size: 96, 132
+  orig: 98, 134
+  offset: 1, 1
+  index: -1

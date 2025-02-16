@@ -1,0 +1,272 @@
+
+ER01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE/Arm
+  rotate: false
+  xy: 194, 52
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+BASE/Body
+  rotate: false
+  xy: 237, 51
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+BASE/Eye
+  rotate: false
+  xy: 10, 13
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+BASE/Finger
+  rotate: false
+  xy: 154, 5
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+BASE/Foot
+  rotate: false
+  xy: 2, 69
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+BASE/ForeArm
+  rotate: false
+  xy: 185, 15
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+BASE/Hand_1_Punch
+  rotate: false
+  xy: 214, 59
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_2_Punch
+  rotate: false
+  xy: 120, 70
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+BASE/Hand_3_Index
+  rotate: false
+  xy: 192, 90
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+BASE/Hand_4_Open
+  rotate: true
+  xy: 210, 116
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+BASE/Hand_5_Claw
+  rotate: false
+  xy: 2, 81
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+BASE/Hand_6_Up
+  rotate: true
+  xy: 215, 153
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_7_Gun
+  rotate: false
+  xy: 128, 118
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+BASE/Head
+  rotate: false
+  xy: 163, 174
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BASE/Leg
+  rotate: true
+  xy: 6, 107
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+BASE/Thigh
+  rotate: true
+  xy: 128, 94
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+ER/Bow_1
+  rotate: true
+  xy: 2, 9
+  size: 37, 162
+  orig: 37, 162
+  offset: 0, 0
+  index: -1
+ER/Bow_2
+  rotate: true
+  xy: 2, 28
+  size: 39, 161
+  orig: 39, 161
+  offset: 0, 0
+  index: -1
+ER/Bow_4
+  rotate: false
+  xy: 86, 59
+  size: 40, 165
+  orig: 40, 165
+  offset: 0, 0
+  index: -1
+ER/Bow_5
+  rotate: false
+  xy: 52, 50
+  size: 45, 174
+  orig: 45, 174
+  offset: 0, 0
+  index: -1
+ER/Quiver_1
+  rotate: false
+  xy: 128, 131
+  size: 33, 93
+  orig: 35, 95
+  offset: 1, 1
+  index: -1
+ER/Quiver_3
+  rotate: false
+  xy: 2, 133
+  size: 48, 91
+  orig: 50, 93
+  offset: 1, 1
+  index: -1
+ER/Rope
+  rotate: true
+  xy: 2, 3
+  size: 4, 150
+  orig: 4, 150
+  offset: 0, 0
+  index: -1
+ER/Skin_1/L_Bracer
+  rotate: false
+  xy: 104, 203
+  size: 20, 21
+  orig: 22, 23
+  offset: 1, 1
+  index: -1
+ER/Skin_1/L_Shoulder
+  rotate: false
+  xy: 139, 14
+  size: 13, 16
+  orig: 15, 18
+  offset: 1, 1
+  index: -1
+ER/Skin_1/R_Bracer
+  rotate: false
+  xy: 225, 4
+  size: 16, 22
+  orig: 18, 24
+  offset: 1, 1
+  index: -1
+ER/Skin_1/R_Shoulder
+  rotate: false
+  xy: 52, 161
+  size: 15, 21
+  orig: 17, 23
+  offset: 1, 1
+  index: -1
+ER/Skin_3/L_Bracer
+  rotate: false
+  xy: 35, 84
+  size: 20, 21
+  orig: 22, 23
+  offset: 1, 1
+  index: -1
+ER/Skin_3/L_Shoulder
+  rotate: false
+  xy: 239, 133
+  size: 14, 18
+  orig: 16, 20
+  offset: 1, 1
+  index: -1
+ER/Skin_3/Mask
+  rotate: false
+  xy: 163, 113
+  size: 45, 28
+  orig: 47, 30
+  offset: 1, 1
+  index: -1
+ER/Skin_3/R_Bracer
+  rotate: false
+  xy: 102, 53
+  size: 16, 25
+  orig: 18, 27
+  offset: 1, 1
+  index: -1
+ER/Skin_3/R_Leg
+  rotate: false
+  xy: 215, 188
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+ER/Skin_3/R_Shoulder
+  rotate: false
+  xy: 235, 28
+  size: 19, 21
+  orig: 21, 23
+  offset: 1, 1
+  index: -1
+ER/Skin_5/L_Bracer
+  rotate: false
+  xy: 202, 4
+  size: 21, 23
+  orig: 23, 25
+  offset: 1, 1
+  index: -1
+ER/Skin_5/L_Shoulder
+  rotate: false
+  xy: 214, 29
+  size: 19, 28
+  orig: 21, 30
+  offset: 1, 1
+  index: -1
+ER/Skin_5/R_Bracer
+  rotate: false
+  xy: 166, 29
+  size: 17, 32
+  orig: 19, 34
+  offset: 1, 1
+  index: -1
+ER/Skin_5/R_Leg
+  rotate: true
+  xy: 163, 143
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+ER/Skin_5/R_Shoulder
+  rotate: false
+  xy: 165, 63
+  size: 27, 25
+  orig: 29, 27
+  offset: 1, 1
+  index: -1

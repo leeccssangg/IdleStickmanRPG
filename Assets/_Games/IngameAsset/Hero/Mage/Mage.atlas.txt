@@ -1,0 +1,97 @@
+
+Mage.png
+size: 401,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: true
+  xy: 68, 5
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 297, 4
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: false
+  xy: 137, 8
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 346, 50
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Knee
+  rotate: true
+  xy: 166, 3
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 346, 13
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+Mage/Face
+  rotate: false
+  xy: 166, 30
+  size: 96, 73
+  orig: 98, 75
+  offset: 1, 1
+  index: -1
+Mage/Hiar
+  rotate: true
+  xy: 264, 30
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+Mage/Tesla
+  rotate: false
+  xy: 2, 27
+  size: 162, 76
+  orig: 164, 78
+  offset: 1, 1
+  index: -1
+R_Arm
+  rotate: true
+  xy: 297, 18
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1
+R_Elbow
+  rotate: true
+  xy: 259, 12
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 227, 5
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Thigh
+  rotate: true
+  xy: 2, 2
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1

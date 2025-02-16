@@ -1,0 +1,202 @@
+
+DB01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE/Arm
+  rotate: false
+  xy: 193, 58
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+BASE/Body
+  rotate: true
+  xy: 69, 7
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+BASE/Eye
+  rotate: false
+  xy: 35, 206
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+BASE/Foot
+  rotate: true
+  xy: 94, 194
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+BASE/ForeArm
+  rotate: false
+  xy: 210, 116
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+BASE/Hand_1_Punch
+  rotate: false
+  xy: 193, 153
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_2_Punch
+  rotate: true
+  xy: 195, 198
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+BASE/Hand_3_Index
+  rotate: true
+  xy: 187, 96
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+BASE/Hand_4_Open
+  rotate: false
+  xy: 149, 7
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+BASE/Hand_5_Claw
+  rotate: true
+  xy: 186, 3
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+BASE/Hand_6_Up
+  rotate: false
+  xy: 34, 6
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+BASE/Hand_7_Gun
+  rotate: false
+  xy: 195, 184
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+BASE/Head
+  rotate: false
+  xy: 108, 177
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BASE/Leg
+  rotate: false
+  xy: 166, 36
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+BASE/Thigh
+  rotate: true
+  xy: 85, 26
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+DB/3_L_Bracer
+  rotate: false
+  xy: 114, 147
+  size: 35, 28
+  orig: 37, 30
+  offset: 1, 1
+  index: -1
+DB/3_R_Bracer
+  rotate: true
+  xy: 2, 11
+  size: 35, 30
+  orig: 37, 32
+  offset: 1, 1
+  index: -1
+DB/5_L_Bracer
+  rotate: true
+  xy: 2, 72
+  size: 33, 37
+  orig: 35, 39
+  offset: 1, 1
+  index: -1
+DB/5_R_Bracer
+  rotate: false
+  xy: 152, 96
+  size: 33, 41
+  orig: 35, 43
+  offset: 1, 1
+  index: -1
+DB/Bracer_1
+  rotate: false
+  xy: 41, 84
+  size: 22, 14
+  orig: 24, 16
+  offset: 1, 1
+  index: -1
+DB/Bracer_2
+  rotate: true
+  xy: 212, 21
+  size: 35, 14
+  orig: 37, 16
+  offset: 1, 1
+  index: -1
+DB/R_Bracer_4
+  rotate: true
+  xy: 160, 184
+  size: 35, 33
+  orig: 37, 35
+  offset: 1, 1
+  index: -1
+DB/Skin_1/Horn
+  rotate: false
+  xy: 160, 139
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+DB/Skin_1/R_Wing
+  rotate: 180
+  xy: 33, 101
+  size: 79, 126
+  orig: 79, 126
+  offset: 0, 0
+  index: -1
+DB/Skin_3/Horn
+  rotate: false
+  xy: 114, 96
+  size: 36, 49
+  orig: 38, 51
+  offset: 1, 1
+  index: -1
+DB/Skin_3/R_Wing
+  rotate: 270
+  xy: 4, 37
+  size: 78, 127
+  orig: 78, 127
+  offset: 0, 0
+  index: -1
+DB/Skin_5/Horn_v2
+  rotate: false
+  xy: 133, 45
+  size: 31, 49
+  orig: 33, 51
+  offset: 1, 1
+  index: -1
+DB/Skin_5/R_Wing
+  rotate: false
+  xy: 2, 100
+  size: 78, 127
+  orig: 78, 127
+  offset: 0, 0
+  index: -1

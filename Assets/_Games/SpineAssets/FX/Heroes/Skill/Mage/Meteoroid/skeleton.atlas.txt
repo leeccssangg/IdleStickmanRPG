@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 448,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Skill/Fire/Boom_03
+  rotate: false
+  xy: 174, 277
+  size: 137, 84
+  orig: 200, 200
+  offset: 37, 30
+  index: -1
+FX/Skill/Fire/Boom_05
+  rotate: false
+  xy: 2, 189
+  size: 141, 90
+  orig: 200, 200
+  offset: 32, 30
+  index: -1
+FX/Skill/Fire/Boom_07
+  rotate: false
+  xy: 145, 180
+  size: 146, 95
+  orig: 200, 200
+  offset: 26, 30
+  index: -1
+FX/Skill/Fire/Boom_09
+  rotate: false
+  xy: 293, 159
+  size: 151, 99
+  orig: 200, 200
+  offset: 20, 30
+  index: -1
+FX/Skill/Fire/Boom_11
+  rotate: false
+  xy: 134, 77
+  size: 149, 101
+  orig: 200, 200
+  offset: 19, 30
+  index: -1
+FX/Skill/Fire/Boom_13
+  rotate: false
+  xy: 285, 55
+  size: 143, 102
+  orig: 200, 200
+  offset: 21, 30
+  index: -1
+FX/Skill/Fire/Boom_15
+  rotate: false
+  xy: 2, 85
+  size: 130, 102
+  orig: 200, 200
+  offset: 31, 30
+  index: -1
+FX/Skill/Fire/Boom_17
+  rotate: false
+  xy: 313, 260
+  size: 122, 101
+  orig: 200, 200
+  offset: 36, 30
+  index: -1
+FX/Skill/Fire/Boom_23
+  rotate: false
+  xy: 2, 372
+  size: 78, 72
+  orig: 200, 200
+  offset: 70, 32
+  index: -1
+FX/Skill/Fire/Fire_01
+  rotate: true
+  xy: 82, 366
+  size: 78, 156
+  orig: 200, 200
+  offset: 63, 3
+  index: -1
+FX/Skill/Fire/Fire_09
+  rotate: true
+  xy: 240, 363
+  size: 81, 167
+  orig: 200, 200
+  offset: 61, 3
+  index: -1
+FX/Skill/Fire/Fire_11
+  rotate: true
+  xy: 2, 281
+  size: 83, 170
+  orig: 200, 200
+  offset: 60, 3
+  index: -1

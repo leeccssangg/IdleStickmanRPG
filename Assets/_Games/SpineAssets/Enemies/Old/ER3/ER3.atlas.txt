@@ -1,0 +1,153 @@
+
+ER3.png
+size: 383,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 234
+  size: 200, 160
+  orig: 200, 160
+  offset: 0, 0
+  index: -1
+CO` Sung
+  rotate: false
+  xy: 317, 74
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+Close-Eyes
+  rotate: true
+  xy: 196, 3
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2, 78
+  size: 183, 154
+  orig: 183, 154
+  offset: 0, 0
+  index: -1
+Guns
+  rotate: false
+  xy: 2, 396
+  size: 230, 132
+  orig: 230, 132
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 2, 2
+  size: 192, 74
+  orig: 192, 74
+  offset: 0, 0
+  index: -1
+L-Ear
+  rotate: false
+  xy: 187, 155
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: false
+  xy: 339, 310
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+L_Elbow
+  rotate: false
+  xy: 250, 230
+  size: 87, 78
+  orig: 87, 78
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 235, 83
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 250, 310
+  size: 87, 91
+  orig: 87, 91
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 239, 164
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+L_Thight
+  rotate: true
+  xy: 317, 119
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 204, 276
+  size: 118, 44
+  orig: 118, 44
+  offset: 0, 0
+  index: -1
+Open-Eyes
+  rotate: false
+  xy: 239, 114
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+R-Ear
+  rotate: false
+  xy: 187, 81
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+R_Finger
+  rotate: false
+  xy: 310, 171
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 339, 243
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 234, 403
+  size: 139, 125
+  orig: 139, 125
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 246, 22
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+R_Thight
+  rotate: true
+  xy: 306, 17
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1

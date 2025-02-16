@@ -1,0 +1,153 @@
+
+ER6.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-Leaf
+  rotate: true
+  xy: 273, 31
+  size: 209, 93
+  orig: 209, 93
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 77
+  size: 181, 163
+  orig: 183, 165
+  offset: 1, 1
+  index: -1
+Close-Eyes
+  rotate: false
+  xy: 360, 105
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+F-Leaf
+  rotate: true
+  xy: 185, 60
+  size: 180, 86
+  orig: 180, 86
+  offset: 0, 0
+  index: -1
+Hair-1
+  rotate: true
+  xy: 62, 2
+  size: 35, 38
+  orig: 37, 47
+  offset: 1, 7
+  index: -1
+Hair-2
+  rotate: false
+  xy: 2, 6
+  size: 31, 24
+  orig: 34, 26
+  offset: 2, 1
+  index: -1
+Hair-3
+  rotate: true
+  xy: 317, 22
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+Hair-4
+  rotate: true
+  xy: 371, 25
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Hair-5
+  rotate: true
+  xy: 128, 21
+  size: 37, 69
+  orig: 37, 76
+  offset: 0, 7
+  index: -1
+Hair-6
+  rotate: true
+  xy: 429, 67
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+L- Puffy cheeks
+  rotate: true
+  xy: 456, 111
+  size: 55, 49
+  orig: 57, 51
+  offset: 1, 1
+  index: -1
+L-Foot
+  rotate: false
+  xy: 424, 168
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+L-Hand
+  rotate: true
+  xy: 62, 39
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+Mouth copy-Shot
+  rotate: true
+  xy: 368, 154
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+Mouth-Idle
+  rotate: false
+  xy: 2, 32
+  size: 58, 43
+  orig: 60, 45
+  offset: 1, 1
+  index: -1
+Mouth-ZoomOut
+  rotate: false
+  xy: 334, 212
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+Nose
+  rotate: false
+  xy: 240, 11
+  size: 37, 18
+  orig: 40, 21
+  offset: 1, 1
+  index: -1
+Open-Eyes
+  rotate: false
+  xy: 338, 60
+  size: 89, 43
+  orig: 89, 43
+  offset: 0, 0
+  index: -1
+R- Puffy cheeks
+  rotate: false
+  xy: 199, 19
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+R-Foot
+  rotate: false
+  xy: 472, 176
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+R-Hand
+  rotate: true
+  xy: 429, 29
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1

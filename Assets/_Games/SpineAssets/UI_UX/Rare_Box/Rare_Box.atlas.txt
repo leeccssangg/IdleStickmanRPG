@@ -1,0 +1,34 @@
+
+Rare_Box.png
+size: 504,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Behind_Box
+  rotate: false
+  xy: 261, 140
+  size: 240, 98
+  orig: 242, 101
+  offset: 1, 1
+  index: -1
+Front_Box
+  rotate: false
+  xy: 2, 89
+  size: 257, 133
+  orig: 259, 135
+  offset: 1, 1
+  index: -1
+Lid
+  rotate: true
+  xy: 261, 240
+  size: 261, 164
+  orig: 261, 164
+  offset: 0, 0
+  index: -1
+RARE_Closed
+  rotate: false
+  xy: 2, 224
+  size: 257, 277
+  orig: 259, 279
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 512,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Attack/HR01/HR010002
+  rotate: true
+  xy: 479, 27
+  size: 54, 30
+  orig: 71, 42
+  offset: 8, 6
+  index: -1
+FX/Attack/HR01/HR010003
+  rotate: false
+  xy: 229, 3
+  size: 55, 26
+  orig: 71, 42
+  offset: 7, 8
+  index: -1
+FX/Attack/HR01/HR010004
+  rotate: true
+  xy: 449, 22
+  size: 59, 28
+  orig: 71, 42
+  offset: 7, 7
+  index: -1
+FX/Attack/HR01/HR010005
+  rotate: false
+  xy: 339, 2
+  size: 54, 29
+  orig: 71, 42
+  offset: 7, 7
+  index: -1
+FX/Attack/HR01/HR010006
+  rotate: false
+  xy: 339, 2
+  size: 54, 29
+  orig: 71, 42
+  offset: 7, 7
+  index: -1
+FX/Skill/Skill_HR01/SkillHR01_00
+  rotate: false
+  xy: 339, 33
+  size: 108, 48
+  orig: 135, 83
+  offset: 7, 15
+  index: -1
+FX/Skill/Skill_HR01/SkillHR01_01
+  rotate: false
+  xy: 229, 31
+  size: 108, 50
+  orig: 135, 83
+  offset: 7, 14
+  index: -1
+FX/Skill/Skill_HR01/SkillHR01_02
+  rotate: false
+  xy: 377, 83
+  size: 117, 69
+  orig: 135, 83
+  offset: 4, 6
+  index: -1
+FX/Skill/Skill_HR01/SkillHR01_03
+  rotate: false
+  xy: 2, 12
+  size: 117, 69
+  orig: 135, 83
+  offset: 4, 6
+  index: -1
+FX/Skill/Skill_HR01/SkillHR01_04
+  rotate: false
+  xy: 128, 83
+  size: 123, 69
+  orig: 135, 83
+  offset: 4, 6
+  index: -1
+FX/Skill/Skill_HR01/SkillHR01_05
+  rotate: false
+  xy: 2, 83
+  size: 124, 69
+  orig: 135, 83
+  offset: 4, 6
+  index: -1
+FX/Skill/Skill_HR01/SkillHR01_06
+  rotate: false
+  xy: 253, 83
+  size: 122, 69
+  orig: 135, 83
+  offset: 6, 6
+  index: -1
+FX/Skill/Skill_HR01/SkillHR01_09
+  rotate: false
+  xy: 121, 14
+  size: 106, 67
+  orig: 135, 83
+  offset: 21, 7
+  index: -1

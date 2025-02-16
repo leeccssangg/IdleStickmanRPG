@@ -1,0 +1,174 @@
+
+Spider_Video.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 135, 23
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+Box
+  rotate: false
+  xy: 2, 19
+  size: 131, 117
+  orig: 133, 119
+  offset: 1, 1
+  index: -1
+Close-Eyes
+  rotate: true
+  xy: 289, 65
+  size: 71, 35
+  orig: 73, 37
+  offset: 1, 1
+  index: -1
+Eyes_Bow
+  rotate: false
+  xy: 156, 8
+  size: 23, 13
+  orig: 25, 15
+  offset: 1, 1
+  index: -1
+L_Arm_01
+  rotate: false
+  xy: 337, 8
+  size: 29, 20
+  orig: 31, 23
+  offset: 1, 1
+  index: -1
+L_Elbow_01
+  rotate: true
+  xy: 289, 28
+  size: 35, 46
+  orig: 37, 48
+  offset: 1, 1
+  index: -1
+L_Hand_01
+  rotate: true
+  xy: 427, 54
+  size: 36, 46
+  orig: 39, 48
+  offset: 2, 1
+  index: -1
+Line
+  rotate: false
+  xy: 411, 14
+  size: 14, 123
+  orig: 14, 124
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 363, 84
+  size: 52, 46
+  orig: 54, 48
+  offset: 1, 1
+  index: -1
+Opem-Eyes
+  rotate: true
+  xy: 326, 65
+  size: 71, 35
+  orig: 73, 37
+  offset: 1, 1
+  index: -1
+Play
+  rotate: false
+  xy: 467, 95
+  size: 33, 41
+  orig: 35, 43
+  offset: 1, 1
+  index: -1
+R_Arm_01
+  rotate: false
+  xy: 286, 5
+  size: 27, 21
+  orig: 30, 23
+  offset: 1, 1
+  index: -1
+R_Arm_02
+  rotate: false
+  xy: 427, 6
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+R_Arm_03
+  rotate: false
+  xy: 135, 2
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+R_Arm_04
+  rotate: false
+  xy: 315, 3
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+R_Elbow_01
+  rotate: true
+  xy: 337, 30
+  size: 33, 48
+  orig: 36, 50
+  offset: 1, 1
+  index: -1
+R_Elbow_02
+  rotate: true
+  xy: 475, 19
+  size: 37, 28
+  orig: 39, 31
+  offset: 1, 2
+  index: -1
+R_Elbow_03
+  rotate: true
+  xy: 387, 46
+  size: 36, 20
+  orig: 38, 22
+  offset: 1, 1
+  index: -1
+R_Elbow_04
+  rotate: false
+  xy: 387, 11
+  size: 20, 33
+  orig: 22, 35
+  offset: 1, 1
+  index: -1
+R_Hand_01
+  rotate: false
+  xy: 427, 92
+  size: 38, 44
+  orig: 40, 46
+  offset: 1, 1
+  index: -1
+R_Hand_02
+  rotate: true
+  xy: 427, 24
+  size: 28, 44
+  orig: 31, 46
+  offset: 2, 1
+  index: -1
+R_Hand_03
+  rotate: false
+  xy: 475, 58
+  size: 31, 35
+  orig: 33, 37
+  offset: 1, 1
+  index: -1
+R_Hand_04
+  rotate: false
+  xy: 246, 18
+  size: 38, 25
+  orig: 40, 27
+  offset: 1, 1
+  index: -1
+Shape 15
+  rotate: true
+  xy: 246, 45
+  size: 91, 41
+  orig: 91, 41
+  offset: 0, 0
+  index: -1

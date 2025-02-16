@@ -1,0 +1,181 @@
+
+skeleton.png
+size: 416,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Skill/Ice_Spike/Ice 1
+  rotate: false
+  xy: 242, 163
+  size: 97, 85
+  orig: 99, 86
+  offset: 1, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 10
+  rotate: false
+  xy: 368, 79
+  size: 32, 41
+  orig: 34, 42
+  offset: 1, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 11
+  rotate: true
+  xy: 383, 137
+  size: 32, 31
+  orig: 34, 39
+  offset: 1, 7
+  index: -1
+FX/Skill/Ice_Spike/Ice 12
+  rotate: false
+  xy: 285, 58
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 13
+  rotate: true
+  xy: 379, 171
+  size: 51, 25
+  orig: 53, 25
+  offset: 1, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 2
+  rotate: false
+  xy: 129, 235
+  size: 100, 126
+  orig: 102, 127
+  offset: 1, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 3
+  rotate: true
+  xy: 129, 139
+  size: 94, 111
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 4
+  rotate: true
+  xy: 209, 58
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 5
+  rotate: true
+  xy: 118, 177
+  size: 19, 9
+  orig: 21, 9
+  offset: 1, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 6
+  rotate: false
+  xy: 242, 126
+  size: 97, 35
+  orig: 98, 36
+  offset: 1, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 7
+  rotate: false
+  xy: 341, 122
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 8
+  rotate: false
+  xy: 383, 122
+  size: 22, 13
+  orig: 24, 14
+  offset: 1, 0
+  index: -1
+FX/Skill/Ice_Spike/Ice 9
+  rotate: true
+  xy: 402, 98
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+FX/Skill/Ice_Spike/Light
+  rotate: false
+  xy: 2, 363
+  size: 390, 24
+  orig: 444, 27
+  offset: 27, 2
+  index: -1
+FX/Skill/Ice_Spike/MIce 1
+  rotate: false
+  xy: 231, 250
+  size: 113, 111
+  orig: 117, 113
+  offset: 2, 0
+  index: -1
+FX/Skill/Ice_Spike/MIce 10
+  rotate: false
+  xy: 341, 170
+  size: 36, 52
+  orig: 40, 54
+  offset: 2, 0
+  index: -1
+FX/Skill/Ice_Spike/MIce 11
+  rotate: false
+  xy: 118, 43
+  size: 37, 27
+  orig: 40, 36
+  offset: 1, 7
+  index: -1
+FX/Skill/Ice_Spike/MIce 12
+  rotate: false
+  xy: 346, 271
+  size: 61, 90
+  orig: 64, 91
+  offset: 2, 0
+  index: -1
+FX/Skill/Ice_Spike/MIce 13
+  rotate: true
+  xy: 338, 67
+  size: 53, 28
+  orig: 55, 29
+  offset: 1, 0
+  index: -1
+FX/Skill/Ice_Spike/MIce 2
+  rotate: false
+  xy: 2, 198
+  size: 125, 163
+  orig: 129, 165
+  offset: 2, 0
+  index: -1
+FX/Skill/Ice_Spike/MIce 3
+  rotate: false
+  xy: 2, 62
+  size: 114, 134
+  orig: 118, 136
+  offset: 2, 0
+  index: -1
+FX/Skill/Ice_Spike/MIce 4
+  rotate: true
+  xy: 118, 72
+  size: 65, 89
+  orig: 69, 91
+  offset: 2, 0
+  index: -1
+FX/Skill/Ice_Spike/MIce 6
+  rotate: false
+  xy: 2, 15
+  size: 106, 45
+  orig: 110, 47
+  offset: 2, 0
+  index: -1
+FX/Skill/Ice_Spike/MIce 7
+  rotate: true
+  xy: 346, 224
+  size: 45, 59
+  orig: 47, 60
+  offset: 1, 0
+  index: -1
+FX/Skill/Ice_Spike/Shadow
+  rotate: false
+  xy: 2, 389
+  size: 408, 25
+  orig: 444, 27
+  offset: 18, 1
+  index: -1
